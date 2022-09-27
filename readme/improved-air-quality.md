@@ -1,0 +1,3 @@
+# Improved air quality
+
+By increasing air movement and improving air distribution in a space, ceiling fans also improve air quality. The increased air movement prevents the sensation of stale or stuffy air, and can help dissipate odors. One recent study has also documented a measurable air quality improvement from ceiling fans by dissipating CO2 and other exhaled pollutants that would otherwise gather near occupants in still air conditions. Large-scale studies of occupant survey data indicate that occupants would prefer more air movement than they have, especially in conditions where occupants report feeling warm, as illustrated in Figure 4.
