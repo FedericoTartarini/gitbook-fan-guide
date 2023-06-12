@@ -4,8 +4,6 @@
 * [Practitioner summary](practitioner-summary/README.md)
   * [Practitioner summary (format 1)](practitioner-summary/practitioner-summary-format-1.md)
 * [Full guidebook](full-guidebook.md)
-* [Acknowledgment and how to cite](acknowledgment-and-how-to-cite.md)
-* [Version](version.md)
 
 ## Practitioner summary
 
@@ -15,3 +13,9 @@
 
 * [Elevated air speed and thermal comfort](elevated-air-speed-and-thermal-comfort.md)
 * [Fan options and considerable metrics](fan-options-and-considerable-metrics.md)
+
+## About this work
+
+* [Acknowledgment](about-this-work/acknowledgment.md)
+* [To cite this work](about-this-work/to-cite-this-work.md)
+* [Version](about-this-work/version.md)
