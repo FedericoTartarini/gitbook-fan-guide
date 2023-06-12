@@ -1,3 +1,0 @@
-# Full guide
-
-Full

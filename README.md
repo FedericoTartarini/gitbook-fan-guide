@@ -1,3 +1,7 @@
+---
+description: One page summary of the guidebook
+---
+
 # Executive summary
 
 Using fans alone or in coordination with HVAC systems to cool people offers several significant enhancements compared to conventional HVAC systems, including improved thermal comfort, indoor air quality, air distribution, energy savings, and initial cost savings.
