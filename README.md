@@ -24,12 +24,10 @@ Designing a successful fans-integrated system involves more than adding fans to 
 
 This guidebook recommends using the [CBE Thermal Comfort Tool](https://comfort.cbe.berkeley.edu/) and the [CBE Ceiling Fan Design Tool](https://centerforthebuiltenvironment.github.io/fan-tool/). These tools enable users to define the comfort zone with elevated air speed and determine the optimal arrangement of ceiling fans based on room conditions specified by the users. In addition, the guidebook highlights relevant codes and standards related to environmental conditions, fan testing procedures, fire safety, and seismic requirements (subject to variations in different countries' regulations). Furthermore, we presented several case studies of buildings successfully implementing the fan-integrated HVAC system.
 
-We released two versions of our guidebook online: the Practitioner Summary and the Full Guide. These resources are designed to provide users in the selection, design, construction, operation, and implementation of fans-integrated HVAC systems. The Practitioner Summary offers a concise overview ([\~20 pages](#user-content-fn-1)[^1]) of key considerations for building practitioners, providing brief descriptions of the fan-integrated system. In contrast, the Full Guide provides a more comprehensive exploration ([<mark style="color:purple;">\~XX pages</mark>](#user-content-fn-2)[^2]) of the fan and fan-integrated system, including real building references, catering to users from diverse backgrounds. Fans and fans-integrated HVAC systems will result in more sustainable and healthy buildings.
+We released two versions of our guidebook online: the Practitioner Summary and the Full Guide. These resources are designed to provide users in the selection, design, construction, operation, and implementation of fans-integrated HVAC systems. The [Practitioner Summary](practitioner-summary.md) offers a concise overview ([\~15 pages](#user-content-fn-1)[^1]) of key considerations for building practitioners, providing brief descriptions of the fan-integrated system. In contrast, the [Full Guidebook](full-guidebook.md) provides a more comprehensive exploration (\~ 70 pages) of the fan and fan-integrated system, including real building references, catering to users from diverse backgrounds. Fans and fans-integrated HVAC systems will result in more sustainable and healthy buildings.
 
 
 
 [^1]: To estimate the number of pages, please count all the words and divide by 500. Then round the value.&#x20;
 
     For example, 10300 words = \~21 pages&#x20;
-
-[^2]: 
