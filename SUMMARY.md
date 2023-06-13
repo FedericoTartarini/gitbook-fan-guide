@@ -14,12 +14,13 @@
 * [Elevated air speed and thermal comfort](elevated-air-speed-and-thermal-comfort.md)
 * [Fan options and considerable metrics](fan-options-and-considerable-metrics.md)
 
-## Fan Guide
+## Fans for cooling people guidebook
 
-* [Benefits of elevated air speed](fan-guide/benefits-of-elevated-air-speed.md)
-* [Elevated air speed and thermal comfort](fan-guide/elevated-air-speed-and-thermal-comfort.md)
-* [Prior to elevated air movement design](fan-guide/prior-to-elevated-air-movement-design.md)
-* [Other air movement devices](fan-guide/other-air-movement-devices.md)
+* [Benefits of elevated air speed](fans-for-cooling-people-guidebook/benefits-of-elevated-air-speed.md)
+* [Elevated air speed and thermal comfort](fans-for-cooling-people-guidebook/elevated-air-speed-and-thermal-comfort.md)
+* [Human response to air movement](fans-for-cooling-people-guidebook/human-response-to-air-movement.md)
+* [Prior to elevated air movement design](fans-for-cooling-people-guidebook/prior-to-elevated-air-movement-design.md)
+* [Other air movement devices](fans-for-cooling-people-guidebook/other-air-movement-devices.md)
 
 ## About this work
 
