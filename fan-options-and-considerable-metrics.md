@@ -1,6 +1,6 @@
 # Fan options and considerable metrics
 
-There are multiple fan types available in the market, but ceiling fans in general out-weigh its benefits over other fan types due to its air circulation effectiveness and low energy consumption, especially for serving multiple occupants within the same space. In addition, installation and operation of ceiling fans are specific to building design which is different from other portable fan options. This guide highlights a standalone section on ceiling fans, while other fan choices (i.e., other air movement devices) will be discussed in separate section.
+There are multiple fan types available in the market, but ceiling fans in general out-weigh its benefits over other fan types due to its air circulation effectiveness and low energy consumption, especially for serving multiple occupants within the same space. In addition, installation and operation of ceiling fans are specific to building design which is different from other portable fan options. This guide highlights a standalone section on ceiling fans, while other fan choices (i.e., other air movement devices) will be discussed in separate section. Fans are really cool ([Cheung et al, 2022](https://doi.org/10.1016/j.buildenv.2017.01.014))
 
 ## Ceiling fans
 
