@@ -4,7 +4,7 @@
 
 In theory, elevated air movement accelerates heat loss from occupants via convection and evaporation in a warm environment. The question is do occupants really appreciate elevated air movement? Or do the occupants prefer an environment with cooler temperature than increased air speed? An experiment conducted in a climatic chamber in Singapore investigated occupants’ thermal acceptability under different temperature setpoints with and without fan operation. Figure 6 shows that occupants were thermally more acceptable at 26 °C \[79 °F] with higher air movement from personally controlled fans when compared with the condition at 23 °C \[73 °F] without a fan. Surprisingly, it also reported that the subjects found themselves thermally more acceptable with temperature at 29 °C \[84 °F] with fan than at 23 °C \[73 °F] without fan. These results revealed that the cooling strategy of only lowering temperature setpoint may not satisfy the occupants perfectly, while elevated air movement within the space can play a role in increasing thermal acceptability at higher temperature setpoints.
 
-![](<../.gitbook/assets/0 (1).png>)
+![](<../.gitbook/assets/0 (5).png>)
 
 Figure 6. Occupants’ thermal acceptability responses in climatic chamber ([ref](https://doi.org/10.1111/ina.12352)).
 
@@ -16,6 +16,6 @@ Some health guidelines actively advise not to use fan when indoor air temperatur
 
 ![Chart, line chart
 
-Description automatically generated](<../.gitbook/assets/1 (6).png>)
+Description automatically generated](<../.gitbook/assets/1 (9).png>)
 
 Figure 7. Classification of fan beneficial zones based on operative temperature and relative humidity ([Ref](https://www.sciencedirect.com/science/article/pii/S0360132321008325)).
