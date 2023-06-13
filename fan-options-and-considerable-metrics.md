@@ -18,13 +18,7 @@ Table T1. Ceiling Fan Blade and Tip Speed Criteria (adapted from DOE definitions
 
 Table T2. Common ceiling fan types (adapted from DOE definitions)
 
-| Ceiling fan types       | Fan diameter (D) | Remarks     |                                                                                         |
-| ----------------------- | ---------------- | ----------- | --------------------------------------------------------------------------------------- |
-| m                       | Ft               |             |                                                                                         |
-| Standard fan            | 0.46 ≤ D ≤ 2.1   | 1.5 ≤ D ≤ 7 | Blade to ceiling height > 25 cm \[10 in]                                                |
-| Large-diameter fan      | D > 2.1          | D > 7       | Known as high volume low speed (HVLS) fan                                               |
-| Hugger fan              | 0.46 ≤ D ≤ 2.1   | 1.5 ≤ D ≤ 7 | <p>Similar to standard fan;</p><p>Blade to ceiling height ≤ 25 cm [10 in]</p>           |
-| Very-small-diameter fan | D < 0.46         | D < 1.5     | <p>Airflow > 0.87 m³/s [1840 cfm];</p><p>Rotational speed > 90 rpm at highest speed</p> |
+<table data-header-hidden><thead><tr><th></th><th width="165"></th><th width="159"></th><th></th></tr></thead><tbody><tr><td>Ceiling fan types (m)</td><td>Fan diameter (D) ft)</td><td>Remarks</td><td></td></tr><tr><td>Standard fan</td><td>0.46 ≤ D ≤ 2.1</td><td>1.5 ≤ D ≤ 7</td><td>Blade to ceiling height > 25 cm [10 in]</td></tr><tr><td>Large-diameter fan</td><td>D > 2.1</td><td>D > 7</td><td>Known as high volume low speed (HVLS) fan</td></tr><tr><td>Hugger fan</td><td>0.46 ≤ D ≤ 2.1</td><td>1.5 ≤ D ≤ 7</td><td><p>Similar to standard fan;</p><p>Blade to ceiling height ≤ 25 cm [10 in]</p></td></tr><tr><td>Very-small-diameter fan</td><td>D &#x3C; 0.46</td><td>D &#x3C; 1.5</td><td><p>Airflow > 0.87 m³/s [1840 cfm];</p><p>Rotational speed > 90 rpm at highest speed</p></td></tr></tbody></table>
 
 In general, a larger diameter fan (i.e., high volume low speed (HVLS) fan) blade can move a larger volume of air than a smaller diameter fan blade. As fan diameter increases, rotational speed is typically limited to prevent excessive noise from the fan blades, especially near the blade tip. Additionally, where fans can be mounted at blade heights below 3 m \[10 ft], the rotational speed must be limited to meet safety criteria for the maximum speed of the blade tips. HSLV fans require higher ceilings (typically at least 3.3 m \[11 ft]) and larger spaces free from obstructions to accommodate their increased diameter, and these fans are most often found in non-residential stings, like commercial and industrial applications. Some large-diameter ceiling fans include “winglets” or blade tip fences to maximize airflow and minimize noise, which is a less common problem in standard fans as the blade tip speed is already constrained for safety reasons.
 
