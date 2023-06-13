@@ -4,7 +4,7 @@ Fans are more than just a basic amenity for residential applications. Increasing
 
 ![Chart
 
-Description automatically generated with medium confidence](<../.gitbook/assets/0 (1).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/0 (4).png>)
 
 Figure 1. Number of fans per household by housing unit type, data source: U.S. Energy Information Administration 2015 Residential Energy Consumption Survey.
 
@@ -16,7 +16,7 @@ Simply stated, thermal comfort is an occupant’s satisfaction (“comfort”) w
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/1 (3).png>)
+Description automatically generated](<../.gitbook/assets/1 (4).png>)
 
 Figure 2. Occupant preference for more air movement (Data source: ASHRAE Global Thermal Comfort Database II).
 

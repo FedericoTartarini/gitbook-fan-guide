@@ -149,7 +149,7 @@ For fans that intend for direct cooling towards human body, customers tend to se
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/3 (1).png>)
+Description automatically generated](<../.gitbook/assets/3 (1) (1).png>)
 
 Figure T4. Example airflow pattens for (a) desk fans, (b) pedestal fans, (c) tower fans, (d) wall mounted fangs, (e) bladeless ceiling fans, and (f) air circulators.
 
@@ -183,7 +183,7 @@ Fans are effective for comfort cooling and air circulation. However, fan applica
 
 Figure T5 outlines the key considerations for defining the fan design intents, including personal control, targeted, variability, and uniformity. “Personal control” design emphasizes the goal of fan system to provide thermal comfort for a single occupant, while the adjustment of fans is unlikely affecting the others. “Variability” has its advantage at multi-occupant space where occupants have flexibility to adjust fans operation based on their desire thermal comfort needs, or they are free to move around and choose their preferrable locations or thermal conditions. In spaces where there is variable or transient occupancies, non-uniform thermal conditions, or spaces with specific thermal requirements due to architectural features or activity levels, “Targeted” air movement may provide more comfort. Lastly, “Uniformity” (i.e., more regular control) emphasizes uniform air speeds and consistent thermal comfort experience applied in multi-occupant spaces where occupants do not have flexibility to control fan or change their location, especially when occupants will be staying in those areas for extended periods.
 
-![](<../.gitbook/assets/5 (1).png>)
+![](<../.gitbook/assets/5 (1) (1).png>)
 
 Figure T5. Flow chart of design intents for air speed and distribution.
 
@@ -195,7 +195,7 @@ In general, ceiling fans are effective for both comfort cooling and air circulat
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/6 (1).png>)
+Description automatically generated](<../.gitbook/assets/6 (1) (1).png>)
 
 Figure T6. Fans selection examples based on different design intents.
 
