@@ -14,6 +14,11 @@
 * [Elevated air speed and thermal comfort](elevated-air-speed-and-thermal-comfort.md)
 * [Fan options and considerable metrics](fan-options-and-considerable-metrics.md)
 
+## Fan Guide
+
+* [Benefits of elevated air speed](fan-guide/benefits-of-elevated-air-speed.md)
+* [Elevated air speed and thermal comfort](fan-guide/elevated-air-speed-and-thermal-comfort.md)
+
 ## About this work
 
 * [Acknowledgment](about-this-work/acknowledgment.md)

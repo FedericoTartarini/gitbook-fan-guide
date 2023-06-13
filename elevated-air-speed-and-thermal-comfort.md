@@ -6,7 +6,7 @@ ASHRAE Standard 55 – Thermal Environmental Conditions for Human Occupancy (202
 
 <div data-full-width="false">
 
-<img src=".gitbook/assets/0 (1).png" alt="Chart
+<img src=".gitbook/assets/0 (1) (1).png" alt="Chart
 
 Figure T1. Cooling effect of increased air speed for a ‘typical’ office worker in cooling conditions (operative temperature of 24.4 °C [76 °F], 50% relative humidity, 0.6 clo, 1.13 met)">
 
