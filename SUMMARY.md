@@ -19,3 +19,7 @@
 * [Acknowledgment](about-this-work/acknowledgment.md)
 * [To cite this work](about-this-work/to-cite-this-work.md)
 * [Version](about-this-work/version.md)
+
+***
+
+* [Practitioner summary](practitioner-summary-2.md)

@@ -97,7 +97,7 @@ The variation of the air speeds in a space is an important design consideration.
 
 ![Chart
 
-Description automatically generated](<../.gitbook/assets/1 (1).png>)
+Description automatically generated](<../.gitbook/assets/1 (1) (1).png>)
 
 Figure T2. Example air speed distribution from a ceiling fan (Source: Gao, Y. et al., 2017).
 
@@ -224,7 +224,7 @@ Figure T7 demonstrates an example of recommended ceiling fan size for single-fan
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/7 (1).png>)
+Description automatically generated](<../.gitbook/assets/7 (1) (1).png>)
 
 Figure T7. Recommended ceiling fan size and layout for single-fan applications.
 
@@ -232,7 +232,7 @@ Figure T8 presents two examples of recommended ceiling fan size and layout for m
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/8 (1).png>)
+Description automatically generated](<../.gitbook/assets/8 (1) (1).png>)
 
 Figure T8. Recommended ceiling fan size and layout for multi-fan applications. (a) Warehouse with higher room height, (b) office with lower room height.
 
@@ -262,7 +262,7 @@ Figure T11 compares the design layouts between a conventional air-conditioning s
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/11 (1).png>)
+Description automatically generated](<../.gitbook/assets/11 (1) (1).png>)
 
 Figure T11. Example design layouts for (a) conventional HVAC system with supply air ducts and diffusers, (b) Ceiling fan integrated HVAC system with limited supply air ducts.
 
@@ -284,7 +284,7 @@ Figure T12 demonstrates the control schematic for the heating, ventilation, and 
 
 ![Timeline
 
-Description automatically generated](<../.gitbook/assets/12 (1).jpeg>)
+Description automatically generated](<../.gitbook/assets/12 (1) (1).jpeg>)
 
 Figure T12. Example HVAC control schematic with / without ceiling fans.
 
@@ -304,7 +304,7 @@ A key indicator of successful fan-integrated system is to ensure that occupants 
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/13 (1).png>)
+Description automatically generated](<../.gitbook/assets/13 (1) (1).png>)
 
 Figure T18. Fan cooling first approach – example plaque for occupant interface and control recommendations.
 
