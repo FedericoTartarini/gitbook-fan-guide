@@ -2,7 +2,7 @@
 
 Fans are effective for comfort cooling and air circulation. However, fan applications are highly dependent on the design intent for desire air speed and distribution, and any physical environment limitations. Understanding the elevated air movement design intent is the prerequisite in selecting an adequate fan type for a particular space.
 
-### Design intents <a href="#_toc1666972090" id="_toc1666972090"></a>
+## Design intents <a href="#_toc1666972090" id="_toc1666972090"></a>
 
 Figure T5 outlines the key considerations for defining the fan design intents, including personal control, targeted, variability, and uniformity. “Personal control” design emphasizes the goal of fan system to provide thermal comfort for a single occupant, while the adjustment of fans is unlikely affecting the others. “Variability” has its advantage at multi-occupant space where occupants have flexibility to adjust fans operation based on their desire thermal comfort needs, or they are free to move around and choose their preferrable locations or thermal conditions. In spaces where there is variable or transient occupancies, non-uniform thermal conditions, or spaces with specific thermal requirements due to architectural features or activity levels, “Targeted” air movement may provide more comfort. Lastly, “Uniformity” (i.e., more regular control) emphasizes uniform air speeds and consistent thermal comfort experience applied in multi-occupant spaces where occupants do not have flexibility to control fan or change their location, especially when occupants will be staying in those areas for extended periods.
 
@@ -12,7 +12,7 @@ Description automatically generated](<../.gitbook/assets/0 (1).png>)
 
 Figure T5. Flow chart of design intents for air speed and distribution.
 
-### Fan type selection <a href="#_toc1936285678" id="_toc1936285678"></a>
+## Fan type selection <a href="#_toc1936285678" id="_toc1936285678"></a>
 
 Fan selection criteria are mainly dependent on design intent of air speed and distribution, purpose of elevated air movement (i.e., direct cooling across human body or air circulation), and any limitations of fan usage in space (i.e., floor to ceiling height).
 

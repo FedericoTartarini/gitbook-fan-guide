@@ -2,11 +2,11 @@
 
 This technical guide focuses on the integration of ceiling fan with air-conditioning system in building, due to higher attention on design, installation, and operation. Besides, incorporating ceiling fans in early system design stage can achieve additional saving in reduced construction cost and downsized HVAC system components.
 
-### Ceiling fan system design <a href="#_toc1391810236" id="_toc1391810236"></a>
+## Ceiling fan system design <a href="#_toc1391810236" id="_toc1391810236"></a>
 
 Considerations of ceiling fan design in space are mainly two folds: fan size and installation.
 
-#### Fan size (and number) determination <a href="#_toc1158417477" id="_toc1158417477"></a>
+### Fan size (and number) determination <a href="#_toc1158417477" id="_toc1158417477"></a>
 
 Determining appropriate ceiling fan size (and number) within space is critical to air speed distribution and effective cooling. Table T5 lists the key features for fan size (and number) determination.
 
@@ -35,7 +35,7 @@ Description automatically generated](<../.gitbook/assets/1 (4).png>)
 
 Figure T8. Recommended ceiling fan size and layout for multi-fan applications. (a) Warehouse with higher room height, (b) office with lower room height.
 
-#### Fan installation <a href="#_toc1663457277" id="_toc1663457277"></a>
+### Fan installation <a href="#_toc1663457277" id="_toc1663457277"></a>
 
 In general, all ceiling fan installation procedures shall follow the manufacturer’s recommendations. Ceiling fan should be fixed in a structural surface (slab or beam) to guarantee sturdiness and stability. With the appropriate type of mounting bracket, ceiling fans can also be installed in sloped ceiling. There is no reinforcement requirement if the diameter of fan is smaller than 2.1 m \[7 ft].
 
@@ -55,7 +55,7 @@ Description automatically generated](<../.gitbook/assets/3 (6).png>)
 
 Figure T10. Illustration of airflow patterns induced by ceiling fan for (a) normal window opening, (b) door-like opening settings.
 
-### Air-conditioning system design <a href="#_toc2041678943" id="_toc2041678943"></a>
+## Air-conditioning system design <a href="#_toc2041678943" id="_toc2041678943"></a>
 
 Conventional air-conditioning system requires diffusers and extended air ducts to distribute air evenly within the space. However, ceiling fans integrated with conventional air-conditioning systems can achieve effective mixing and re-distribute the room air without the need for extra diffusers and extended supply air ducts. In principle, ceiling fans integrate well with most ventilation settings that require air mixing, including radiant cooling systems. However, they are unfavourable for systems that rely on stratification, such as displacement ventilation and underfloor air distribution system or systems utilizing active or passive chilled beams.
 
@@ -67,19 +67,19 @@ Description automatically generated](../.gitbook/assets/4.png)
 
 Figure T11. Example design layouts for (a) conventional HVAC system with supply air ducts and diffusers, (b) Ceiling fan integrated HVAC system with limited supply air ducts.
 
-### Ceiling fans integrated AC System <a href="#_toc1319731500" id="_toc1319731500"></a>
+## Ceiling fans integrated AC System <a href="#_toc1319731500" id="_toc1319731500"></a>
 
 One major advantage of the integrated air movement design is the additional convective effects on occupants. This means that additional energy saving from space cooling is possible due to air-conditioning system optimization.
 
-#### Design room conditions <a href="#_toc1662001613" id="_toc1662001613"></a>
+### Design room conditions <a href="#_toc1662001613" id="_toc1662001613"></a>
 
 The presence of space air movement allows higher dry bulb room temperature (2-3 °C \[4-5 °F]) and dewpoint temperature (1-2 °C \[2-4 °F]) when compared with conventional air-conditioning system design. Alternatively, if the original designated air temperature is 23-25 °C \[73-77 °F], it can be increased to 23-27 °C \[73-81 °F] with elevated air movement to achieve similar or even better thermal comfort. The room operating air speed can be up to 0.8 m/s \[160 fpm] without personal control, while there is no air speed limit if occupants have full control of the fans (i.e., just ceiling fan or ceiling fan + desk fan) within the space.
 
-#### Components selection <a href="#_toc1211915321" id="_toc1211915321"></a>
+### Components selection <a href="#_toc1211915321" id="_toc1211915321"></a>
 
 Regarding the relaxation of designated cooling demand (i.e., lower sensible and latent load), the chiller and the air handling unit (AHU) from original HVAC system can be downsized in the system design stage. The design supply air temperature setpoint (SAT) and chilled water temperature (ChWT) setpoint relaxation should be 50% to 100% the zone cooling setpoint temperature adjustment. For example, if compared to a conventional HVAC design, the HVAC design with elevated air speed could have 2 °C higher cooling setpoint temperature, the SAT and ChWT setpoints should be increased by 1-2 °C. In addition, a smaller size fan in the AHU can be used for the ceiling fan integrated design, because it returns smaller static pressure along the critical supply air path (only require the main supply air duct).
 
-#### HVAC and fans system control <a href="#_toc2055116101" id="_toc2055116101"></a>
+### HVAC and fans system control <a href="#_toc2055116101" id="_toc2055116101"></a>
 
 Figure T12 demonstrates the control schematic for the heating, ventilation, and air conditioning (HVAC) system with and without the integration of ceiling fans. It shows that when ceiling fans are integrated with the building automation system (BAS), it can react at the first stage cooling setpoint (say 23 °C \[73 °F]) to cooling down the zone before the HVAC system beings to operate for cooling. The ceiling fan speed shall increase with the room temperature, which is determined by cooling effect or a representative point in space. The HVAC cooling starts when indoor temperature increases to the second stage of cooling setpoint (say 26 °C \[79 °F]). Operating the HVAC system at this higher cooling setpoint has significant energy savings potential.
 
@@ -91,7 +91,7 @@ Figure T12. Example HVAC control schematic with / without ceiling fans.
 
 Some ceiling fans have onboard sensing and controls that allow fan speed and temperature automation without integration with the building automation systems (BAS). A lower cost, simpler alternative to automatically control the ceiling fan based on temperature is to use a relay to turn fan(s) on and off. The fans then operate at a fixed pre-set speed. Fans operation can also be tied to occupancy sensors in the zone, preventing unnecessary operation, energy use, and maintenance. In some cases, it may be beneficial to operate fans even when unoccupied, such as pre-cooling applications that benefit from increased convection from surfaces in the space due to the air movement generated by the fans.
 
-#### Potential savings <a href="#_toc916088046" id="_toc916088046"></a>
+### Potential savings <a href="#_toc916088046" id="_toc916088046"></a>
 
 Comparing the two designs in Figure T11, the ceiling fan integrated air-conditioning system could save up to 45% in capital construction cost when compared with the conventional system. These savings are mainly obtained from reduced ductwork, diffusers, VAV boxes, sensors, and controls. Savings can also be obtained from the extra time and workmanship for additional ducting and fittings installation. More importantly, the majority of these ducting and fittings are not reusable and become construction waste when the building is being demolished. The cost of purchasing and installing the ceiling fans in the space is low when compared to the above cost savings.
 
