@@ -13,6 +13,7 @@
 
 ## Full Guidebook
 
+* [Benefits of elevated air speed](full-guidebook/benefits-of-elevated-air-speed.md)
 * [Elevated air speed and thermal comfort](full-guidebook/elevated-air-speed-and-thermal-comfort.md)
 * [Fan options and considerable metrics](full-guidebook/fan-options-and-considerable-metrics.md)
 * [Human response to air movement](full-guidebook/human-response-to-air-movement.md)

@@ -41,10 +41,10 @@ Table T3. Comparison between ceiling fan’s motors and drives
 | Drives                        | Direct drive                                                                                                                                           | Almost all small-diameter fans are direct drive. It is quieter than gear-driven fans. However, comparatively, it provides less airflow. |
 | Gear-driven                   | Gear-driven fans allow for higher motor power where maximizing airflow is a priority over sound levels or aesthetics.                                  |                                                                                                                                         |
 
-### Diameter and rotational speed <a href="#_toc446846141" id="_toc446846141"></a>
+## Diameter and rotational speed <a href="#_toc446846141" id="_toc446846141"></a>
 
 Assume all other factors being equal, a larger diameter fan will produce greater airflow, average air speed, and uniformity of air speed in space than a smaller diameter fan at the same rotational speed. In general, the total airflow and the air speed form any measurement point are linear with rotational speed. This relationship begins to break down at very low air speed, very low rotational speeds, or where the fan blade height is unusually far from the floor.
 
-### Rated airflow <a href="#_toc748789084" id="_toc748789084"></a>
+## Rated airflow <a href="#_toc748789084" id="_toc748789084"></a>
 
 The test methods for rating the airflow of these fans are regulated in the US under 10 CFR 430 Appendix U ([ref](https://www.govinfo.gov/app/details/CFR-2011-title10-vol3/CFR-2011-title10-vol3-part430-subpartB-appU)). For standard fans, the rating is determined by a modified Energy Star method ([ref](https://www.energystar.gov/ia/partners/prod\_development/revisions/downloads/ceil\_fans/testmanual.pdf)), while for large diameter fans (above 2.1 m \[7ft]), the rating is determined by the AMCA 230-15 test method ([ref](https://www.techstreet.com/amca/standards/amca-230-15?product\_id=1904250)).

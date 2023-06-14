@@ -1,30 +1,30 @@
 # Other air movement devices
 
-### Other air movement devices <a href="#_ref127807166" id="_ref127807166"></a>
+## Other air movement devices <a href="#_ref127807166" id="_ref127807166"></a>
 
 While the benefits of elevated air movement by ceiling fan are acknowledged, places with lower floor-to-ceiling height or a ceiling with compacted fixtures could be limited for ceiling fan installation. This limitation can be mitigated by using other air movement devices.
 
-### Fan Types <a href="#_toc137455671" id="_toc137455671"></a>
+## Fan Types <a href="#_toc137455671" id="_toc137455671"></a>
 
 Various air movement devices are available in the market, but there is no standard classification protocol to define them. Based on the function and location of usage, this guide discusses 5 major types of air movement devices: desk fan (bladed and bladeless), pedestal / tower fan, wall mounted fan, bladeless ceiling fan and air circulator.
 
-#### Desk fans <a href="#_heading-h.kgcv8k" id="_heading-h.kgcv8k"></a>
+### Desk fans <a href="#_heading-h.kgcv8k" id="_heading-h.kgcv8k"></a>
 
 The term ’desk fan’ generally describes a fan that is portable with a size small enough to place on the desk or table within reach of an occupant. It can be subdivided into bladed and bladeless fan. Desk fans with blades available in the market are generally with a diameter between 7 to 35 cm \[3 to 14 in], like the one shown in Figure 21a. Desk fans with diameter smaller than this range would also be beneficial when working at close distance to the user (< 0.5 m). Meanwhile a larger size fan would be too bulky to place on the desk. In addition, some desk fans are attached with a clip-on base, which allows users to clip the fan on the partition or the edge of their desk (see Figure 21b).
 
 To ensure safety when the fan is in operation, the blades of a fan are enclosed inside a resistant plastic or metal mesh usually, some small fans with low power (<5 W) do not need encloser as the risks are minimized. Further enhance safety and an aesthetical outlook, we even have fans with no blades in the market. Figure 21c shows an example of bladeless fan. Although it looks and operates like “bladeless”, these fans have blades operating inside the fan body. The inner blades with motor draws air in at the bottom and push air up into the ring portion of the fan to create the air stream. The size of ring portion varies by fan product and are not necessarily circular in shape. In general, bladeless fans operate at a louder noise and require more energy in moving the same volume of air when compared to their axial counterparts.
 
-#### Pedestal fans / Tower fan <a href="#_toc137455673" id="_toc137455673"></a>
+### Pedestal fans / Tower fan <a href="#_toc137455673" id="_toc137455673"></a>
 
 Pedestal fans, also known as standing fans, are quite similar to desk fans, but with the fan head mounted to a height-adjustable pedestal, elevating the fan to about 0.6 to 1.2 m \[2-4 ft] from ground. The fan operates on a tall stand to enhance air circulation (avoid obstacles on the floor) in larger rooms, and its ability to oscillate left and right delivers air to a broader area. Figure 21d shows an example of a pedestal fan. Although pedestal fans are meant to be portable, they usually come with a heavy base to maintain stability when operation, which is less portable when compared to desk fans. This heavy base allows larger fan size operates on top, i.e., provide more airflow, with market available blade diameter ranges from 30 to 76 cm \[12 to 30 in]. The number of blades for a pedestal fan usually ranges from 3 to 5 blades, with some special models up to 9 blades.
 
 Another common type of fan used on the floor is the tower fans. Unlike axial fans (draw and deliver air along the fan axis), a tower fan is a crossflow variety (draw and deliver air perpendicular to the impeller fan axis). A crossflow fan pulls air from the inlet into a cylindrical impeller vane, housed inside the tall and slim fan structure, by setting up a cylindrical vortex of spinning air. The vortex then swings the air to the opposite side of the impeller blades and pushes the air out alongside the rectification plate (i.e., the outlet duct). The enclosed impeller blade design maximizes safety for residential usage, especially with kids and pets around. The tower-like structure is fixed on a base and rotates horizontally to extend the air movement sweeping area. The tower fans are compact and lightweight, and fit well for any indoor spaces serving both personal cooling and air circulation purposes. The airflow produced by tower fan is usually laminar and uniform along the tower. Figure 21e shows an example of a tower fan.
 
-![](<../.gitbook/assets/0 (5).png>)
+![](<../.gitbook/assets/0 (6).png>)
 
 Figure 21. Examples of other air movement devices: (a) desk fan, (b) clip-on fan, (c) bladeless fan, (d) pedestal fan, and (e) tower fan.
 
-#### Wall mounted fans <a href="#_toc137455674" id="_toc137455674"></a>
+### Wall mounted fans <a href="#_toc137455674" id="_toc137455674"></a>
 
 A wall mounted fan is basically a pedestal fan without a base that is mounted on the wall. Sometimes these fans may also mount to the ceiling. Yet, different from conventional ceiling fans, these “ceiling mounted” fan can oscillate in 180 °. It is a good choice to provide a breeze over the human body and enhance room air circulation when the space and floor-to-ceiling height is limited. Figure 22 shows some examples of wall mounted fans.
 
@@ -32,7 +32,7 @@ A wall mounted fan is basically a pedestal fan without a base that is mounted on
 
 Figure 22. Examples of wall mounted fans.
 
-#### Bladeless ceiling fan <a href="#_ref127806698" id="_ref127806698"></a>
+### Bladeless ceiling fan <a href="#_ref127806698" id="_ref127806698"></a>
 
 A bladeless ceiling fan operates as a centrifugal fan, differently from the conventional ceiling fan which uses an axial fan. In theory, bladeless ceiling fan is not bladeless, but a special design with many small blades installed at the fan’s circumference structure. The fan rotates the entire design structure, which draws air under the fan and hurls it out at the side from 360 °. These fans are intended to enhance air movement and air circulation within a small space, such as living room and bedroom. Figure 23 demonstrates some examples of bladeless ceiling fans. They are less common than other fan types. The installation requirement is similar to ceiling fan with blades, but the bladeless ceiling fans do not require a minimum mounting height to prevent “air choking”, which they are suitable to be installed in a space with low floor-to-ceiling height.
 
@@ -40,7 +40,7 @@ A bladeless ceiling fan operates as a centrifugal fan, differently from the conv
 
 Figure 23. Examples of bladeless ceiling fans.
 
-#### Air circulator <a href="#_toc137455676" id="_toc137455676"></a>
+### Air circulator <a href="#_toc137455676" id="_toc137455676"></a>
 
 Air circulators aim to provide a high velocity air jet to circulate air and keep air moving continuously in the room. The strong air movement is not intended to directly be blown towards the human body, but to initiate air circulation. Depending on the brand, the air circulator diameter range is between 23-40 cm \[9-16 in]. Such fans are ideal for air circulation in small rooms, such as bedrooms and enclosed offices. An extra-large air circulator about 50 to 76 cm \[20-30 in] in diameter, also known as the drum blowers, with durable metal construction, can deliver extra high velocity airflow. These heavy-duty air circulators are ideal for warehouses, industrial workshops and loading docks. Figure 24 illustrates some examples of air circulators.
 
@@ -48,9 +48,9 @@ Air circulators aim to provide a high velocity air jet to circulate air and keep
 
 Figure 24. Examples of air circulators.
 
-### Fan selection considerations <a href="#_toc137455677" id="_toc137455677"></a>
+## Fan selection considerations <a href="#_toc137455677" id="_toc137455677"></a>
 
-#### Typical functions <a href="#_heading-h.3hv69ve" id="_heading-h.3hv69ve"></a>
+### Typical functions <a href="#_heading-h.3hv69ve" id="_heading-h.3hv69ve"></a>
 
 The above-mentioned air movement devices basically have two major functions: (1) move air directly towards the human body and (2) room air circulation. Moving air towards the human body aims to cool the subject by means of convective heat loss, while air circulation aims to keep air in motion within the enclosed space to enhance air and temperature mixing. In general, smaller fan that generates less airflow (i.e., desk fan) is more suitable for direct cooling towards human body, while larger size fan and fan that generates stronger airflow (i.e., bladeless ceiling fan, air circulator) are designed for air circulation. Nevertheless, most of the fan types can deliver both functions by adjusting the fan speed. Therefore, fan selection should be based on the intent whether it is individual adjustment for personal cooling (group 1) or produce a general air movement effect for multiple occupants’ usage simultaneously. Table 2 summarizes the typical function, location of application, and approximate price range for different elevated air movement devices.
 
@@ -66,7 +66,7 @@ Table 2. Summary of other air movement device’s function, and approximate pric
 | Air circulator                         | Room air circulation                                   | Warehouse, residence, open plan office                         | $ 50 - $ 300          |
 | Conventional ceiling fan (with blades) | Air movement towards human body / Room air circulation | Any indoor / semi-indoor space with sufficient mounting height | $ 200 - $ 1000        |
 
-#### Noise levels <a href="#_heading-h.1x0gk37" id="_heading-h.1x0gk37"></a>
+### Noise levels <a href="#_heading-h.1x0gk37" id="_heading-h.1x0gk37"></a>
 
 Noise from a fan can initiate dissatisfaction and unwillingness of usage from occupants. The noise sources of a fan are mainly from the operating motor and the fast movements of the blades (i.e., turbulence). The sound level of domestic fans ranges from 30 to 70 dBA depending on the fan types (e.g., desk, pedestal, ceiling), fan models and speed. Table 3 suggests the noise level for some corresponding features for comparison. The noise level from axial fan, initiated by turbulence, increases with the blades rotational speed. Therefore, higher speeds usually correspond to higher noise level. While for the cross-flow fan, the air output is generally laminar with lower air speed (i.e., lower blade rotational speed), thus the noise being generated is also relatively lower.
 
@@ -87,7 +87,7 @@ Table 3. Noise level by comparison ([ref](https://www.creoven.co.uk/production-o
 | 80                                                            | Motor bike engine                                          |                                     |
 | Over 80 dBA health is threatened with exposure over 40 h/week |                                                            |                                     |
 
-#### Power and efficiency <a href="#_toc137455680" id="_toc137455680"></a>
+### Power and efficiency <a href="#_toc137455680" id="_toc137455680"></a>
 
 Most elevated air movement devices described above are powered by the electric grid. The electricity powers up the motor and spins the blades like the ceiling fan. Most of these air movement devices are not fixed in position, which can plug-in any power socket outlet near the desired operation area. Some small fans can be powered by rechargeable lithium-ion batteries, meaning that the fan is cableless to enhance additional flexibility when operating. Some small desk fans with diameters between 7 -15 cm \[3-7 in] can be powered by USB plug linked to a computer.
 
@@ -105,11 +105,11 @@ Description automatically generated](<../.gitbook/assets/5 (2).png>)
 
 Figure 25. CFE index versus fan power for the ceiling fan (CF), desk fan (DF) standing fan (SF) and tower fan (TF). Lines with constant whole-body cooling effect (∆teq) are plotted.
 
-#### Motor and drive <a href="#_toc137455681" id="_toc137455681"></a>
+### Motor and drive <a href="#_toc137455681" id="_toc137455681"></a>
 
 All the elevated air movement devices described above, with or without blades, consist of a rotary part, which is driven by motor and drive. The types of motor and drive used for these elevated air movement devices are similar to that operate in a ceiling fan, which we have been discussed in the former section. It is worth noting that larger energy saving potential can be achieved by using DC motor instead of AC motor, especially for small fans like desk fan or pedestal fan.
 
-#### Air Speed / Airflow pattern <a href="#_toc137455682" id="_toc137455682"></a>
+### Air Speed / Airflow pattern <a href="#_toc137455682" id="_toc137455682"></a>
 
 Performance of air speed from different devices can be varied by fan size, blade types, and fan structure. For axial fans, estimation of air speed is similar to ceiling fan (i.e., dividing the rated airflow of the fan by its diameter). However, such estimation is not applied to bladeless fans and tower fans which have a different airflow driven mechanism.
 
@@ -145,13 +145,13 @@ An air circulator intends to produce a high-speed strong air jet to move air fro
 
 Figure 29. Schematic of airflow pattern driven by air circulator.
 
-#### Flexibility <a href="#_toc137455683" id="_toc137455683"></a>
+### Flexibility <a href="#_toc137455683" id="_toc137455683"></a>
 
 One major advantage of the above listed elevated air movement devices over ceiling fan is the high flexibility of usage in terms of location, operation height, flow direction and oscillation. Such flexibility enhances adjustment to occupant’s needs and comfort demand regarding elevated air speed under different circumstances. Except the wall mounted fans and bladeless ceiling fans, all other fan types listed in Table 2 are flexible to be relocated based on the occupant’s needs: on the desk or floor, directed to or away from the occupants, and any places that can move air to the desire direction. Fan operation height of pedestal fans are adjustable, usually about 0.6-1.2 m \[2-4 ft] from ground (depending on brand and type), while some other fan types, such as desk fan and air circulator, can adjust the air stream shooting height by tilting the fan head at certain vertical angles.
 
 Most of the fan types listed in Table 2 can oscillate horizontally in a range of 60 ° to 160 °. Some modern fan types can also oscillate vertically. Horizontal or vertical oscillation of fan allows the air movement to cover wider area within the space and to serve multiple occupants at the same time. In addition, the fan oscillation function could minimize the stale air areas by moving the air from different directions, even behind some obstacles such as furniture or partitions, which enhances effectiveness of air mixing. It is one of the major benefits of ceiling fans usage in space. Portable fans can be operated in different rooms in the same space (i.e., one fan serves multiple rooms).
 
-#### Other features <a href="#_toc137455684" id="_toc137455684"></a>
+### Other features <a href="#_toc137455684" id="_toc137455684"></a>
 
 Some fans are equipped with technologies that enable them with special features. Some tower fans and bladeless fans are equipped with multiple filters, contributing to air purification. Particulate matter and sometimes gases in the air can be filtered out and cleaner air will be circulated within the space. Different types of filters can remove various kinds of contaminant. Some special fan models are installed with UV-C (i.e., germicidal UV) light inside the fan framework to disinfect the air during circulation process. UV-C is effective at deactivating viruses, bacteria, mold, and fungus. Some fan models can emit water mist that moves along with the air stream to reduce its temperature thanks to the adiabati cooling (evaporative cooling)process. Figure 30 presents an example of a pedestal fan with evaporative cooling function.
 
@@ -159,7 +159,7 @@ Some fans are equipped with technologies that enable them with special features.
 
 Figure 30. Pedestal fan with evaporative cooling.
 
-### Controls <a href="#_toc137455685" id="_toc137455685"></a>
+## Controls <a href="#_toc137455685" id="_toc137455685"></a>
 
 Compared with ceiling fan, other fan types listed in Table A1 are mostly portable, except for wall mounted and bladeless ceiling fans, and manually operated.
 

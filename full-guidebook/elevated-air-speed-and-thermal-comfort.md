@@ -16,7 +16,7 @@ Thermal comfort, here defined as the occupant’s satisfaction with the perceive
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/1 (11).png>)
+Description automatically generated](<../.gitbook/assets/1 (12).png>)
 
 Figure 4. Human body thermoregulation (i.e., heat gain and loss) pathways.
 

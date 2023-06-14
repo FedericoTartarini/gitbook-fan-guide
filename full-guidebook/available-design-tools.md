@@ -1,6 +1,6 @@
 # Available design tools
 
-### Available design tools <a href="#_toc137455732" id="_toc137455732"></a>
+## Available design tools <a href="#_toc137455732" id="_toc137455732"></a>
 
 ### CBE Thermal Comfort Tool <a href="#_toc137455733" id="_toc137455733"></a>
 
@@ -10,7 +10,7 @@ The user enters temperature, air speed, humidity, metabolic rate and clothing le
 
 ![Chart
 
-Description automatically generated](<../.gitbook/assets/0 (14).png>)
+Description automatically generated](<../.gitbook/assets/0 (15).png>)
 
 Figure 57. Example of the CBE Thermal Comfort Tool, showing user inputs, psychometric chart, and results.
 
@@ -18,11 +18,11 @@ The CBE Thermal Comfort Tool also takes into account elevated air speeds. As the
 
 ![Chart, funnel chart
 
-Description automatically generated](<../.gitbook/assets/1 (10).png>)
+Description automatically generated](<../.gitbook/assets/1 (11).png>)
 
 Figure 58. Example of the CBE Thermal Comfort Tool showing air speed vs. operative air temperature mode.
 
-### CBE Ceiling Fan Design Tool <a href="#_toc137455734" id="_toc137455734"></a>
+## CBE Ceiling Fan Design Tool <a href="#_toc137455734" id="_toc137455734"></a>
 
 To help determine optimal ceiling fan arrangements, you can use the free online [CBE Ceiling Fan Design Tool](https://centerforthebuiltenvironment.github.io/fan-tool/). The tool allows users to input room dimensions, design air speed ranges, and other parameters to determine optimal ceiling fan placement. The tool includes characteristics for a range of default ceiling fan options, or users can input specific details of other ceiling fan models to determine appropriate layouts. In addition to providing recommended fan layouts, the tool provides estimates for air speeds (minimum, average, and maximum), cooling effect (minimum and maximum), and air speed uniformity for each proposed layout (see Figure 59). The tool also provides visualizations for the overall ceiling fan plan for the space, as well as ceiling fan “cell” plan (see Figure 60) and section showing details on air speeds within each fan cell, and ideal mounting heights (see Figure 61).
 
@@ -40,7 +40,7 @@ Figure 60. Example cell plan from CBE Ceiling Fan Design Tool.
 
 Figure 61. Example cell section from CBE Ceiling Fan Design Tool.
 
-### Modelling, simulation, and energy saving estimation <a href="#_toc137455735" id="_toc137455735"></a>
+## Modelling, simulation, and energy saving estimation <a href="#_toc137455735" id="_toc137455735"></a>
 
 To demonstrate the energy savings potential of fans in a whole building energy model, simply increase the cooling setpoint based on the estimated cooling effect for the considered scenario, while maintaining the same heating setpoint. Models will generally show approximately a 10 % reduction in total HVAC savings per 1 °C increase in cooling setpoint \[5 % per 1 °F], through a combination of cooling and associated transport energy savings (e.g., fan), as well as heating energy savings. The reason for heating energy savings is that when the cooling setpoint is higher, temperatures in the space tend to be warmer during the day than without fans, and this reduces morning warmup (and sometimes reheat) energy consumption. For rapid estimates, the [CBE Setpoint Savings Calculator](https://energy-calc-2wmjqjatpa-uc.a.run.app/) will estimate the energy savings for a particular location in the USA for a commercial office building based on EnergyPlus models. Figure 62 presents an example of the calculation.
 
