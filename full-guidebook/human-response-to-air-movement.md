@@ -16,6 +16,6 @@ Some health guidelines actively advise not to use fan when indoor air temperatur
 
 ![Chart, line chart
 
-Description automatically generated](<../.gitbook/assets/1 (12).png>)
+Description automatically generated](<../.gitbook/assets/1 (13).png>)
 
 Figure 7. Classification of fan beneficial zones based on operative temperature and relative humidity ([Ref](https://www.sciencedirect.com/science/article/pii/S0360132321008325)).

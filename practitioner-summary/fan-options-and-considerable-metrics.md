@@ -63,7 +63,7 @@ The variation of the air speeds in a space is an important design consideration.
 
 ![Chart
 
-Description automatically generated](<../.gitbook/assets/0 (12).png>)
+Description automatically generated](<../.gitbook/assets/0 (13).png>)
 
 Figure T2. Example air speed distribution from a ceiling fan (Source: Gao, Y. et al., 2017).
 
@@ -83,7 +83,7 @@ Meanwhile, the ceiling fan energy index (CFEI), a ratio of reference fan power i
 
 ![Chart
 
-Description automatically generated](<../.gitbook/assets/1 (10).png>)
+Description automatically generated](<../.gitbook/assets/1 (11).png>)
 
 Figure T3. Fan efficacy versus total airflow and power.
 

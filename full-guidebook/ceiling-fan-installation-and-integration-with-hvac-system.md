@@ -14,7 +14,7 @@ To maximize uniformity of air speeds in a space with standard ceiling fans, choo
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/0 (9).png>)
+Description automatically generated](<../.gitbook/assets/0 (10).png>)
 
 Figure 34. Recommended sizing and layout for single-fan applications in a small room.
 
@@ -22,7 +22,7 @@ For spaces requiring multiple fans the overall layout should be determined by su
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/1 (11).png>)
+Description automatically generated](<../.gitbook/assets/1 (12).png>)
 
 Figure 35. Recommended ceiling fan size and layout for multi-fan applications. (a) Warehouse with higher room height, (b) office with lower room height.
 
@@ -54,7 +54,7 @@ Safety regulations require almost all large-diameter fans (above 2.1m \[7 ft] in
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/4 (3).png>)
+Description automatically generated](<../.gitbook/assets/4 (4).png>)
 
 Figure 38. Minimum clearances for large diameter ceiling fans.
 

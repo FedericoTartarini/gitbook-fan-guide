@@ -80,7 +80,7 @@ Ceiling fans are available in a wide range of diameters, from very small fans ap
 
 ![Chart, histogram
 
-Description automatically generated](<../.gitbook/assets/1 (5).png>)
+Description automatically generated](<../.gitbook/assets/1 (6).png>)
 
 Figure 9. Distribution of fan diameters in a random sample of the fans in the CEC MAEDbS appliance database ([ref](https://www.energy.ca.gov/programs-and-topics/programs/appliance-efficiency-program-outreach-and-education/modernized)).
 
@@ -110,7 +110,7 @@ Fans that can turn down to a low rotational speed and maintain good motor effici
 
 ![Diagram, histogram
 
-Description automatically generated](<../.gitbook/assets/4 (4).png>)
+Description automatically generated](<../.gitbook/assets/4 (5).png>)
 
 Figure 12. Relationship of power and fan speed settings for eight fans of different diameters (data from a selection of fans from [MAEDbS](https://cacertappliances.energy.ca.gov/Pages/ApplianceSearch.aspx)).
 

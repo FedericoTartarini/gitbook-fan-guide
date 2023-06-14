@@ -7,6 +7,7 @@
 * [Introduction](practitioner-summary/introduction.md)
 * [Fan options and considerable metrics](practitioner-summary/fan-options-and-considerable-metrics.md)
 * [Designing air movement in space](practitioner-summary/designing-air-movement-in-space.md)
+* [Ceiling fan integration with HVAC system](practitioner-summary/ceiling-fan-integration-with-hvac-system.md)
 
 ## Full Guidebook
 
