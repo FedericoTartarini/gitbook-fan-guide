@@ -63,7 +63,7 @@ The variation of the air speeds in a space is an important design consideration.
 
 ![Chart
 
-Description automatically generated](<../.gitbook/assets/0 (13).png>)
+Description automatically generated](<../.gitbook/assets/0 (15).png>)
 
 Figure T2. Example air speed distribution from a ceiling fan (Source: Gao, Y. et al., 2017).
 
@@ -83,7 +83,7 @@ Meanwhile, the ceiling fan energy index (CFEI), a ratio of reference fan power i
 
 ![Chart
 
-Description automatically generated](<../.gitbook/assets/1 (11).png>)
+Description automatically generated](<../.gitbook/assets/1 (13).png>)
 
 Figure T3. Fan efficacy versus total airflow and power.
 
@@ -115,7 +115,7 @@ For fans that intend for direct cooling towards human body, customers tend to se
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/2 (4).png>)
+Description automatically generated](<../.gitbook/assets/2 (6).png>)
 
 Figure T4. Example airflow pattens for (a) desk fans, (b) pedestal fans, (c) tower fans, (d) wall mounted fangs, (e) bladeless ceiling fans, and (f) air circulators.
 
@@ -131,7 +131,7 @@ In general, fan performance can be evaluated by the cooling fan efficiency (CFE)
 
 ![Text, letter
 
-Description automatically generated](<../.gitbook/assets/3 (2).png>)
+Description automatically generated](<../.gitbook/assets/3 (3).png>)
 
 It is noted that the cooling effect depends on the effectiveness of convective cooling towards subject’s body, and is affected by air speed, airflow pattern, and fan operation distance. Eventually, the intent of fan usage (local cooling vs air circulation) should have been taken into consideration when quantifying the fan effectiveness.
 

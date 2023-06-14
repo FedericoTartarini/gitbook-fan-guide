@@ -14,7 +14,7 @@ To maximize uniformity of air speeds in a space with standard ceiling fans, choo
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/0 (10).png>)
+Description automatically generated](<../.gitbook/assets/0 (11).png>)
 
 Figure 34. Recommended sizing and layout for single-fan applications in a small room.
 
@@ -22,7 +22,7 @@ For spaces requiring multiple fans the overall layout should be determined by su
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/1 (12).png>)
+Description automatically generated](<../.gitbook/assets/1 (14).png>)
 
 Figure 35. Recommended ceiling fan size and layout for multi-fan applications. (a) Warehouse with higher room height, (b) office with lower room height.
 
@@ -34,7 +34,7 @@ Users are advised to install ceiling fans following the manufacturer’s recomme
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/2 (3).png>)
+Description automatically generated](<../.gitbook/assets/2 (4).png>)
 
 Figure 36. Ceiling fans installation parts.
 
@@ -46,7 +46,7 @@ Standard ceiling fans must be mounted at least 2.1 m \[7 ft] above the floor to 
 
 ![Diagram
 
-Description automatically generated](../.gitbook/assets/3.png)
+Description automatically generated](<../.gitbook/assets/3 (2).png>)
 
 Figure 37. Minimum clearances for standard ceiling fans.
 
@@ -74,7 +74,7 @@ double-fan case: [https://cbe-berkeley.shinyapps.io/two-fans](https://cbe-berkel
 
 ![Diagram, engineering drawing, calendar
 
-Description automatically generated](<../.gitbook/assets/5 (3).png>)
+Description automatically generated](<../.gitbook/assets/5 (5).png>)
 
 Figure 39. Air circulation pattern and interaction between two ceiling fans. (a) comparable air speed at closer fans distance, (b) dominant airs peed at closer fans distance, (c) comparable air speed at further fans distance, and (d) dominant air speed at further fans distance.
 
@@ -113,7 +113,7 @@ There are many adverse effects that are caused by visual flicker. Increased visu
 
 ![Diagram
 
-Description automatically generated with medium confidence](<../.gitbook/assets/9 (2).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/9 (3).png>)
 
 Figure 43. An experimental setup that had followed the design recommendations to remove flicker when using a ceiling fan and recess lighting. The sectional view (a) shows that the blade does not overlap with the light fixture, but the perspective view (b) from a desk shows flicker can be seen.
 
@@ -192,7 +192,7 @@ Similarly, the airflow pattern in the underfloor air distribution (UFAD) system 
 
 ![Diagram
 
-Description automatically generated](../.gitbook/assets/15.jpeg)
+Description automatically generated](<../.gitbook/assets/15 (1).jpeg>)
 
 Figure 49. Airflow patterns for underfloor air distribution (UFAD) ([ref](https://en.wikipedia.org/wiki/Underfloor\_air\_distribution)).
 
@@ -239,7 +239,7 @@ In automatic mode, the integrated PMV-SET (Predicted Mean Vote - Standard Effect
 
 ![Diagram
 
-Description automatically generated](../.gitbook/assets/18.png)
+Description automatically generated](<../.gitbook/assets/18 (1).png>)
 
 Figure 52. Automatic control mode of Ceiling Fan using PMV-SET algorithm and occupancy sensors.
 
@@ -247,6 +247,6 @@ In cooperative mode, the ceiling system operates based on the environmental data
 
 ![Timeline
 
-Description automatically generated](../.gitbook/assets/19.png)
+Description automatically generated](<../.gitbook/assets/19 (1).png>)
 
 Figure 53. Ceiling Fancooperative control mode using user preference feedback.

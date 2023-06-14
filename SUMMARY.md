@@ -22,6 +22,9 @@
 * [System design comparison: conventional AC vs ceiling fan integrated AC](full-guidebook/system-design-comparison-conventional-ac-vs-ceiling-fan-integrated-ac.md)
 * [Prior to elevated air movement design](full-guidebook/prior-to-elevated-air-movement-design.md)
 * [Transformation from conventional AC to fan integrated AC system](full-guidebook/transformation-from-conventional-ac-to-fan-integrated-ac-system.md)
+* [Codes and Standards](full-guidebook/codes-and-standards.md)
+* [Available design tools](full-guidebook/available-design-tools.md)
+* [Detailed scientific field studies](full-guidebook/detailed-scientific-field-studies.md)
 
 ## About this work
 

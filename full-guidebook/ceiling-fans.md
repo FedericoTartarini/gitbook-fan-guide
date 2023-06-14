@@ -80,7 +80,7 @@ Ceiling fans are available in a wide range of diameters, from very small fans ap
 
 ![Chart, histogram
 
-Description automatically generated](<../.gitbook/assets/1 (6).png>)
+Description automatically generated](<../.gitbook/assets/1 (7).png>)
 
 Figure 9. Distribution of fan diameters in a random sample of the fans in the CEC MAEDbS appliance database ([ref](https://www.energy.ca.gov/programs-and-topics/programs/appliance-efficiency-program-outreach-and-education/modernized)).
 
@@ -102,7 +102,7 @@ Meanwhile, the ceiling fan energy index (CFEI) ([ref](https://www.amca.org/asset
 
 ![Chart
 
-Description automatically generated](<../.gitbook/assets/3 (5).png>)
+Description automatically generated](<../.gitbook/assets/3 (6).png>)
 
 Figure 11. Fan efficacy versus total airflow and power.
 
@@ -110,7 +110,7 @@ Fans that can turn down to a low rotational speed and maintain good motor effici
 
 ![Diagram, histogram
 
-Description automatically generated](<../.gitbook/assets/4 (5).png>)
+Description automatically generated](<../.gitbook/assets/4 (6).png>)
 
 Figure 12. Relationship of power and fan speed settings for eight fans of different diameters (data from a selection of fans from [MAEDbS](https://cacertappliances.energy.ca.gov/Pages/ApplianceSearch.aspx)).
 
@@ -118,7 +118,7 @@ However, there is considerable variation in performance between models of fans w
 
 ![A close up of a map
 
-Description automatically generated](<../.gitbook/assets/5 (2).png>)
+Description automatically generated](<../.gitbook/assets/5 (3).png>)
 
 Figure 13. Relationship of power and fan speed settings for four different 5-foot (1.5m) diameter fans.
 
@@ -134,7 +134,7 @@ Drawing data again from the CEC’s MAEDbS system, Figure 15 presents random sam
 
 ![Chart, scatter chart
 
-Description automatically generated](<../.gitbook/assets/7 (2).png>)
+Description automatically generated](<../.gitbook/assets/7 (3).png>)
 
 Figure 15. Airflow and fan diameter for ceiling fans in the CEC MAEDbS appliance database ([ref](https://www.energy.ca.gov/programs-and-topics/programs/appliance-efficiency-program-outreach-and-education/modernized)).
 
@@ -178,7 +178,7 @@ Description automatically generated](<../.gitbook/assets/10 (1).png>)Figure 18. 
 
 ![Chart, line chart
 
-Description automatically generated](<../.gitbook/assets/11 (3).png>)
+Description automatically generated](<../.gitbook/assets/11 (4).png>)
 
 Figure 19. Air speeds over distance from the fan center ([Ref](https://doi.org/10.1016/j.buildenv.2019.03.040)).
 
@@ -210,7 +210,7 @@ Building automation system interface: some fans may also be controlled through b
 
 ![A picture containing white, electronics, jack, different
 
-Description automatically generated](<../.gitbook/assets/12 (1).png>)
+Description automatically generated](<../.gitbook/assets/12 (2).png>)
 
 Figure 20. Inappropriate examples of ceiling fan wall controls (Images courtesy Elaina Present).
 

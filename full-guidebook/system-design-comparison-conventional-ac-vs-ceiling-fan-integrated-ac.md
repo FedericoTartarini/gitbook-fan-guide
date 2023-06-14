@@ -34,7 +34,7 @@ Estimation from a consultant firm suggests that the ceiling fan integrated air-c
 
 Substantial energy for space cooling can be accrued when implementing the elevated air movement with higher temperature cooling strategy. An energy simulation model of a standard office, in Figure 55, shows approximately 17 % of energy saving in the HVAC system by increasing the cooling temperature setpoint from 22 °C \[72 °F] to 25 °C \[77 °F]. In such room temperature setpoint adjustment, higher chilled water supply temperature (10 °C \[50 °F]) can be used, instead of the conventional temperature setpoint (7 °C \[44.6 °F]), which it would account for approximately 12% of additional energy saving from the chiller. Meanwhile, the consumption of cooling energy savings by increased room temperature setpoint tends to be much greater than the ceiling fans energy consumption. A study of 100 automated ceiling fan showed 36% of compressors energy savings when compared with air-conditioning only conditions, while the fans consumed only 2% of the total compressors consumption ([ref](https://www.sciencedirect.com/science/article/pii/S0378778821006034)).
 
-![](<../.gitbook/assets/1 (8).png>)
+![](<../.gitbook/assets/1 (9).png>)
 
 Figure 55. Percentage of mechanical system energy savings by increased cooling temperature setpoints \[Duarte et al. 2017]. The baseline temperature is at 22 °C \[71.6 °F], either reflecting cooling setpoint increase at 0 °C \[0 °F] in the x-axis.
 
