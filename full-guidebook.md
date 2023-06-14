@@ -1,3 +1,0 @@
-# Full guidebook
-
-Full
