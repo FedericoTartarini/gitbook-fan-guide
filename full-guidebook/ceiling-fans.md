@@ -58,7 +58,7 @@ Similarly, increasing the blade’s angle may also increase airflow at the cost 
 
 ![Chart
 
-Description automatically generated with low confidence](<../.gitbook/assets/0 (2).png>)
+Description automatically generated with low confidence](<../.gitbook/assets/0 (3).png>)
 
 Figure 8. Ceiling Fan Blade Types.
 
@@ -80,7 +80,7 @@ Ceiling fans are available in a wide range of diameters, from very small fans ap
 
 ![Chart, histogram
 
-Description automatically generated](<../.gitbook/assets/1 (4).png>)
+Description automatically generated](<../.gitbook/assets/1 (5).png>)
 
 Figure 9. Distribution of fan diameters in a random sample of the fans in the CEC MAEDbS appliance database ([ref](https://www.energy.ca.gov/programs-and-topics/programs/appliance-efficiency-program-outreach-and-education/modernized)).
 
@@ -102,7 +102,7 @@ Meanwhile, the ceiling fan energy index (CFEI) ([ref](https://www.amca.org/asset
 
 ![Chart
 
-Description automatically generated](<../.gitbook/assets/3 (4).png>)
+Description automatically generated](<../.gitbook/assets/3 (5).png>)
 
 Figure 11. Fan efficacy versus total airflow and power.
 

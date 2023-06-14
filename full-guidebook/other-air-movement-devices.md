@@ -20,7 +20,7 @@ Pedestal fans, also known as standing fans, are quite similar to desk fans, but 
 
 Another common type of fan used on the floor is the tower fans. Unlike axial fans (draw and deliver air along the fan axis), a tower fan is a crossflow variety (draw and deliver air perpendicular to the impeller fan axis). A crossflow fan pulls air from the inlet into a cylindrical impeller vane, housed inside the tall and slim fan structure, by setting up a cylindrical vortex of spinning air. The vortex then swings the air to the opposite side of the impeller blades and pushes the air out alongside the rectification plate (i.e., the outlet duct). The enclosed impeller blade design maximizes safety for residential usage, especially with kids and pets around. The tower-like structure is fixed on a base and rotates horizontally to extend the air movement sweeping area. The tower fans are compact and lightweight, and fit well for any indoor spaces serving both personal cooling and air circulation purposes. The airflow produced by tower fan is usually laminar and uniform along the tower. Figure 21e shows an example of a tower fan.
 
-![](<../.gitbook/assets/0 (3).png>)
+![](<../.gitbook/assets/0 (4).png>)
 
 Figure 21. Examples of other air movement devices: (a) desk fan, (b) clip-on fan, (c) bladeless fan, (d) pedestal fan, and (e) tower fan.
 
@@ -28,7 +28,7 @@ Figure 21. Examples of other air movement devices: (a) desk fan, (b) clip-on fan
 
 A wall mounted fan is basically a pedestal fan without a base that is mounted on the wall. Sometimes these fans may also mount to the ceiling. Yet, different from conventional ceiling fans, these “ceiling mounted” fan can oscillate in 180 °. It is a good choice to provide a breeze over the human body and enhance room air circulation when the space and floor-to-ceiling height is limited. Figure 22 shows some examples of wall mounted fans.
 
-![](<../.gitbook/assets/1 (3).png>)
+![](<../.gitbook/assets/1 (4).png>)
 
 Figure 22. Examples of wall mounted fans.
 

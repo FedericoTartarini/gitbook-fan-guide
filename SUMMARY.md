@@ -4,11 +4,9 @@
 
 ## Practitioner Summary
 
-* [Page 1](practitioner-summary/page-1.md)
-
-***
-
-* [Page 2](page-2.md)
+* [Introduction](practitioner-summary/introduction.md)
+* [Fan options and considerable metrics](practitioner-summary/fan-options-and-considerable-metrics.md)
+* [Designing air movement in space](practitioner-summary/designing-air-movement-in-space.md)
 
 ## Full Guidebook
 
