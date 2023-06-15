@@ -2,9 +2,8 @@
 
 Fans are more than just a basic amenity for residential applications. Increasingly, fans are found in applications varying from industrial to commercial buildings, from semi-outdoor spaces and high-end hospitality settings, and everything in between. The extensive use of fans in residential applications (over 80% of single-family homes in the United States have at least one ceiling fan), as demonstrated in Figure 1 below, indicates their effectiveness in supporting thermal comfort, and occupant demand for controllable air movement.
 
-![Chart
-
-Description automatically generated with medium confidence](<../.gitbook/assets/0 (5).png>)
+![
+](<../.gitbook/assets/0 (5).png>)
 
 Figure 1. Number of fans per household by housing unit type, data source: U.S. Energy Information Administration 2015 Residential Energy Consumption Survey.
 
