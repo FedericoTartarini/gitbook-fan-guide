@@ -172,7 +172,7 @@ Meanwhile, detailed field study data suggested that the energy saving potential 
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/13 (3).png>) ![](../.gitbook/assets/14.png)
+Description automatically generated](<../.gitbook/assets/13 (2).png>) ![](../.gitbook/assets/14.png)
 
 Figure S12. Mean hourly power consumption for (a) air conditioning compressor and (b) ceiling fan. Dashed lines\
 on x-axes and y-axes indicates median, solid line indicates mean.

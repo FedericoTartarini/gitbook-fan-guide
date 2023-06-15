@@ -16,5 +16,3 @@ In general, ceiling fans are effective for both comfort cooling and air circulat
 
 ![Figure T6. Fans selection examples based on different design intents.
 ](<../.gitbook/assets/1 (2).png>)
-
-Figure T6. Fans selection examples based on different design intents.
