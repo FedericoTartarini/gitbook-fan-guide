@@ -10,6 +10,7 @@
 * [Available design tools](practitioner-summary/available-design-tools.md)
 * [Practical transformation to fan integrated AC system](practitioner-summary/practical-transformation-to-fan-integrated-ac-system.md)
 * [Ceiling fan integration with HVAC system](practitioner-summary/ceiling-fan-integration-with-hvac-system.md)
+* [Related codes and standards](practitioner-summary/related-codes-and-standards.md)
 
 ## Full Guidebook
 
