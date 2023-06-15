@@ -74,7 +74,7 @@ All other factors being equal, a larger diameter fan will produce greater airflo
 
 For any particular fan, airflow is linear with rotational speed, as Figure 10 also shows. Additionally, the air speed at any point in the space is also directly linear with fan rotational speed. So, if a point in the room measures 0.5 m/s \[100 fpm] when the fan is rotating at 1.3 Hz \[80 rpm], it will measure approximately 0.25 m/s \[50 fpm] at 0.7 Hz \[40 rpm]. This relationship begins to break down at very low air speed, very low rotational speeds, or where the fan blade height is unusually far from the floor (e.g., > 3 m \[10 ft]).
 
-![Figure 10. Fan rotation speed and fan airflow for fans of varying diameters.](<../.gitbook/assets/2 (3).png>)
+![Figure 10. Fan rotation speed and fan airflow for fans of varying diameters.](<../.gitbook/assets/2 (2).png>)
 
 ### Power and fan efficacy <a href="#_heading-h.37m2jsg" id="_heading-h.37m2jsg"></a>
 
