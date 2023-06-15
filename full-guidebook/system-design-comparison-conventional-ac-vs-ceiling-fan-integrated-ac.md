@@ -6,11 +6,7 @@ This section discusses the difference in design and components needed between th
 
 Alternatively, shown in Figure 54b, the ceiling fan integrated air-conditioning design for the same layout requires only the main supply air duct throwing cool air directly from the sidewall towards the center of space. The ceiling fans can effectively mix the air and temperature within the space, without any diffusers nor extensive supply air ducts for uniform air distribution. The number of ceiling fan and corresponding installation location can be estimated using the [CBE Ceiling Fan Design Tool](https://centerforthebuiltenvironment.github.io/fan-tool/).
 
-![Diagram, engineering drawing
-
-Description automatically generated](<../.gitbook/assets/0 (2).png>)
-
-Figure 54. Example design layout for (a) conventional HVAC system with supply air ducts and diffusers, (b) Ceiling fan integrated HVAC system with limited air ducts.
+![Figure 54. Example design layout for (a) conventional HVAC system with supply air ducts and diffusers, (b) Ceiling fan integrated HVAC system with limited air ducts.](<../.gitbook/assets/0 (2).png>)
 
 ## System design, selection, and operation <a href="#_toc137455709" id="_toc137455709"></a>
 
@@ -34,9 +30,7 @@ Estimation from a consultant firm suggests that the ceiling fan integrated air-c
 
 Substantial energy for space cooling can be accrued when implementing the elevated air movement with higher temperature cooling strategy. An energy simulation model of a standard office, in Figure 55, shows approximately 17 % of energy saving in the HVAC system by increasing the cooling temperature setpoint from 22 °C \[72 °F] to 25 °C \[77 °F]. In such room temperature setpoint adjustment, higher chilled water supply temperature (10 °C \[50 °F]) can be used, instead of the conventional temperature setpoint (7 °C \[44.6 °F]), which it would account for approximately 12% of additional energy saving from the chiller. Meanwhile, the consumption of cooling energy savings by increased room temperature setpoint tends to be much greater than the ceiling fans energy consumption. A study of 100 automated ceiling fan showed 36% of compressors energy savings when compared with air-conditioning only conditions, while the fans consumed only 2% of the total compressors consumption ([ref](https://www.sciencedirect.com/science/article/pii/S0378778821006034)).
 
-![](<../.gitbook/assets/1 (9).png>)
-
-Figure 55. Percentage of mechanical system energy savings by increased cooling temperature setpoints \[Duarte et al. 2017]. The baseline temperature is at 22 °C \[71.6 °F], either reflecting cooling setpoint increase at 0 °C \[0 °F] in the x-axis.
+![Figure 55. Percentage of mechanical system energy savings by increased cooling temperature setpoints \[Duarte et al. 2017\]. The baseline temperature is at 22 °C \[71.6 °F\], either reflecting cooling setpoint increase at 0 °C \[0 °F\] in the x-axis.](<../.gitbook/assets/1 (9).png>)
 
 ## Continue testing and adjustment <a href="#_toc137455715" id="_toc137455715"></a>
 

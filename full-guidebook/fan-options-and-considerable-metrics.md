@@ -8,13 +8,7 @@ The US Department of Energy (DOE) defines a variety of ceiling fan types in the 
 
 Table T1. Ceiling Fan Blade and Tip Speed Criteria (adapted from DOE definitions).
 
-| Airflow Direction | Thickness (t) of edges of blades | Tip speed threshold |      |      |
-| ----------------- | -------------------------------- | ------------------- | ---- | ---- |
-| mm                | in                               | m/s                 | fpm  |      |
-| Downward-Only     | 4.8 > t ≥ 3.2                    | 3/16 > t ≥ 1/8      | 16.3 | 3200 |
-| Downward-Only     | t ≥ 4.8                          | t ≥ 3/16            | 20.3 | 4000 |
-| Reversible        | 4.8 > t ≥ 3.2                    | 3/16 > t ≥ 1/8      | 12.2 | 2400 |
-| Reversible        | t ≥ 4.8                          | t ≥ 3/16            | 16.3 | 3200 |
+<table data-header-hidden><thead><tr><th></th><th width="168"></th><th></th><th width="104"></th><th></th></tr></thead><tbody><tr><td>Airflow Direction</td><td>Thickness (t) of edges of blades</td><td>Tip speed threshold</td><td></td><td></td></tr><tr><td>mm</td><td>in</td><td>m/s</td><td>fpm</td><td></td></tr><tr><td>Downward-Only</td><td>4.8 > t ≥ 3.2</td><td>3/16 > t ≥ 1/8</td><td>16.3</td><td>3200</td></tr><tr><td>Downward-Only</td><td>t ≥ 4.8</td><td>t ≥ 3/16</td><td>20.3</td><td>4000</td></tr><tr><td>Reversible</td><td>4.8 > t ≥ 3.2</td><td>3/16 > t ≥ 1/8</td><td>12.2</td><td>2400</td></tr><tr><td>Reversible</td><td>t ≥ 4.8</td><td>t ≥ 3/16</td><td>16.3</td><td>3200</td></tr></tbody></table>
 
 Table T2. Common ceiling fan types (adapted from DOE definitions)
 

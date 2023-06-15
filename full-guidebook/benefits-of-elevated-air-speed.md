@@ -2,10 +2,8 @@
 
 Fans are more than just a basic amenity for residential applications. Increasingly, fans are found in applications varying from industrial to commercial buildings, from semi-outdoor spaces and high-end hospitality settings, and everything in between. The extensive use of fans in residential applications (over 80% of single-family homes in the United States have at least one ceiling fan), as demonstrated in Figure 1 below, indicates their effectiveness in supporting thermal comfort, and occupant demand for controllable air movement.
 
-![
+![Figure 1. Number of fans per household by housing unit type, data source: U.S. Energy Information Administration 2015 Residential Energy Consumption Survey.
 ](<../.gitbook/assets/0 (5).png>)
-
-Figure 1. Number of fans per household by housing unit type, data source: U.S. Energy Information Administration 2015 Residential Energy Consumption Survey.
 
 This widespread applicability stems from the many benefits that fans can provide in interior environments. The key benefits of fans include thermal comfort, improved air distribution, improved air quality, energy savings, and first and operating cost reductions.
 
@@ -13,11 +11,7 @@ This widespread applicability stems from the many benefits that fans can provide
 
 Simply stated, thermal comfort is an occupant’s satisfaction (“comfort”) with the thermal environment. For centuries, humans have been using air movement to help regulate thermal comfort. In warm conditions there is generally less heat loss from the skin than in cooler conditions, so people are at risk of warming up as our body needs to continually lose the heat produced in the body core. Increased air movement across the skin carries away more heat from the body via two physical process, convection, and evaporation, thereby restoring comfort. Since the advent of mechanical air-conditioning systems, building designers have largely focused on air temperature and humidity. However, modifying other factors of thermal comfort, such as air speed, changes how the air temperature is perceived. Occupants near a fan feel cooler than they would feel at the same temperature and humidity in still air, like the phenomenon of “wind chill”. Therefore, when the air temperature is warmer, occupants near a fan will be more comfortable than they would be in still air conditions. In addition, large-scale studies of occupant survey data indicate that occupants would prefer more air movement than they have, especially they report feeling warm, as illustrated in Figure 2. These studies also show that increasing air speed can increase satisfaction under all comfort conditions, as Figure 2 shows in these cases, 40% of occupants also prefer more air movement.
 
-![Diagram
-
-Description automatically generated](<../.gitbook/assets/1 (10).png>)
-
-Figure 2. Occupant preference for more air movement (Data source: ASHRAE Global Thermal Comfort Database II).
+![Figure 2. Occupant preference for more air movement (Data source: ASHRAE Global Thermal Comfort Database II).](<../.gitbook/assets/1 (10).png>)
 
 ### Improved air distribution <a href="#_toc137455637" id="_toc137455637"></a>
 
@@ -29,8 +23,8 @@ By increasing air movement and improving air distribution in a space, fans can a
 
 ## Energy savings <a href="#_toc137455639" id="_toc137455639"></a>
 
-Perhaps most importantly, when implemented effectively as an integral component of a building’s thermal comfort strategy, fans can also result in significant energy savings by reducing the demand on the HVAC system. Although they consume energy, the potential HVAC savings outweighs fan energy use, typically by a factor ranging between 10 and 100 times. The primary energy saving derives from thermal comfort benefits, keeping occupants comfortable at higher temperatures, and allowing for increased cooling setpoints. In cooling, a room with fans is thermally comfortable over a wider range of temperatures than a room without fans. This wider range of temperatures reduces the cooling and AHU fan energy. Lastly, when ceiling fans are used to provide air distribution, reducing the extent of distribution ductwork and diffusers, they also help reduce HVAC fan energy by reducing the pressure drop in the air system. The section on Modelling, Simulation and Estimating Energy Savings discusses these effects in more detail.
+Perhaps most importantly, when implemented effectively as an integral component of a building’s thermal comfort strategy, fans can also result in significant energy savings by reducing the demand on the HVAC system. Although they consume energy, the potential HVAC savings outweighs fan energy use, typically by a factor ranging between 10 and 100 times. The primary energy saving derives from thermal comfort benefits, keeping occupants comfortable at higher temperatures, and allowing for increased cooling set points. In cooling, a room with fans is thermally comfortable over a wider range of temperatures than a room without fans. This wider range of temperatures reduces the cooling and AHU fan energy. Lastly, when ceiling fans are used to provide air distribution, reducing the extent of distribution ductwork and diffusers, they also help reduce HVAC fan energy by reducing the pressure drop in the air system. The section on Modelling, Simulation and Estimating Energy Savings discusses these effects in more detail.
 
 ## Cost savings <a href="#_heading-h.1t3h5sf" id="_heading-h.1t3h5sf"></a>
 
-Using ceiling fans to distribute air more effectively throughout a space can reduce the extent of distribution ductwork and diffusers required to serve a zone. Additionally, if the same zone is designed to a slightly higher cooling setpoint due to the comfort cooling effect provided by the fans, this can reduce the required latent and sensible cooling capacity of the HVAC system, providing first cost savings to chiller, air handling unit, and ductwork. The cost of fans is low when compared with the savings generated by the reduction of ducts and HVAC capacity. Moreover, as fans can help reduce energy consumption, they will consequently reduce the energy costs.
+Using ceiling fans to distribute air more effectively throughout a space can reduce the extent of distribution ductwork and diffusers required to serve a zone. Additionally, if the same zone is designed to a slightly higher cooling set point due to the comfort cooling effect provided by the fans, this can reduce the required latent and sensible cooling capacity of the HVAC system, providing first cost savings to chiller, air handling unit, and ductwork. The cost of fans is low when compared with the savings generated by the reduction of ducts and HVAC capacity. Moreover, as fans can help reduce energy consumption, they will consequently reduce the energy costs.
