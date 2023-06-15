@@ -170,7 +170,7 @@ Radiant heating and cooling systems can achieve significant energy savings, peak
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/13 (2).png>)
+Description automatically generated](<../.gitbook/assets/13 (3).png>)
 
 Figure 47. Example for radiant cooling system (a) directly embedded piping inside slab, and (b) piping installed inside radiant panel.
 
