@@ -1,5 +1,7 @@
 ---
-description: In this page we keep a record of all the versions of the guidebook
+description: >-
+  In this page we keep a record of all the versions of the guidebook with the
+  most recent on top
 ---
 
 # Version

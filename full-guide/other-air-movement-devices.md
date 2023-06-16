@@ -26,7 +26,7 @@ Figure 21. Examples of other air movement devices: (a) desk fan, (b) clip-on fan
 
 A wall mounted fan is basically a pedestal fan without a base that is mounted on the wall. Sometimes these fans may also mount to the ceiling. Yet, different from conventional ceiling fans, these “ceiling mounted” fan can oscillate in 180 °. It is a good choice to provide a breeze over the human body and enhance room air circulation when the space and floor-to-ceiling height is limited. Figure 22 shows some examples of wall mounted fans.
 
-![](<../.gitbook/assets/1 (25).png>)
+![](<../.gitbook/assets/1 (11).png>)
 
 Figure 22. Examples of wall mounted fans.
 
@@ -99,7 +99,7 @@ Due to different design and usage, the performance of cooling fans (e.g., ceilin
 
 ![A picture containing text, line, diagram, screenshot
 
-Description automatically generated](<../.gitbook/assets/5 (15).png>)
+Description automatically generated](<../.gitbook/assets/5 (4).png>)
 
 Figure 25. CFE index versus fan power for the ceiling fan (CF), desk fan (DF) standing fan (SF) and tower fan (TF). Lines with constant whole-body cooling effect (∆teq) are plotted.
 
@@ -117,13 +117,13 @@ Direct cooling towards human body: When choosing an air movement device, custome
 
 ![A picture containing text, diagram, line, font
 
-Description automatically generated](<../.gitbook/assets/6 (5).png>)
+Description automatically generated](<../.gitbook/assets/6 (9).png>)
 
 Figure 26. Demonstration of thermal comfort condition and corresponding cooling effect.
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/7 (9).png>)
+Description automatically generated](../.gitbook/assets/7.png)
 
 Figure 27. Illustration of airflow patterns for (a) desk fan, (b) pedestal fan, (c) tower fan, and (d) wall-mounted fan.
 
@@ -133,7 +133,7 @@ The airflow pattern of bladeless ceiling fan is quite similar to a reversely ope
 
 ![Diagram
 
-Description automatically generated](../.gitbook/assets/8.jpeg)
+Description automatically generated](<../.gitbook/assets/8 (1).jpeg>)
 
 Figure 28. Schematic of airflow pattern driven by bladeless ceiling fan.
 

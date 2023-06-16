@@ -43,6 +43,6 @@ Within a space, different types of fans can be integrated to maximize occupantsâ
 
 ![A picture containing text, screenshot, font, diagram
 
-Description automatically generated](<../.gitbook/assets/1 (4).png>)
+Description automatically generated](<../.gitbook/assets/1 (16).png>)
 
 Figure 33. Fans selection examples based on different design intents.
