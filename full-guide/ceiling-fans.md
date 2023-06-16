@@ -58,7 +58,7 @@ Similarly, increasing the blade’s angle may also increase airflow at the cost 
 
 ![Chart
 
-Description automatically generated with low confidence](<../.gitbook/assets/0 (39).png>)
+Description automatically generated with low confidence](<../.gitbook/assets/0 (32).png>)
 
 Figure 8. Ceiling Fan Blade Types.
 
@@ -78,7 +78,7 @@ Several factors determine a ceiling fan’s performance, as well as its suitabil
 
 Ceiling fans are available in a wide range of diameters, from very small fans approximately 45 cm \[18 in] in diameter to very large fans up to 7m \[24 ft] in diameter. Determining the appropriate fan diameter depends largely on the dimensions of the space and the application, as discussed in more detail later in this guide. The California Energy Commission maintains the Modernized Appliance Efficiency Database System ([MAEDbS](https://www.energy.ca.gov/programs-and-topics/programs/appliance-efficiency-program-outreach-and-education/modernized)), which contains a large dataset of information on ceiling fans as well as many other types of appliances. For context, this dataset shows that most fan models on the market today are between 1.2 – 1.5 m \[4 – 5 ft] in diameter, and presumably therefore aimed at the residential market, as illustrated in Figure 9, below.
 
-![](<../.gitbook/assets/1 (33).png>)
+![](<../.gitbook/assets/1 (23).png>)
 
 Figure 9. Distribution of fan diameters in a random sample of the fans in the CEC [MAEDbS database](https://www.energy.ca.gov/programs-and-topics/programs/appliance-efficiency-program-outreach-and-education/modernized).
 
@@ -86,7 +86,7 @@ All other factors being equal, a larger diameter fan will produce greater airflo
 
 For any particular fan, airflow is linear with rotational speed, as Figure 10 also shows. Additionally, the air speed at any point in the space is also directly linear with fan rotational speed. So, if a point in the room measures 0.5 m/s \[100 fpm] when the fan is rotating at 1.3 Hz \[80 rpm], it will measure approximately 0.25 m/s \[50 fpm] at 0.7 Hz \[40 rpm]. This relationship begins to break down at very low air speed, very low rotational speeds, or where the fan blade height is unusually far from the floor (e.g., > 3 m \[10 ft]).
 
-![](<../.gitbook/assets/2 (3).jpeg>)
+![](<../.gitbook/assets/2 (2).jpeg>)
 
 Figure 10. Fan rotation speed and fan airflow for fans of varying diameters.
 
@@ -96,13 +96,13 @@ The power consumed by a fan increases in proportion to the cube of its rotationa
 
 Meanwhile, the [ceiling fan energy index (CFEI)](https://www.amca.org/assets/resources/public/assets/uploads/Introducing\_Ceiling\_Fan\_Energy\_Index\_2.pdf), a ratio of reference fan power input to actual fan power input, is a more reliable alternative in reflecting the above blind spot. It helps to make inefficient fans less likely to comply with slower speeds and to remove the unintentional barrier to compliance for high-performing high-utility fans by comparing fans to a standardized baseline. Taken the same example in Figure T8, CFEI at high fan speed for the left most and right most curve is, respectively, 0.63 (less efficient) and 1.72 (more efficient). See section “Ceiling fans testing regulations” for more information.
 
-![](<../.gitbook/assets/3 (18).png>)
+![](<../.gitbook/assets/3 (11).png>)
 
 Figure 11. Fan efficacy versus total airflow and power.
 
 Fans that can turn down to a low rotational speed and maintain good motor efficiency at that speed can operate very efficiently under those conditions. There are several fans in the market with an efficacy of over 0.47 m³/s·W \[1000 CFM/W] at their lowest operating speed. Other fans typically have a relatively high minimum speed, and often also have poor motor efficiency at that speed, and these fans benefit less from speed reduction. Generally, the ability of a fan to operate efficiently at lower speed improves as the diameter increases, as Figure 12 demonstrates.
 
-![](<../.gitbook/assets/4 (19).png>)
+![](<../.gitbook/assets/4 (14).png>)
 
 Figure 12. Relationship of power and fan speed settings for eight fans of different diameters (data from a selection of fans from [MAEDbS](https://cacertappliances.energy.ca.gov/Pages/ApplianceSearch.aspx)).
 
@@ -110,11 +110,11 @@ However, there is considerable variation in performance between models of fans w
 
 ![A close up of a map
 
-Description automatically generated](<../.gitbook/assets/5 (18).png>)
+Description automatically generated](<../.gitbook/assets/5 (12).png>)
 
 Figure 13. Relationship of power and fan speed settings for four different 5-foot (1.5m) diameter fans.
 
-![](<../.gitbook/assets/6 (15).png>)
+![](<../.gitbook/assets/6 (6).png>)
 
 Figure 14. Minimum fan speed for ceiling fans in the CEC [MAEDbS database](https://www.energy.ca.gov/programs-and-topics/programs/appliance-efficiency-program-outreach-and-education/modernized).
 
@@ -122,7 +122,7 @@ Figure 14. Minimum fan speed for ceiling fans in the CEC [MAEDbS database](https
 
 Drawing data again from the CEC’s MAEDbS system, Figure 15 presents random samples of the fans available in the database. This gives a perspective of the range of fan diameters and associated range of fan airflows available on the market today. The test methods for rating the airflow of these fans are federally regulated under [10 CFR 430 Appendix U](https://www.govinfo.gov/app/details/CFR-2011-title10-vol3/CFR-2011-title10-vol3-part430-subpartB-appU). For standard fans, the rating is determined by a modified Energy Star method, which infers airflow from an anemometer traverse below the fan. For large diameter fans (above 7ft), the rating is determined by the AMCA 230-15 test method, which infers airflow from a load cell measurement of fan.
 
-![](<../.gitbook/assets/7 (14).png>)
+![](<../.gitbook/assets/7 (9).png>)
 
 Figure 15. Airflow and fan diameter for ceiling fans in the CEC [MAEDbS database](https://www.energy.ca.gov/programs-and-topics/programs/appliance-efficiency-program-outreach-and-education/modernized).
 
@@ -142,7 +142,7 @@ The fan air speed is calculated by dividing the rated airflow of the fan by its 
 
 ![Chart, scatter chart
 
-Description automatically generated](<../.gitbook/assets/8 (8).png>)
+Description automatically generated](<../.gitbook/assets/8 (5).png>)
 
 Figure 16. Maximum fan air speed and fan diameter for ceiling fans in the CEC [MAEDbS database](https://www.energy.ca.gov/programs-and-topics/programs/appliance-efficiency-program-outreach-and-education/modernized).
 
@@ -152,7 +152,7 @@ Most standard fans typically have several fixed fan speed levels. Though some of
 
 The minimum rotational speed on fans with just 3 speed levels is typically still quite high, and often the minimum speed may generate 0.75 m/s \[150 fpm] seated average directly under the fan, equivalent to over 2.8 °C \[5 °F] cooling effect. Having a high minimum speed can be problematic in some applications, such where there are occupants located directly under the fans for extended periods of time (e.g., an office) or when the fan is used to destratify a space in heating mode. The reason is that the minimum speed may generate too much of a cooling effect for the occupants when temperatures are mild or cool, and they cannot reduce the speed further without switching the fan off. In contrast, a high minimum speed is less of a concern in transiently occupied spaces, spaces where occupants can move freely around. Overall, in most applications, it is desirable to have more levels of speed control, particularly a minimum level that is slow enough that it generates low air speeds directly under the fan. A reasonable approximation is that the minimum fan air speed should be below 0.4 m/s \[80 fpm], or a 1.7 °C \[3 °F] cooling effect at the minimum allowed blade height, depending on the specifics of the application.
 
-![](<../.gitbook/assets/9 (14).png>)
+![](<../.gitbook/assets/9 (10).png>)
 
 Figure 17. Number of speed control levels for ceiling fans in the CEC [MAEDbS database](https://www.energy.ca.gov/programs-and-topics/programs/appliance-efficiency-program-outreach-and-education/modernized).
 
@@ -162,11 +162,11 @@ The amount of variation of the air speeds in a space is an important design cons
 
 Figure 18. Example air speed distribution from a ceiling fan ([Gao et al., 2017](https://doi.org/10.1016/j.buildenv.2017.08.029)).
 
-<figure><img src="../.gitbook/assets/10 (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (6).png" alt=""><figcaption></figcaption></figure>
 
 ![Chart, line chart
 
-Description automatically generated](<../.gitbook/assets/11 (11).png>)
+Description automatically generated](<../.gitbook/assets/11 (7).png>)
 
 Figure 19. Air speeds over distance from the fan center ([Raftery et al., 2019](https://doi.org/10.1016/j.buildenv.2019.03.040))
 
@@ -198,7 +198,7 @@ Building automation system interface: some fans may also be controlled through b
 
 ![A picture containing white, electronics, jack, different
 
-Description automatically generated](<../.gitbook/assets/12 (12).png>)
+Description automatically generated](<../.gitbook/assets/12 (5).png>)
 
 Figure 20. Inappropriate examples of ceiling fan wall controls (Images courtesy Elaina Present).
 

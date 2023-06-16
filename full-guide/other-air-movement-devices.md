@@ -93,7 +93,7 @@ In general, efficiency is the ratio of the output to the input. For fans, the Co
 
 ![Text, letter
 
-Description automatically generated](<../.gitbook/assets/4 (13).png>)
+Description automatically generated](<../.gitbook/assets/4 (16).png>)
 
 Due to different design and usage, the performance of cooling fans (e.g., ceiling fan, desk fan, tower fan) with regards to their cooling effect and cooling efficiency can be varied. Figure 25 demonstrates the test results on some ceiling fans, desk fans, tower fans, and standing fans to depict their relationship between CFE and fan power. The desk fan tested in this study consumed the least power (16 – 20 W) and obtained the highest cooling fan efficiency (0.095-0.177 °C/W \[0.17-0.31 °F/W]). The results are interpreted upon normal condition usage of fans, meaning that the desk fan is smaller in size (i.e., smaller motor) and the fan operation distance is closer to human subject (maximize cooling effect) when compared with other fan types. Indeed, desk fans are designed to provide local cooling by generating airflow towards the human body instead of circulating air for the entire space (like the other fans do). Eventually, the intent of fan usage (local cooling vs air circulation) should have been taken into consideration when quantifying the fan effectiveness. While the efficiency of the fan itself is somewhat important, any fan’s electricity consumption (even not the most efficient type) is always relatively low when compared to using just air-conditioning to provide thermally comfortable conditions to humans. More details are discussed in the section “Potential savings” in this guide.
 
@@ -117,7 +117,7 @@ Direct cooling towards human body: When choosing an air movement device, custome
 
 ![A picture containing text, diagram, line, font
 
-Description automatically generated](<../.gitbook/assets/6 (8).png>)
+Description automatically generated](<../.gitbook/assets/6 (9).png>)
 
 Figure 26. Demonstration of thermal comfort condition and corresponding cooling effect.
 
