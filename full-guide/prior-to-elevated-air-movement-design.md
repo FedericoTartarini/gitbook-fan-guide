@@ -16,7 +16,7 @@ Design intent of “Uniformity” (i.e., more regular control) emphasizes unifor
 
 ![A picture containing text, diagram, screenshot, font
 
-Description automatically generated](<../.gitbook/assets/0 (4).png>)
+Description automatically generated](<../.gitbook/assets/0 (14).png>)
 
 Figure 32. Flow chart of design intents for air speed and distribution.
 
@@ -43,6 +43,6 @@ Within a space, different types of fans can be integrated to maximize occupants�
 
 ![A picture containing text, screenshot, font, diagram
 
-Description automatically generated](<../.gitbook/assets/1 (20).png>)
+Description automatically generated](<../.gitbook/assets/1 (2).png>)
 
 Figure 33. Fans selection examples based on different design intents.
