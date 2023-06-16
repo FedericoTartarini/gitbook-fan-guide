@@ -8,7 +8,7 @@ The user enters temperature, air speed, humidity, metabolic rate and clothing le
 
 ![A screenshot of a computer
 
-Description automatically generated with medium confidence](<../.gitbook/assets/0 (17).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/0 (24).png>)
 
 Figure 57. Example of the CBE Thermal Comfort Tool, showing user inputs, psychometric chart, and results.
 
@@ -30,7 +30,7 @@ The CBE Ceiling Fan Design Tool takes into account many of the design factors di
 
 Figure 59. Example CBE Ceiling Fan Design Tool outputs.
 
-![](<../.gitbook/assets/3 (8).png>)
+![](<../.gitbook/assets/3 (4).png>)
 
 Figure 60. Example cell plan from CBE Ceiling Fan Design Tool.
 

@@ -10,7 +10,7 @@ Despite the numerous benefits of fans and fan-integrated systems, comprehensive 
 
 ## What are the available fan options?
 
-There are various fan types available in the market, such as ceiling fans, desk fans, and pedestal fans. This guideline provides a comprehensive overview of the criteria for fan type selection. These criteria cover blade characteristics, fan size, airflow patterns, fan performance metrics, motors and drives, power and efficiency, and control strategies. Ceiling fans are generally preferred due to their efficiency and effectiveness. However, this guideline can assist users in selecting suitable fan types based on individual building characteristics and specific application needs.
+Various fan types are available in the market, such as ceiling fans, desk fans, and pedestal fans. This guideline provides a comprehensive overview of the criteria for fan type selection. These criteria cover blade characteristics, fan size, airflow patterns, fan performance metrics, motors and drives, power and efficiency, and control strategies. Ceiling fans are generally preferred due to their efficiency and effectiveness. However, this guideline can assist users in selecting suitable fan types based on individual building characteristics and specific application needs.
 
 ## How to integrate fans with my existing AC system?
 
