@@ -5,7 +5,7 @@
 [ASHRAE Standard 55 – Thermal Environmental Conditions for Human Occupancy (2020)](https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy) identifies six factors that affect thermal comfort, including clothing insulation, metabolic rate, air temperature, mean radiant temperature, relative humidity, and air speed. Increasing air speed enhances heat transfer via convection and evaporation, which provides a cooling sensation named “[Cooling Effect](https://en.wikipedia.org/wiki/Thermal\_comfort#Cooling\_Effect)”. It allows the body to maintain thermal comfort at higher air temperatures than what would be comfortable in still air. Figure T1 shows how the air speed is associated with cooling effect. More importantly, this cooling effect is instantaneous and beneficial during the transitional moments (i.e., stepping into the building from hot and humid outdoor environment). The ASHRAE Standard 55 (2020) and the [CBE Thermal Comfort Tool](https://comfort.cbe.berkeley.edu/) both help to design how much air movement is needed for thermal comfort and occupant satisfaction.
 
 ![Figure T1. Cooling effect of increased air speed for a ‘typical’ office worker in cooling conditions (operative temperature of 24.4 °C \[76 °F\], 50% relative humidity, 0.6 clo, 1.13 met).
-](<../.gitbook/assets/0 (9).png>)
+](<../.gitbook/assets/0 (17).png>)
 
 ### Thermal comfort calculation with elevated air speed <a href="#_toc137824687" id="_toc137824687"></a>
 

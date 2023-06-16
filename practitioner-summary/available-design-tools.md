@@ -1,7 +1,5 @@
 # Available design tools
 
-### Available design tools <a href="#_toc137824720" id="_toc137824720"></a>
-
 ### CBE thermal comfort tool <a href="#_toc137824721" id="_toc137824721"></a>
 
 The [CBE Thermal Comfort Tool](https://comfort.cbe.berkeley.edu/) is an online tool developed by the Center for the Built Environment at the University of California, Berkeley, which helps users in defining the comfort zones at elevated air speeds according to ASHRAE Standard-55 and EN-16798 methodologies. More details on how the tool functions can be found in the online [User Guide](https://center-for-the-built-environment.gitbook.io/thermal-comfort-tool/documentation/ashrae-55.html).

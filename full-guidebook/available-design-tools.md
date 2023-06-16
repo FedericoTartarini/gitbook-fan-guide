@@ -16,7 +16,7 @@ The CBE Thermal Comfort Tool also takes into account elevated air speeds. As the
 
 ![A screenshot of a graph
 
-Description automatically generated with medium confidence](<../.gitbook/assets/1 (28).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/1 (18).png>)
 
 Figure 58. Example of the CBE Thermal Comfort Tool showing air speed vs. operative air temperature mode.
 
