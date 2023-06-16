@@ -18,7 +18,7 @@ The CBE Thermal Comfort Tool also takes into account elevated air speeds. As the
 
 ![A screenshot of a graph
 
-Description automatically generated with medium confidence](<../.gitbook/assets/1 (15).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/1 (24).png>)
 
 Figure 58. Example of the CBE Thermal Comfort Tool showing air speed vs. operative air temperature mode.
 
@@ -28,7 +28,7 @@ To help determine optimal ceiling fan arrangements, you can use the free online 
 
 The CBE Ceiling Fan Design Tool takes into account many of the design factors discussed in the previous sections. For more details on how the tool functions, please consult the online [User Guide](https://github.com/CenterForTheBuiltEnvironment/fan-tool/wiki/User-Guide). However, it is important to highlight that the tool is mainly applicable for uniform design intent and does not consider the room layout or non-uniform demands that should be taken into consideration by the designer.
 
-![](<../.gitbook/assets/2 (13).png>)
+![](<../.gitbook/assets/2 (5).png>)
 
 Figure 59. Example CBE Ceiling Fan Design Tool outputs.
 
@@ -36,7 +36,7 @@ Figure 59. Example CBE Ceiling Fan Design Tool outputs.
 
 Figure 60. Example cell plan from CBE Ceiling Fan Design Tool.
 
-![](<../.gitbook/assets/4 (12).png>)
+![](<../.gitbook/assets/4 (7).png>)
 
 Figure 61. Example cell section from CBE Ceiling Fan Design Tool.
 
@@ -46,6 +46,6 @@ To demonstrate the energy savings potential of fans in a whole building energy m
 
 ![Graphical user interface
 
-Description automatically generated](<../.gitbook/assets/5 (11).png>)
+Description automatically generated](<../.gitbook/assets/5 (5).png>)
 
 Figure 62. Example of the Setpoint Energy Saving Calculator

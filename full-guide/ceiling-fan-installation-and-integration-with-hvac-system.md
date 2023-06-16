@@ -14,7 +14,7 @@ To maximize uniformity of air speeds in a space with standard ceiling fans, choo
 
 ![A diagram of a fan
 
-Description automatically generated with medium confidence](<../.gitbook/assets/0 (21).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/0 (31).png>)
 
 Figure 34. Recommended sizing and layout for single-fan applications in a small room.
 
@@ -22,7 +22,7 @@ For spaces requiring multiple fans the overall layout should be determined by su
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/1 (18).png>)
+Description automatically generated](<../.gitbook/assets/1 (21).png>)
 
 Figure 35. Recommended ceiling fan size and layout for multi-fan applications. (a) Warehouse with higher room height, (b) office with lower room height.
 
@@ -34,7 +34,7 @@ Users are advised to install ceiling fans following the manufacturer’s recomme
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/2 (11).png>)
+Description automatically generated](<../.gitbook/assets/2 (12).png>)
 
 Figure 36. Ceiling fans installation parts.
 
@@ -46,7 +46,7 @@ Standard ceiling fans must be mounted at least 2.1 m \[7 ft] above the floor to 
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/3 (10).png>)
+Description automatically generated](<../.gitbook/assets/3 (9).png>)
 
 Figure 37. Minimum clearances for standard ceiling fans.
 
@@ -54,7 +54,7 @@ Safety regulations require almost all large-diameter fans (above 2.1m \[7 ft] in
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/4 (13).png>)
+Description automatically generated](<../.gitbook/assets/4 (8).png>)
 
 Figure 38. Minimum clearances for large diameter ceiling fans.
 
@@ -74,7 +74,7 @@ double-fan case: [https://cbe-berkeley.shinyapps.io/two-fans](https://cbe-berkel
 
 ![A picture containing text, diagram, black and white, pattern
 
-Description automatically generated](<../.gitbook/assets/5 (9).png>)
+Description automatically generated](<../.gitbook/assets/5 (11).png>)
 
 Figure 39. Air circulation pattern and interaction between two ceiling fans. (a) comparable air speed at closer fans distance, (b) dominant airs peed at closer fans distance, (c) comparable air speed at further fans distance, and (d) dominant air speed at further fans distance.
 
@@ -101,13 +101,13 @@ When the ceiling fan blade interacts with light distributed from a recess fixtur
 
 The visual line of sight from the occupant to a recess fixture can still be blocked by a ceiling fan since the ceiling fan blades are mounted below the electric light (see Figure 41b). Therefore, this design arrangement between the ceiling fan and recess lighting still creates flicker seen from multiple viewing positions inside the space. Another design option is to use dropdown lighting (i.e., light fixtures are suspended at the level of fan blades or below them, see Figure 41c), which bypasses issues of flicker completely, and prevents strobing on the floor surface. However, drawbacks to this configuration may occur in low floor-to-ceiling applications when reflections from adjacent surfaces are projected back onto the ceiling or onto wall surfaces, creating strobing. Meanwhile, glare from electric lights may also be produced when they are mounted closer to the occupants’ head.
 
-![ceiling fan lighting design strobing and flicker.png](<../.gitbook/assets/7 (8).png>)
+![ceiling fan lighting design strobing and flicker.png](<../.gitbook/assets/7 (7).png>)
 
 Figure 41. Sectional illustrations showing how interactions between ceiling fans and electric fixtures across different configurations convey different issues to the lighting design of that space: (a) strobing and flicker, (b) flicker, and (c) ceiling strobing.
 
 Strobing and flicker can also occur when ceiling fans interact with daylight transmitted through skylights (see Figure 42). These problems will naturally arise when direct sunlight is admitted into the space, increasing both the temperature and the need to use ceiling fans. Unlike recessed lighting, maneuvering the ceiling fan may not remove strobing when the roof is fully glazed by the skylight. The size and number of blades are often larger to increase the effects of space cooling in these applications. This generally increases the area and frequency in which strobing, and flicker may occur inside the space.
 
-![](<../.gitbook/assets/8 (1).jpeg>)
+![](<../.gitbook/assets/8 (3).jpeg>)
 
 Figure 42. Ceiling fans installed onto skylight applications in Singapore, creating problems of strobing and flicker when daylight is admitted into the space.
 
@@ -149,7 +149,7 @@ The function of diffusers and branch ducting in conventional HVAC system is to d
 
 ![Diagram
 
-Description automatically generated](../.gitbook/assets/11.jpeg)
+Description automatically generated](<../.gitbook/assets/11 (1).jpeg>)
 
 Figure 45. Ceiling fan integrated side-wall air supply air-conditioning system.
 
@@ -161,7 +161,7 @@ This approach has been studied for cooling conditions. In heating, the fan may b
 
 ![Chart, diagram
 
-Description automatically generated](<../.gitbook/assets/12 (6).png>)
+Description automatically generated](<../.gitbook/assets/12 (3).png>)
 
 Figure 46. Air temperature variation profile for side-wall air supply at fan blade height and above fan blade height.
 
@@ -171,7 +171,7 @@ Radiant heating and cooling systems can achieve significant energy savings, peak
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/13 (6).png>)
+Description automatically generated](<../.gitbook/assets/13 (5).png>)
 
 Figure 47. Example for radiant cooling system (a) directly embedded piping inside slab, and (b) piping installed inside radiant panel.
 
@@ -185,7 +185,7 @@ Figure 48 presents the airflow patterns of a typical displacement ventilation sy
 
 ![Diagram, engineering drawing
 
-Description automatically generated](../.gitbook/assets/14.jpeg)
+Description automatically generated](<../.gitbook/assets/14 (1).jpeg>)
 
 Figure 48. Airflow patterns for displacement ventilation system ([Li et al., 2017](https://doi.org/10.3390/en10020231)).
 
@@ -193,7 +193,7 @@ Similarly, the airflow pattern in the underfloor air distribution (UFAD) system 
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/15 (4).jpeg>)
+Description automatically generated](<../.gitbook/assets/15 (3).jpeg>)
 
 Figure 49. Airflow patterns for [underfloor air distribution (UFAD)](https://en.wikipedia.org/wiki/Underfloor\_air\_distribution).
 
@@ -207,7 +207,7 @@ Figure 50 demonstrates the control schematic for the HVAC system with and withou
 
 ![Timeline
 
-Description automatically generated](<../.gitbook/assets/16 (4).jpeg>)
+Description automatically generated](<../.gitbook/assets/16 (1).jpeg>)
 
 Figure 50. Example HVAC control schematic with without ceiling fans.
 
@@ -240,7 +240,7 @@ In automatic mode, the integrated PMV-SET (Predicted Mean Vote - Standard Effect
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/18 (3).png>)
+Description automatically generated](<../.gitbook/assets/18 (1).png>)
 
 Figure 52. Automatic control mode of Ceiling Fan using PMV-SET algorithm and occupancy sensors.
 

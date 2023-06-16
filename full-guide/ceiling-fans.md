@@ -58,7 +58,7 @@ Similarly, increasing the blade’s angle may also increase airflow at the cost 
 
 ![Chart
 
-Description automatically generated with low confidence](<../.gitbook/assets/0 (15).png>)
+Description automatically generated with low confidence](<../.gitbook/assets/0 (26).png>)
 
 Figure 8. Ceiling Fan Blade Types.
 
@@ -80,7 +80,7 @@ Ceiling fans are available in a wide range of diameters, from very small fans ap
 
 ![Chart, histogram
 
-Description automatically generated](<../.gitbook/assets/1 (14).png>)
+Description automatically generated](<../.gitbook/assets/1 (28).png>)
 
 Figure 9. Distribution of fan diameters in a random sample of the fans in the CEC [MAEDbS database](https://www.energy.ca.gov/programs-and-topics/programs/appliance-efficiency-program-outreach-and-education/modernized).
 
@@ -90,7 +90,7 @@ For any particular fan, airflow is linear with rotational speed, as Figure 10 al
 
 ![Chart, line chart
 
-Description automatically generated](<../.gitbook/assets/2 (6).png>)
+Description automatically generated](<../.gitbook/assets/2 (9).png>)
 
 Figure 10. Fan rotation speed and fan airflow for fans of varying diameters.
 
@@ -102,7 +102,7 @@ Meanwhile, the [ceiling fan energy index (CFEI)](https://www.amca.org/assets/res
 
 ![Chart
 
-Description automatically generated](<../.gitbook/assets/3 (8).png>)
+Description automatically generated](<../.gitbook/assets/3 (12).png>)
 
 Figure 11. Fan efficacy versus total airflow and power.
 
@@ -110,7 +110,7 @@ Fans that can turn down to a low rotational speed and maintain good motor effici
 
 ![Diagram, histogram
 
-Description automatically generated](<../.gitbook/assets/4 (8).png>)
+Description automatically generated](<../.gitbook/assets/4 (12).png>)
 
 Figure 12. Relationship of power and fan speed settings for eight fans of different diameters (data from a selection of fans from [MAEDbS](https://cacertappliances.energy.ca.gov/Pages/ApplianceSearch.aspx)).
 
@@ -118,7 +118,7 @@ However, there is considerable variation in performance between models of fans w
 
 ![A close up of a map
 
-Description automatically generated](<../.gitbook/assets/5 (4).png>)
+Description automatically generated](<../.gitbook/assets/5 (10).png>)
 
 Figure 13. Relationship of power and fan speed settings for four different 5-foot (1.5m) diameter fans.
 
@@ -154,7 +154,7 @@ The fan air speed is calculated by dividing the rated airflow of the fan by its 
 
 ![Chart, scatter chart
 
-Description automatically generated](<../.gitbook/assets/8 (5).png>)
+Description automatically generated](<../.gitbook/assets/8 (6).png>)
 
 Figure 16. Maximum fan air speed and fan diameter for ceiling fans in the CEC [MAEDbS database](https://www.energy.ca.gov/programs-and-topics/programs/appliance-efficiency-program-outreach-and-education/modernized).
 
@@ -174,11 +174,11 @@ The amount of variation of the air speeds in a space is an important design cons
 
 ![Chart
 
-Description automatically generated](<../.gitbook/assets/10 (2).png>)Figure 18. Example air speed distribution from a ceiling fan ([Gao et al., 2017](https://doi.org/10.1016/j.buildenv.2017.08.029)).
+Description automatically generated](<../.gitbook/assets/10 (5).png>)Figure 18. Example air speed distribution from a ceiling fan ([Gao et al., 2017](https://doi.org/10.1016/j.buildenv.2017.08.029)).
 
 ![Chart, line chart
 
-Description automatically generated](<../.gitbook/assets/11 (6).png>)
+Description automatically generated](<../.gitbook/assets/11 (8).png>)
 
 Figure 19. Air speeds over distance from the fan center ([Raftery et al., 2019](https://doi.org/10.1016/j.buildenv.2019.03.040))
 
@@ -210,7 +210,7 @@ Building automation system interface: some fans may also be controlled through b
 
 ![A picture containing white, electronics, jack, different
 
-Description automatically generated](<../.gitbook/assets/12 (4).png>)
+Description automatically generated](<../.gitbook/assets/12 (6).png>)
 
 Figure 20. Inappropriate examples of ceiling fan wall controls (Images courtesy Elaina Present).
 

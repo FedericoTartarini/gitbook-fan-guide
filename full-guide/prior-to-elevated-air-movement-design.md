@@ -16,7 +16,7 @@ Design intent of “Uniformity” (i.e., more regular control) emphasizes unifor
 
 ![A picture containing text, diagram, screenshot, font
 
-Description automatically generated](<../.gitbook/assets/0 (18).png>)
+Description automatically generated](<../.gitbook/assets/0 (28).png>)
 
 Figure 32. Flow chart of design intents for air speed and distribution.
 

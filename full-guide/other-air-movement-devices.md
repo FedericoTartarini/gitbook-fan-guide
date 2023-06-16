@@ -28,7 +28,7 @@ Figure 21. Examples of other air movement devices: (a) desk fan, (b) clip-on fan
 
 A wall mounted fan is basically a pedestal fan without a base that is mounted on the wall. Sometimes these fans may also mount to the ceiling. Yet, different from conventional ceiling fans, these “ceiling mounted” fan can oscillate in 180 °. It is a good choice to provide a breeze over the human body and enhance room air circulation when the space and floor-to-ceiling height is limited. Figure 22 shows some examples of wall mounted fans.
 
-![](<../.gitbook/assets/1 (26).png>)
+![](<../.gitbook/assets/1 (17).png>)
 
 Figure 22. Examples of wall mounted fans.
 
@@ -44,7 +44,7 @@ Figure 23. Examples of bladeless ceiling fans.
 
 Air circulators aim to provide a high velocity air jet to circulate air and keep air moving continuously in the room. The strong air movement is not intended to directly be blown towards the human body, but to initiate air circulation. Depending on the brand, the air circulator diameter range is between 23-40 cm \[9-16 in]. Such fans are ideal for air circulation in small rooms, such as bedrooms and enclosed offices. An extra-large air circulator about 50 to 76 cm \[20-30 in] in diameter, also known as the drum blowers, with durable metal construction, can deliver extra high velocity airflow. These heavy-duty air circulators are ideal for warehouses, industrial workshops and loading docks. Figure 24 illustrates some examples of air circulators.
 
-![](<../.gitbook/assets/3 (1).jpeg>)
+![](../.gitbook/assets/3.jpeg)
 
 Figure 24. Examples of air circulators.
 
@@ -101,7 +101,7 @@ Due to different design and usage, the performance of cooling fans (e.g., ceilin
 
 ![A picture containing text, line, diagram, screenshot
 
-Description automatically generated](<../.gitbook/assets/5 (12).png>)
+Description automatically generated](<../.gitbook/assets/5 (6).png>)
 
 Figure 25. CFE index versus fan power for the ceiling fan (CF), desk fan (DF) standing fan (SF) and tower fan (TF). Lines with constant whole-body cooling effect (∆teq) are plotted.
 
@@ -125,7 +125,7 @@ Figure 26. Demonstration of thermal comfort condition and corresponding cooling 
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/7 (6).png>)
+Description automatically generated](<../.gitbook/assets/7 (5).png>)
 
 Figure 27. Illustration of airflow patterns for (a) desk fan, (b) pedestal fan, (c) tower fan, and (d) wall-mounted fan.
 
@@ -135,7 +135,7 @@ The airflow pattern of bladeless ceiling fan is quite similar to a reversely ope
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/8 (2).jpeg>)
+Description automatically generated](<../.gitbook/assets/8 (1).jpeg>)
 
 Figure 28. Schematic of airflow pattern driven by bladeless ceiling fan.
 
@@ -155,7 +155,7 @@ Most of the fan types listed in Table 2 can oscillate horizontally in a range of
 
 Some fans are equipped with technologies that enable them with special features. Some tower fans and bladeless fans are equipped with multiple filters, contributing to air purification. Particulate matter and sometimes gases in the air can be filtered out and cleaner air will be circulated within the space. Different types of filters can remove various kinds of contaminant. Some special fan models are installed with UV-C (i.e., germicidal UV) light inside the fan framework to disinfect the air during circulation process. UV-C is effective at deactivating viruses, bacteria, mold, and fungus. Some fan models can emit water mist that moves along with the air stream to reduce its temperature thanks to the adiabatic cooling (evaporative cooling) process. Figure 30 presents an example of a pedestal fan with evaporative cooling function.
 
-![](<../.gitbook/assets/10 (1).jpeg>)
+![](<../.gitbook/assets/10 (3).jpeg>)
 
 Figure 30. Pedestal fan with evaporative cooling.
 
@@ -167,6 +167,6 @@ Control panel on fan body: Most portable fans are equipped with a control panel 
 
 ![A picture containing text, indoor, monitor, remote
 
-Description automatically generated](<../.gitbook/assets/11 (7).png>)
+Description automatically generated](<../.gitbook/assets/11 (6).png>)
 
 Figure 31. Manual fan control method. (a) Control panel on fan body, (b) IR wireless remote control, (c) Wi-Fi control via smart phone.

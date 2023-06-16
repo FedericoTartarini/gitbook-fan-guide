@@ -4,7 +4,7 @@ Fans are more than just a basic amenity for residential applications. Increasing
 
 ![Chart
 
-Description automatically generated with medium confidence](<../.gitbook/assets/0 (14).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/0 (25).png>)
 
 Figure 1. Number of fans per household by housing unit type, data source: U.S. Energy Information Administration 2015 [Residential Energy Consumption Survey](https://www.eia.gov/consumption/residential/data/2015/hc/php/hc7.4.php).
 
