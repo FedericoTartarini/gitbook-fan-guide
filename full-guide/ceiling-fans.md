@@ -58,7 +58,7 @@ Similarly, increasing the blade’s angle may also increase airflow at the cost 
 
 ![Chart
 
-Description automatically generated with low confidence](<../.gitbook/assets/0 (26).png>)
+Description automatically generated with low confidence](<../.gitbook/assets/0 (27).png>)
 
 Figure 8. Ceiling Fan Blade Types.
 

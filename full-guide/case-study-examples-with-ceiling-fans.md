@@ -6,7 +6,7 @@
 
 ![Graphical user interface, website
 
-Description automatically generated](<../.gitbook/assets/0 (27).png>)
+Description automatically generated](<../.gitbook/assets/0 (28).png>)
 
 ![A picture containing diagram
 

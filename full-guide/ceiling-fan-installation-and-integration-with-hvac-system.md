@@ -14,7 +14,7 @@ To maximize uniformity of air speeds in a space with standard ceiling fans, choo
 
 ![A diagram of a fan
 
-Description automatically generated with medium confidence](<../.gitbook/assets/0 (31).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/0 (32).png>)
 
 Figure 34. Recommended sizing and layout for single-fan applications in a small room.
 

@@ -2,11 +2,8 @@
 
 Fans are more than just a basic amenity for residential applications. Increasingly, fans are found in applications varying from industrial to commercial buildings, from semi-outdoor spaces and high-end hospitality settings, and everything in between. The extensive use of fans in residential applications (over 80% of single-family homes in the United States have at least one ceiling fan), as demonstrated in Figure 1 below, indicates their effectiveness in supporting thermal comfort, and occupant demand for controllable air movement.
 
-![Chart
-
-Description automatically generated with medium confidence](<../.gitbook/assets/0 (25).png>)
-
-Figure 1. Number of fans per household by housing unit type, data source: U.S. Energy Information Administration 2015 [Residential Energy Consumption Survey](https://www.eia.gov/consumption/residential/data/2015/hc/php/hc7.4.php).
+![Figure 1. Number of fans per household by housing unit type, data source: U.S. Energy Information Administration 2015 Residential Energy Consumption Survey.
+](<../.gitbook/assets/0 (34).png>)
 
 This widespread applicability stems from the many benefits that fans can provide in interior environments. The key benefits of fans include thermal comfort, improved air distribution, improved air quality, energy savings, and first and operating cost reductions.
 
@@ -14,11 +11,7 @@ This widespread applicability stems from the many benefits that fans can provide
 
 Simply stated, thermal comfort is an occupant’s satisfaction (“comfort”) with the thermal environment. For centuries, humans have been using air movement to help regulate thermal comfort. In warm conditions there is generally less heat loss from the skin than in cooler conditions, so people are at risk of warming up as our body needs to continually lose the heat produced in the body core. Increased air movement across the skin carries away more heat from the body via two physical processes, convection, and evaporation, thereby restoring comfort. Since the advent of mechanical air-conditioning systems, building designers have largely focused on air temperature and humidity. However, modifying other factors of thermal comfort, such as air speed, changes how the air temperature is perceived. Occupants near a fan feel cooler than they would feel at the same temperature and humidity in still air, like the phenomenon of “wind chill”. Therefore, when the air temperature is warmer, occupants near a fan will be more comfortable than they would be in still air conditions. In addition, large-scale studies of occupant survey data indicate that occupants would prefer more air movement than they have, especially if they report feeling warm, as illustrated in Figure 2. These studies also show that increasing air speed can increase satisfaction under all comfort conditions, as Figure 2 shows in these cases, 40% of occupants also prefer more air movement.
 
-![Diagram
-
-Description automatically generated](<../.gitbook/assets/1 (8).png>)
-
-Figure 2. Occupant preference for more air movement (Data source: [ASHRAE Global Thermal Comfort Database II](https://doi.org/10.1016/j.buildenv.2018.06.022)).
+![Figure 2. Occupant preference for more air movement (Data source: ASHRAE Global Thermal Comfort Database II).](../.gitbook/assets/1.gif)
 
 ### Improved air distribution <a href="#_toc137734932" id="_toc137734932"></a>
 
