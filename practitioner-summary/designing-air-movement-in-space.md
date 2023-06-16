@@ -8,7 +8,7 @@ Figure T5 outlines the key considerations for defining the fan design intents, i
 
 ![A picture containing text, diagram, screenshot, font
 
-Description automatically generated](<../.gitbook/assets/0 (2).png>)
+Description automatically generated](<../.gitbook/assets/0 (40).png>)
 
 Figure T5. Flow chart of design intents for air speed and distribution.
 
@@ -20,6 +20,6 @@ In general, ceiling fans are effective for both comfort cooling and air circulat
 
 ![A picture containing text, screenshot, font, diagram
 
-Description automatically generated](<../.gitbook/assets/1 (3).png>)
+Description automatically generated](<../.gitbook/assets/1 (30).png>)
 
 Figure T6. Fans selection examples based on different design intents.

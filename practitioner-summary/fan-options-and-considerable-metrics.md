@@ -63,7 +63,7 @@ The variation of the air speeds in a space is an important design consideration.
 
 ![Chart
 
-Description automatically generated](<../.gitbook/assets/0 (1).png>)
+Description automatically generated](<../.gitbook/assets/0 (36).png>)
 
 Figure T2. Example air speed distribution from a ceiling fan ([Gao et al., 2017](https://doi.org/10.1016/j.buildenv.2017.08.029)).
 
@@ -81,9 +81,7 @@ According to the US Department of Energy (DOE), ceiling fan efficacy is generall
 
 Meanwhile, the ceiling fan energy index (CFEI), a ratio of reference fan power input to actual fan power input, is a more reliable alternative in reflecting the above blind spot. It helps to make inefficient fans less likely to comply with slower speeds and to remove the unintentional barrier to compliance for high-performing high-utility fans by comparing fans to a standardized baseline. Taken the same example in Figure T3, CFEI at high fan speed for the left most and right most curve is, respectively, 0.63 (less efficient) and 1.72 (more efficient). See section “Ceiling fans testing regulations” for more information.
 
-![Chart
-
-Description automatically generated](<../.gitbook/assets/1 (8).png>)
+![](<../.gitbook/assets/1 (18).png>)
 
 Figure T3. Fan efficacy versus total airflow and power.
 
@@ -115,7 +113,7 @@ For fans that intend for direct cooling towards human body, customers tend to se
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/2 (3).png>)
+Description automatically generated](<../.gitbook/assets/2 (6).png>)
 
 Figure T4. Example airflow pattens for (a) desk fans, (b) pedestal fans, (c) tower fans, (d) wall mounted fangs, (e) bladeless ceiling fans, and (f) air circulators.
 
@@ -129,9 +127,7 @@ All the elevated air movement devices described in Table T4 consist of motor and
 
 In general, fan performance can be evaluated by the cooling fan efficiency (CFE) index, ratio between cooling effect of the device and its power consumption, defines in following equation (where _Pf_ is the input power of the fan (in W) and ∆_teq_ is the whole-body cooling effect (in °C or °F)):
 
-![Text, letter
-
-Description automatically generated](<../.gitbook/assets/3 (4).png>)
+![](<../.gitbook/assets/3 (9).png>)
 
 It is noted that the cooling effect depends on the effectiveness of convective cooling towards subject’s body, and is affected by air speed, airflow pattern, and fan operation distance. Eventually, the intent of fan usage (local cooling vs air circulation) should have been taken into consideration when quantifying the fan effectiveness.
 

@@ -23,7 +23,7 @@ Figure T7 demonstrates an example of recommended ceiling fan size for single-fan
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/0 (44).png>)
+Description automatically generated](<../.gitbook/assets/0 (25).png>)
 
 Figure T7. Recommended ceiling fan size and layout for single-fan applications.
 
@@ -31,7 +31,7 @@ Figure T8 presents two examples of recommended ceiling fan size and layout for m
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/1 (36).png>)
+Description automatically generated](<../.gitbook/assets/1 (14).png>)
 
 Figure T8. Recommended ceiling fan size and layout for multi-fan applications. (a) Warehouse with higher room height, (b) office with lower room height.
 
@@ -43,7 +43,7 @@ The fans mounting heights from ceiling / floor and clearance from walls / obstru
 
 Installation of ceiling fans should avoid conflicts with the lighting fixtures to minimize changes of visual flicker and strobing effect, as well visual discomfort. Figure T9 illustrates the potential problems when ceiling fans interact with lighting fixtures. It suggests that visual flicker effect is dependent to view angle of the occupants. Thus, the position of ceiling fans should not only be installed away from the recess lights, but also considering occupants’ position in space. Alternatively, designer may consider the possibility of using dropdown lightings (see Figure T9c) with minimum glare to the occupants. If the above limitations with respect to lightings cannot be resolved, designers may consider using other non-ceiling fan alternatives.
 
-![ceiling fan lighting design strobing and flicker.png](<../.gitbook/assets/2 (4).png>)
+![ceiling fan lighting design strobing and flicker.png](<../.gitbook/assets/2 (17).png>)
 
 Figure T9. Sectional illustrations on the interactions between ceiling fans and lighting fixtures across different configurations: (a) strobing and flicker, (b) flicker, and (c) ceiling strobing.
 
@@ -51,7 +51,7 @@ Operation of ceiling fans near windows / doors opening would impact the room air
 
 ![A picture containing text, diagram, skeleton, design
 
-Description automatically generated](<../.gitbook/assets/3 (19).png>)
+Description automatically generated](<../.gitbook/assets/3 (7).png>)
 
 Figure T10. Illustration of airflow patterns induced by ceiling fan for (a) normal window opening, (b) door-like opening settings.
 
@@ -63,7 +63,7 @@ Figure T11 compares the design layouts between a conventional air-conditioning s
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/4 (20).png>)
+Description automatically generated](<../.gitbook/assets/4 (9).png>)
 
 Figure T11. Example design layouts for (a) conventional HVAC system with supply air ducts and diffusers, (b) Ceiling fan integrated HVAC system with limited supply air ducts.
 
