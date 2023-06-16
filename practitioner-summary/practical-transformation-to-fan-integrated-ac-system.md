@@ -6,7 +6,7 @@ A key indicator of successful fan-integrated system is to ensure that occupants 
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/0 (13).png>)
+Description automatically generated](<../.gitbook/assets/0 (19).png>)
 
 Figure T18. Fan cooling first approach – example plaque for occupant interface and control recommendations.
 

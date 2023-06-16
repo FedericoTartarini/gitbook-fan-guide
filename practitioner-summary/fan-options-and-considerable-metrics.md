@@ -78,7 +78,7 @@ According to the US Department of Energy (DOE), ceiling fan efficacy is generall
 
 Meanwhile, the ceiling fan energy index (CFEI), a ratio of reference fan power input to actual fan power input, is a more reliable alternative in reflecting the above blind spot. It helps to make inefficient fans less likely to comply with slower speeds and to remove the unintentional barrier to compliance for high-performing high-utility fans by comparing fans to a standardized baseline. Taken the same example in Figure T3, CFEI at high fan speed for the left most and right most curve is, respectively, 0.63 (less efficient) and 1.72 (more efficient). See section “Ceiling fans testing regulations” for more information.
 
-![Figure T3. Fan efficacy versus total airflow and power.](<../.gitbook/assets/1 (30).png>)
+![Figure T3. Fan efficacy versus total airflow and power.](<../.gitbook/assets/1 (22).png>)
 
 Generally, the ability of a fan to operate efficiently at lower speed improves as the diameter increases, but there is considerable variation in performance between models of fans with the same diameter. Fans with a lower turndown ratio (i.e., minimum fan speed divided by maximum fan speed) can be more flexible in different applications purpose.
 
@@ -107,7 +107,7 @@ Airflow patterns from different devices can be varied by fan size, blade types, 
 For fans that intend for direct cooling towards human body, customers tend to select a stronger fan which can produce more airflow and faster air speed. However, in some situations (e.g., operating fan together with air-conditioning), the occupants do not require air movement that is too strong. Therefore, choosing a fan with possible lower airflow turndown (minimum speed divided by maximum speed) capability could be the key for better comfort in terms of direct convective cooling. Meanwhile, if the function of a fan is used to circulate the air with a room, the fan selection approach should be either bigger in size (i.e., produce more airflow) or able to generate high airflow jet with high speed to drive the in-room air. Figure T4 illustrates the examples of airflow flow patterns for different fan types.
 
 ![Figure T4. Example airflow pattens for (a) desk fans, (b) pedestal fans, (c) tower fans, (d) wall mounted fangs, (e) bladeless ceiling fans, and (f) air circulators.
-](<../.gitbook/assets/2 (14).png>)
+](<../.gitbook/assets/2 (17).png>)
 
 #### Noise levels <a href="#_toc137824701" id="_toc137824701"></a>
 
@@ -119,7 +119,7 @@ All the elevated air movement devices described in Table T4 consist of motor and
 
 In general, fan performance can be evaluated by the cooling fan efficiency (CFE) index, ratio between cooling effect of the device and its power consumption, defines in following equation (where _Pf_ is the input power of the fan (in W) and ∆_teq_ is the whole-body cooling effect (in °C or °F)):
 
-![](<../.gitbook/assets/3 (17).png>)
+![](<../.gitbook/assets/3 (14).png>)
 
 It is noted that the cooling effect depends on the effectiveness of convective cooling towards subject’s body, and is affected by air speed, airflow pattern, and fan operation distance. Eventually, the intent of fan usage (local cooling vs air circulation) should have been taken into consideration when quantifying the fan effectiveness.
 
