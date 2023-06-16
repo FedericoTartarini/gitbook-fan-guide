@@ -2,9 +2,9 @@
 
 Ceiling fan requires the most attention regarding its design, installation, and operation when compared with the portable counterparts (e.g., desk fan, pedestal fan). On the other hand, it presents the biggest opportunities for integration with the HVAC system design and operation for cost and energy savings. Additionally, incorporating ceiling fans into the design for new construction projects can generate substantial net first cost savings. Therefore, this section discusses the installation requirements of ceiling fans in buildings and the design and operation approaches when integrating with the HVAC system.
 
-### Ceiling fan system <a href="#_toc137734985" id="_toc137734985"></a>
+## Ceiling fan system <a href="#_toc137734985" id="_toc137734985"></a>
 
-#### Selecting fan sizes and determining the layout <a href="#_toc137734986" id="_toc137734986"></a>
+### Selecting fan sizes and determining the layout <a href="#_toc137734986" id="_toc137734986"></a>
 
 Determining appropriate fan size and layout is critical to effective cooling from ceiling fans. The highest air speeds - and therefore the greatest cooling effects - from a ceiling fan are felt directly beneath the fan blade tips and dissipate the farther an occupant is from the fan. For larger diameter fans, there is a substantial stagnation region directly under the fan center. Air movement and the associated cooling effect are also impacted by obstructions such as furniture, partitions, or equipment. Any permanent obstructions should be considered in determining fan layouts, but spaces that may change in layout over time should take this into account for any application.
 
@@ -28,7 +28,7 @@ Figure 35. Recommended ceiling fan size and layout for multi-fan applications. (
 
 The [CBE Ceiling Fan Design Tool](https://centerforthebuiltenvironment.github.io/fan-tool/) automatically suggests fans dimensions and numbers based on the room dimensions, applying the describe considerations to determine an ideal layouts. Refer to section “CBE Ceiling Fan Design Tool” for more details.
 
-#### Fans installation <a href="#_toc137734987" id="_toc137734987"></a>
+### Fans installation <a href="#_toc137734987" id="_toc137734987"></a>
 
 Users are advised to install ceiling fans following the manufacturer’s recommendations. Nevertheless, they can be installed in all types of ceiling, and there is no reinforcement requirement if the diameter of fan is smaller than 2.1 m \[7 ft]. To adjust the fan height, some products allow extending the length of the downrod. The ceiling fans should be fixed in a structural surface of the building to guarantee sturdiness and stability, which can be a slab or beam. For suspended ceiling, the downrod should be longer to ensure sufficient blade-to-suspended-ceiling-height. A canopy shall be positioned below the suspended ceiling to improve aesthetics (see Figure 36a). With the appropriate type of mounting bracket, ceiling fans can also be installed in sloped ceiling (see Figure 36b).
 
@@ -38,7 +38,7 @@ Description automatically generated](<../.gitbook/assets/2 (13).png>)
 
 Figure 36. Ceiling fans installation parts.
 
-#### Fan mounting height and clearances <a href="#_toc137734988" id="_toc137734988"></a>
+### Fan mounting height and clearances <a href="#_toc137734988" id="_toc137734988"></a>
 
 Another key consideration for ceiling fan effectiveness is mounting height and clearances. Mounting heights and clearances from walls and other obstructions are determined based on both safety and performance considerations.
 
@@ -56,7 +56,7 @@ Figure 38. Minimum clearances for large diameter ceiling fans.
 
 In addition to distances from ceilings, floors, and walls, fan placement must also consider any other obstructions in a space, including lighting, mechanical equipment and ducts, fire sprinkler systems, warehouse storage racks, as well as any relevant code requirements (see Codes and Standards section below). For example, when planning an installation of large-diameter ceiling fans in a warehouse, fans should be mounted at least 1m \[3 ft] above the highest level of any storage racks, stored items, and the tallest extent of any other equipment that may be used in the space such as forklifts. Fan placement and mounting height should also take into consideration any potential furniture placements, even though they may not be permanent. Cabinets or tall bookcases may interfere with fan operation, or cause safety hazards if located too close to ceiling fans.
 
-#### Multiple ceiling fans operation <a href="#_toc137734989" id="_toc137734989"></a>
+### Multiple ceiling fans operation <a href="#_toc137734989" id="_toc137734989"></a>
 
 We learn in previous sections that the zone air speed and flow pattern from a ceiling fan can be determined by its fan size and rotational speed. However, in many circumstances, ceiling fan does not work individually but include multiple fans serving the same zone (e.g., open plan office). How does the zone air speed and flow pattern change with multiple fans interaction?
 
@@ -74,7 +74,7 @@ Description automatically generated](<../.gitbook/assets/5 (17).png>)
 
 Figure 39. Air circulation pattern and interaction between two ceiling fans. (a) comparable air speed at closer fans distance, (b) dominant airs peed at closer fans distance, (c) comparable air speed at further fans distance, and (d) dominant air speed at further fans distance.
 
-#### Impact of infiltration rate <a href="#_toc137734990" id="_toc137734990"></a>
+### Impact of infiltration rate <a href="#_toc137734990" id="_toc137734990"></a>
 
 The outdoor flow rate, sometime measured in air changes per hour (ACH), is one important parameter that determine the indoor environment quality and building energy consumption through mass and energy exchanges between indoors and outdoors ([Nazaroff, 2021](https://doi.org/10.1111/ina.12785)). Figure 40 illustrates the outdoor air exchange dynamics instigated by a ceiling fan through two distinct opening configurations, namely, the normal window opening and the door-like opening.
 
@@ -88,7 +88,7 @@ Description automatically generated](<../.gitbook/assets/6 (14).png>)
 
 Figure 40. Illustration of airflow patterns induced by ceiling fan for (a) normal window opening, (b) door-like opening settings.
 
-#### Ceiling fan interaction with lighting <a href="#_toc137734991" id="_toc137734991"></a>
+### Ceiling fan interaction with lighting <a href="#_toc137734991" id="_toc137734991"></a>
 
 While many ceiling fans are available with built-in lighting (i.e., light kits), typical ceiling fan lights may be insufficient for many lighting requirements and applications. Most applications will be best served by an independent lighting system with additional ceiling fan(s) installed alongside recess lighting that occupies the same ceiling space.
 
@@ -124,11 +124,11 @@ Other fan types: Fans not mounted onto the ceiling pose no risk to the lighting 
 
 Diffuser panel (skylight applications only): Diffusing the daylight entering though the skylight may alleviate, or even completely remove strobing and flicker from occurring.
 
-### Air-conditioning system <a href="#_toc137734992" id="_toc137734992"></a>
+## Air-conditioning system <a href="#_toc137734992" id="_toc137734992"></a>
 
 The intent of this section is to discuss some common HVAC system that integrates with ceiling fan. The discussion will be focused on how ceiling fan integrates with the system, instead of how to design the HVAC system itself, which is addressed in the Integrated ceiling fan and HVAC control section (CHECK LINK).
 
-#### Conventional HVAC system with diffusers <a href="#_heading-h.upglbi" id="_heading-h.upglbi"></a>
+### Conventional HVAC system with diffusers <a href="#_heading-h.upglbi" id="_heading-h.upglbi"></a>
 
 Ceiling fans can be directly implemented to existing air-conditioned buildings with installed ceiling diffusers, as long as that the requirements of mounting height and clearance are fulfilled as described in previous section (see Figure 44). The benefits of installing ceiling fans, i.e., increase building efficiency, improve thermal comfort, and enhance air speed and temperature uniformity, can be achieved. For the air-conditioned space that has shorter floor to (false-) ceiling height, the use of other air movement devices is encouraged due to safety consideration.
 
@@ -138,13 +138,13 @@ Description automatically generated](<../.gitbook/assets/10 (5).jpeg>)
 
 Figure 44. Ceiling fan integrates with conventional all air system with diffusers.
 
-#### Side-wall supply jet <a href="#_heading-h.3ep43zb" id="_heading-h.3ep43zb"></a>
+### Side-wall supply jet <a href="#_heading-h.3ep43zb" id="_heading-h.3ep43zb"></a>
 
 The function of diffusers and branch ducting in conventional HVAC system is to distribute conditioned air evenly through indoor space, especially for the areas that are away from the main supply air duct. The same purpose, however, can be achieved by operating ceiling fans, meaning that the diffusers and branch ducting could be reduced or completely removed.
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/11 (1).jpeg>)
+Description automatically generated](<../.gitbook/assets/11 (2).jpeg>)
 
 Figure 45. Ceiling fan integrated side-wall air supply air-conditioning system.
 
@@ -158,7 +158,7 @@ This approach has been studied for cooling conditions. In heating, the fan may b
 
 Figure 46. Air temperature variation profile for side-wall air supply at fan blade height and above fan blade height.
 
-#### Radiant heating and cooling <a href="#_heading-h.1tuee74" id="_heading-h.1tuee74"></a>
+### Radiant heating and cooling <a href="#_heading-h.1tuee74" id="_heading-h.1tuee74"></a>
 
 Radiant heating and cooling systems can achieve significant energy savings, peak demand reduction, load shifting, and some thermal comfort improvement compared to conventional all-air systems. The pipes can be either embedded into to the slab (ceiling or floor) or installed inside a radiant panel. Ceiling fans are a good match with radiant heating and cooling systems as they can also increase heat transfer from the radiant system (requiring lower temperature differences between the room and the water, further improving efficiency), and provide the occupant with a means of instantly changing the comfort condition in the space. Figure 47 shows the integration of ceiling fan with radiant system with water pipe embedded into the slab and inside the radiant panel.
 
@@ -190,11 +190,11 @@ Description automatically generated](<../.gitbook/assets/15 (2).jpeg>)
 
 Figure 49. Airflow patterns for [underfloor air distribution (UFAD)](https://en.wikipedia.org/wiki/Underfloor\_air\_distribution).
 
-### Integrated ceiling fan and HVAC control <a href="#_ref127806888" id="_ref127806888"></a>
+## Integrated ceiling fan and HVAC control <a href="#_ref127806888" id="_ref127806888"></a>
 
 This section describes the control strategy for integrating ceiling fans and HVAC system.
 
-#### HVAC system control with / without a fan <a href="#_heading-h.184mhaj" id="_heading-h.184mhaj"></a>
+### HVAC system control with / without a fan <a href="#_heading-h.184mhaj" id="_heading-h.184mhaj"></a>
 
 Figure 50 demonstrates the control schematic for the HVAC system with and without the integration of a ceiling fan. The HVAC signal for heating reduces when indoor temperature increases accordingly, and it stops when the indoor temperature goes beyond the heating setpoint say 21 °C \[70 °F]. For a case without ceiling fans, the HVAC signal for cooling starts when the indoor air temperature goes higher than the first cooling setpoint temperature say 24 °C \[75 °F]. Alternatively, for a case integrated with ceiling fan, the fan may respond to zone temperature, acting as the first stage of cooling for a zone before the HVAC system begins to operate in cooling mode. The ceiling fan will operate at the first cooling setpoint of 24 °C \[75 °F] to provide convective cooling and maintain occupants’ thermal comfort without operating the HVAC. The fan speed increases with zone air temperature until reaching 25.5-26.5 °C \[78-80 °F], at a point which the HVAC system begins to modulate and to maintain that setpoint, providing the second stage of cooling. Operating the HVAC system at this higher cooling setpoint has significant energy savings potential.
 
@@ -204,7 +204,7 @@ Description automatically generated](<../.gitbook/assets/16 (5).jpeg>)
 
 Figure 50. Example HVAC control schematic with without ceiling fans.
 
-#### Ceiling fan speed control <a href="#_heading-h.3s49zyc" id="_heading-h.3s49zyc"></a>
+### Ceiling fan speed control <a href="#_heading-h.3s49zyc" id="_heading-h.3s49zyc"></a>
 
 Ceiling fans can be integrated with the building automation system (BAS) through several mechanisms. True integration requires speed control of the fans, and this is typically achieved using either a 0-10 V input or a BACnet interface. Using the same control case above, Figure 51 shows the control scheme for the ceiling fan speed when responding to zone temperature.
 
@@ -212,11 +212,11 @@ Within the dead band, especially when HVAC is in heating mode, the ceiling fan s
 
 ![Timeline
 
-Description automatically generated](<../.gitbook/assets/17 (2).png>)
+Description automatically generated](../.gitbook/assets/17.png)
 
 Figure 51. Example ceiling fan control schematic.
 
-#### Ceiling fan control alternatives <a href="#_heading-h.279ka65" id="_heading-h.279ka65"></a>
+### Ceiling fan control alternatives <a href="#_heading-h.279ka65" id="_heading-h.279ka65"></a>
 
 Some ceiling fans have onboard sensing and controls that allow fan speed and temperature automation without integration with the BAS. A lower cost, simpler alternative to automatically control the ceiling fan based on temperature is to use a relay to turn fan(s) on and off. The fans then operate at a fixed pre-set speed. This only provides on/off control, and as such can only be effective over a small range of temperatures without a ‘typical’ occupant in the space experiencing conditions that are either too warm (insufficient air movement) or too cool (excessive air movement). This approach is mostly applicable for:
 
@@ -225,7 +225,7 @@ Some ceiling fans have onboard sensing and controls that allow fan speed and tem
 
 Fans operation can also be tied to occupancy sensors in the zone, preventing unnecessary operation, energy use, and maintenance. In some cases, it may be beneficial to operate fans even when unoccupied, such as pre-cooling applications that benefit from increased convection from surfaces in the space due to the air movement generated by the fans.
 
-#### Smart ceiling fan and HVAC control algorithm <a href="#_toc137735001" id="_toc137735001"></a>
+### Smart ceiling fan and HVAC control algorithm <a href="#_toc137735001" id="_toc137735001"></a>
 
 Apart from controlling the ceiling fans based on temperature setpoint, smart fan control can also be achieved based on occupant’s characteristics, such as occupancy and user preference feedback. To do this, all ceiling fans are connected and controlled by a central controller, as part of the smart building management system, to acquire environmental data such as temperature, relative humidity (RH), and occupancy from a network of sensors in the space. From those inputs, the control algorithm calculates in real-time the optimal fan speed to maximize thermal satisfaction for occupants ([Liu et al., 2018](https://doi.org/10.1080/23744731.2018.1452508)). The ceiling fan controller can also be integrated with the HVAC controller for cooperative operations by adjusting the zone temperature setpoints when necessary. There are two main control strategies, automatic mode that is based on ASHRAE 55 comfort model and cooperative mode, that is based on people feedback.
 

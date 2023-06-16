@@ -100,7 +100,7 @@ A total of 78 % of occupants preferred “no change” in thermal conditions, im
 
 ![Chart, bar chart
 
-Description automatically generated](<../.gitbook/assets/7 (4).png>)
+Description automatically generated](<../.gitbook/assets/7 (6).png>)
 
 Figure S7. Subjective responses to thermal acceptability and thermal preference under three tested conditions.
 
