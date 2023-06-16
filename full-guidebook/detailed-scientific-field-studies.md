@@ -1,14 +1,12 @@
 # Detailed scientific field studies
 
-## Detailed scientific field studies <a href="#_toc137455736" id="_toc137455736"></a>
-
 Most studies of ceiling fans have been performed in laboratories, but there are some studies performed in buildings. We discuss them in this section to provide useful information about the application of fans in realistic conditions.
 
-## Air speed measurement in 4 commercial buildings in California <a href="#_toc137455737" id="_toc137455737"></a>
+## Air speed measurement in 4 commercial buildings in California <a href="#_toc137735032" id="_toc137735032"></a>
 
-### Background <a href="#_toc137455738" id="_toc137455738"></a>
+### Background <a href="#_toc137735033" id="_toc137735033"></a>
 
-This study conducted a detailed assessment on air speed performance by ceiling fans in 4 commercial buildings in California. Different ceiling fan operation modes such as fan rotational speed, operating direction, and the number of operating fans were considered; aiming to demonstrate the magnitude and distribution of air speed, cooling effects, and any potential influencing factors in commercial building settings. Detailed of this field study is available in this paper ([ref](https://doi.org/10.1016/j.buildenv.2021.107979)).
+This study conducted a detailed assessment of air speed performance by ceiling fans in 4 commercial buildings in California. Different ceiling fan operation modes such as fan rotational speed, operating direction, and the number of operating fans were considered; aiming to demonstrate the magnitude and distribution of air speed, cooling effects, and any potential influencing factors in commercial building settings. Detailed of this field study is available in this paper ([Luo et al., 2021](https://doi.org/10.1016/j.buildenv.2021.107979)).
 
 ### Study methods <a href="#_heading-h.odc9jc" id="_heading-h.odc9jc"></a>
 
@@ -16,15 +14,15 @@ Field measurements of air speed were conducted in 4 commercial buildings install
 
 Table S1. Tested buildings and ceiling fans information.
 
-![](<../.gitbook/assets/0 (4).png>)
+![](<../.gitbook/assets/0 (31).png>)
 
-### Air speed distribution overview <a href="#_toc137455740" id="_toc137455740"></a>
+### Air speed distribution overview <a href="#_toc137735035" id="_toc137735035"></a>
 
 The height averaged air speed superimposed on floor plans with the ceiling fan layout and furniture in the 4 buildings (see Figure S1). In general, higher air speeds were found under or near the downward operating ceiling fan and decreased proportionally to the distance from the fans. Potential factors that vary the air speed are fan diameter, number of fans in operation, distance from ceiling fan centers, fan rotational speed, and fan operation direction.
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/1 (4).png>)
+Description automatically generated](<../.gitbook/assets/1 (29).png>)
 
 Figure S1. Floor plan and air speed distribution in the 4 tested buildings. The magnitude of air speed at each site is averaged by heights.
 
@@ -32,7 +30,7 @@ Figure S1. Floor plan and air speed distribution in the 4 tested buildings. The 
 
 Figure S2 demonstrates the air speed performance under different test conditions. Ceiling fans operating in the downward direction produced higher mean air speeds (0.2-1.8 m/s \[40-350 fpm]) than the upward direction (0.2-0.5 m/s \[40-100 fpm]). However, a more uniform airflow within the occupied zone was found when fans are blowing upwards (i.e., smaller variation in air speed distribution). The variation of air speeds is mainly influenced by measurement height. Generally, fans operating downwards create negative vertical gradients (i.e., air speed the fastest at ankle height and the slowest at head height), while a positive gradient is observed directly under the fan. In contrast, upwards operating fans provide higher air speed at the head height of occupant than at the ankle level, but a negative gradient is observed in the return air path (e.g., near walls or at the confluence of airflows with multiple fans). Priority should be given to downward blowing fans if the thermal comfort design requirements are to maximize cooling efficiency in space, or to minimize energy consumption. Conversely, upward blowing fans allow better airflow uniformity across vertical and horizontal dimensions. In addition, designers should pay attention to the fan blade design (with symmetrical blade geometry or inverted installation fan) if the fans are intended to operate upward in the design stage.
 
-![](<../.gitbook/assets/2 (2).png>)
+![](<../.gitbook/assets/2 (10).png>)
 
 Figure S2. Air speed distribution at 4 sites for different (i) operating directions (downward – purple; upward – green); (ii) fan rotational speed; (iii) operating fan number (if available); and (iv) before and after averaging by heights.
 
@@ -46,7 +44,7 @@ Cooling effect is the temperature reduction (in °C or °F) perceived by the occ
 
 ![Chart
 
-Description automatically generated with medium confidence](../.gitbook/assets/3.png)
+Description automatically generated with medium confidence](<../.gitbook/assets/3 (11).png>)
 
 Figure S3 Cooling effects in different test conditions and buildings. Characteristics of the plot are the same as describing in Figure FS9
 
@@ -56,7 +54,7 @@ The room’s air speed magnitude and its distribution are affected by multiple c
 
 ![A picture containing graphical user interface
 
-Description automatically generated](<../.gitbook/assets/4 (7).png>)
+Description automatically generated](<../.gitbook/assets/4 (10).png>)
 
 Figure S4 Air speed distribution for linear and diagonal ceiling fans operation layout.
 
@@ -66,7 +64,7 @@ Furniture is an important aspect for elevated air speed by ceiling fans design i
 
 ![Chart, line chart
 
-Description automatically generated](../.gitbook/assets/5.png)
+Description automatically generated](<../.gitbook/assets/5 (12).png>)
 
 Figure S5 Vertical air speed distribution comparison with or without furniture in space.
 
@@ -74,15 +72,15 @@ Figure S5 Vertical air speed distribution comparison with or without furniture i
 
 This study demonstrates on-site air speed measurement results in four buildings. The results are helpful for building practitioners to plan for existing and future building design staging with ceiling fans. Some important highlights include: (i) downward airflow fans setting is prioritized with higher air speed and cooling effect in space, but upward flow setting could provide better air speed uniformity; (ii) evenly-placed fans layout is beneficial for the magnitude and uniformity of air speeds in space; and (iii) presence of furniture would impede the air speed distribution by fan, resulting in lower actual air speed on-site when compared to the predicted air speed profile using simulation tool.
 
-## Commercial building in Singapore <a href="#_toc137455746" id="_toc137455746"></a>
+## Commercial building in Singapore <a href="#_toc137735041" id="_toc137735041"></a>
 
 ### Background <a href="#_heading-h.4kx3h1s" id="_heading-h.4kx3h1s"></a>
 
-This is a six-week study implementing ceiling fan with air conditioning in a Singaporean office building. Singapore is located at the tropical climate region, with daily mean outdoor air temperature and humidity of 26 - 29 °C \[79 - 84 °F] and 75-85 %. This study examines the performance of HVAC strategy with increased cooling temperature setpoints and elevated air movement produced by ceiling fans in terms of occupants’ perception to the environment and the corresponding energy consumption. DC motor ceiling fans (Haiku I-Series 60 inches, Big Ass Fans) were used to provide air movement within the space. Figure S6 shows the office plan and ceiling fans location in the target building. Details of this field study are available in this paper ([ref](https://doi.org/10.1016/j.buildenv.2018.03.013)).
+This is a six-week study implementing ceiling fan with air conditioning in a Singaporean office building. Singapore is located at the tropical climate region, with daily mean outdoor air temperature and humidity of 26 - 29 °C \[79 - 84 °F] and 75-85 %. This study examines the performance of HVAC strategy with increased cooling temperature setpoints and elevated air movement produced by ceiling fans in terms of occupants’ perception to the environment and the corresponding energy consumption. DC motor ceiling fans (Haiku I-Series 60 inches, Big Ass Fans) were used to provide air movement within the space. Figure S6 shows the office plan and ceiling fans location in the target building. Details of this field study are available in this paper ([Lipczynska et al., 2018](https://doi.org/10.1016/j.buildenv.2018.03.013)).
 
 ![Chart
 
-Description automatically generated with medium confidence](../.gitbook/assets/6.png)
+Description automatically generated with medium confidence](<../.gitbook/assets/6 (5).png>)
 
 Figure S6. Plan view of the studies office space. Green seats represent occupants participating in the study.
 
@@ -100,7 +98,7 @@ A total of 78 % of occupants preferred “no change” in thermal conditions, im
 
 ![Chart, bar chart
 
-Description automatically generated](<../.gitbook/assets/7 (2).png>)
+Description automatically generated](<../.gitbook/assets/7 (14).png>)
 
 Figure S7. Subjective responses to thermal acceptability and thermal preference under three tested conditions.
 
@@ -110,7 +108,7 @@ Figure S8 plots the occupant’s self-reported level of sleepiness, concentratio
 
 ![Chart, box and whisker chart
 
-Description automatically generated with medium confidence](<../.gitbook/assets/8 (3).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/8 (1).png>)
 
 Figure S8. Self-reported levels of sleepiness, concentration, and productivity. Asterisk shows significance in terms of median difference at: \* p < 0.05, \*\* p < 0.01, \*\*\* p < 0.001.
 
@@ -124,15 +122,15 @@ Table S2 Daily consumption of electrical energy during the field study
 
 Description automatically generated](<../.gitbook/assets/9 (2).png>)
 
-#### Insights from this study <a href="#_heading-h.thw4kt" id="_heading-h.thw4kt"></a>
+### Insights from this study <a href="#_heading-h.thw4kt" id="_heading-h.thw4kt"></a>
 
 This field study shows an example of a real workspace in tropical climate region that with ceiling fan operating with air conditioning system. The study proved that increasing the setpoint temperature from 23 °C \[73 °F] to 26 °C \[79 °F] and including ceiling fans operation not only resulted in substantial HVAC energy saving, but also enhanced occupants’ thermal comfort. In addition, it showed employee’s alertness, concentration and work productivity were not hindered by the increase of cooling setpoint temperature, nor the air movement in working environment. More importantly, this study was conducted in Singapore with yearly round hot and humid climate, which implies this intervention (AC + Fan) can satisfy occupants’ comfort even in tropical climate region, been applicable to all other climate conditions.
 
-## Commercial and residential buildings in California <a href="#_toc137455753" id="_toc137455753"></a>
+## Commercial and residential buildings in California <a href="#_toc137735048" id="_toc137735048"></a>
 
 ### Background <a href="#_heading-h.1smtxgf" id="_heading-h.1smtxgf"></a>
 
-This is a 2.5 year-long field study in 4 sites, composing 8 commercial and 6 residential zones, in central California (hot / dry climate), demonstrating the difference in user behavior and energy performance for automated ceiling fans operated with air conditioning system (after renovation) when compared with the conventional air-conditioning system (before renovation). Effectiveness on the ceiling fans plus air conditioning control strategy has been demonstrated in this field study \[[ref](https://www.sciencedirect.com/science/article/pii/S0378778821006034)]. The control strategy consisted of setting ceiling fans to automatically turn on for cooling before HVAC, and then operate together with air conditioning enabled raising air conditioning cooling temperature setpoints.
+This is a 2.5 year-long field study in 4 sites, composing 8 commercial and 6 residential zones, in central California (hot / dry climate), demonstrating the difference in user behavior and energy performance for automated ceiling fans operated with air conditioning system (after renovation) when compared with the conventional air-conditioning system (before renovation). Effectiveness on the ceiling fans plus air conditioning control strategy has been demonstrated in this field study ([Miller et al., 2021](https://doi.org/10.1016/j.enbuild.2021.111319)). The control strategy consisted of setting ceiling fans to automatically turn on for cooling before HVAC, and then operate together with air conditioning enabled raising air conditioning cooling temperature setpoints.
 
 ### Study methods <a href="#_heading-h.4cmhg48" id="_heading-h.4cmhg48"></a>
 
@@ -142,7 +140,7 @@ The automated ceiling fans installed in this study were all integrated with brus
 
 ![Diagram
 
-Description automatically generated with medium confidence](<../.gitbook/assets/10 (2).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/10 (8).png>)
 
 Figure S9. Field study timeline indicating baseline (pre-retrofit) and intervention (post-retrofit) periods.
 
@@ -150,7 +148,7 @@ Figure S9. Field study timeline indicating baseline (pre-retrofit) and intervent
 
 Figure S10 shows an increased indoor temperature during the intervention (AC + fans) compared to the baseline period (AC only) period by an average of 1.9 °C \[3.4 °F] across all sites and all hours. Assuming ‘still air’ conditions during the baseline period (air speeds < 0.05 m/s \[10 fpm]), and air speeds up to 0.5 m/s \[100 fpm] in the intervention period, the respective comfort temperature ranges estimated from ASHRAE Standard 55 in typical office conditions are 22.2 - 25.6 °C \[72 - 78 °F] and 22.2 - 28.3 °C \[72 - 83 °F]. For the baseline period, 46 % of the hours from all sites (including unoccupied hours) were within the comfort temperature range, while 84 % of the hours in the intervention period with ceiling fans were within the comfort temperature range. This result suggests that occupants could be more comfortable in conditions where ceiling fans are operating together with air conditioning at a higher cooling setpoint.
 
-![](../.gitbook/assets/11.png)
+![](<../.gitbook/assets/11 (3).png>)
 
 Figure S10. Mean hourly indoor air temperature against outdoor temperature. Dashed lines on x and y axes represent medians, solid lines represent means.
 
@@ -158,7 +156,7 @@ Figure S10. Mean hourly indoor air temperature against outdoor temperature. Dash
 
 To verify the occupants’ actual thermal comfort perception, subjective surveys were conducted in one out of the four sites before and after the installation of ceiling fans. Subjects responded to the thermal comfort question in a 5-point Likert scale: Too warm, comfortably warm, comfortable, comfortably cool, and too cool. Any responses given to the middle three scales are considered comfortable. The results in Figure S11 suggest 82 % of the occupants found themselves comfortable at 22 °C (72 °F) indoor temperature with air conditioning. The percentage of comfortable occupants increased to 93 % in the intervention period where air conditioning was operating at 26 °C \[79 °F] setpoint temperature together with ceiling fans. This result gives evidence that the intervention could enhance subjects’ thermal comfort compared to the condition operated only with air conditioning.
 
-![](<../.gitbook/assets/12 (1).png>)
+![](<../.gitbook/assets/12 (4).png>)
 
 Figure S11 Thermal comfort survey responses at one site before and after retrofit.
 
@@ -172,74 +170,74 @@ Meanwhile, detailed field study data suggested that the energy saving potential 
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/13 (3).png>) ![](../.gitbook/assets/14.png)
+Description automatically generated](<../.gitbook/assets/13 (1).png>) ![](<../.gitbook/assets/14 (2).png>)
 
 Figure S12. Mean hourly power consumption for (a) air conditioning compressor and (b) ceiling fan. Dashed lines\
 on x-axes and y-axes indicates median, solid line indicates mean.
 
-#### Insights from this study <a href="#_heading-h.261ztfg" id="_heading-h.261ztfg"></a>
+### Insights from this study <a href="#_heading-h.261ztfg" id="_heading-h.261ztfg"></a>
 
 This field study demonstrated substantial energy saving potential and improved occupant comfort by the implementation of air movement and air conditioning. Through this field work, we learnt that energy savings and cost effectiveness can be maximized by targeting zones with high cooling demand. Cost can be reduced when this intervention is implemented to new construction at design stage as opposed to retrofit project.
 
 In commercial buildings, the design tip is to ensure air conditioning cooling setpoint remains above fan cooling setpoint by introducing interlock for this control. In residential buildings, especially in bedrooms, the motion-based or infrared-based occupancy sensors in automated ceiling fans may not function properly when occupants are sleeping with blankets.
 
-### Zero Energy Building (ZEB) Plus in Singapore <a href="#_toc137455760" id="_toc137455760"></a>
+## Zero Energy Building (ZEB) Plus in Singapore <a href="#_toc137735055" id="_toc137735055"></a>
 
-#### Background <a href="#_toc137455761" id="_toc137455761"></a>
+### Background <a href="#_toc137735056" id="_toc137735056"></a>
 
 This is a detailed study on cooperating ceiling fans, desk fans, and air conditioning systems in the Zero Energy Building (ZEB) Plus office at the Building and Construction Authority (BCA) in Singapore for thermal satisfaction improvement and cooling energy reduction (see Figure S13). The BCA ZEB Plus is a Green Mark Platinum certified office building renovated in 2019. It is a living laboratory demonstration of an energy-efficient building design and technology solutions in the tropics.
 
 ![A picture containing outdoor, grass, tree, sky
 
-Description automatically generated](../.gitbook/assets/15.jpeg) ![A picture containing indoor, furniture, table, computer
+Description automatically generated](<../.gitbook/assets/15 (2).jpeg>) ![A picture containing indoor, furniture, table, computer
 
-Description automatically generated](<../.gitbook/assets/16 (1).jpeg>)
+Description automatically generated](<../.gitbook/assets/16 (2).jpeg>)
 
 Figure S13. Outlook and internal design (integrating HVAC system with ceiling fans and desk fans) for BCA ZEB Plus.
 
-#### Study methods <a href="#_toc137455762" id="_toc137455762"></a>
+### Study methods <a href="#_toc137735057" id="_toc137735057"></a>
 
 Before the retrofit, the first floor of this building was a gallery exhibition using a conventional air-conditioning system. The retrofitted office is approximately 675 m2 that can accommodate 51 occupants, integrating multiple energy-efficient technologies such as high-efficient lighting control, smart power management, and especially fan-integrated AC system. Fans, desks and HVAC ducts layout is shown in Figure S14. The ceiling fans provide the base air movement to satisfy most of the occupants, while personal desk fans are available for each occupant to maximize workstation micro-environment control.
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/17 (1).png>)
+Description automatically generated](<../.gitbook/assets/17 (2).png>)
 
 Figure S14. Floor plan in BCA ZEB Plus with supply and return air duct and ceiling fans location.
 
 The study was conducted in 3 phases. In phase 1, we set a temperature setpoint at 26 °C \[79 °F] and increase air movement using ceiling and desk fans for 4 weeks to allow the occupants to adapt to the new indoor temperature setting. In phase 2, we aimed to identify the optimal temperature setpoint with personal adjustable air movement by fans. To achieve this, we varied the indoor temperature between 26-28.5°C \[79-83 °F] and allowed occupants to operate fans (both ceiling and desk fans) based on their preferences for 4 weeks. During this period, we studied subjects’ satisfaction with the indoor temperature and air movement using the right-here-right-now survey, i.e., How satisfied are you with the temperature and air movement? Participants are required to answer these questions in a three-point satisfaction scale: “Satisfied / Neither satisfied nor dissatisfied / Dissatisfied”. In phase 3, we conducted a longitudinal measurement for 11 consecutive weeks to thoroughly evaluate the thermal comfort and energy-saving impact of the optimal condition evaluated in phase 2. During phase 3, we alternated the environment and operated system between (i) the new fan-integrated AC system at 26.5 °C \[80 °F] indoor temperature setpoint and (ii) conventional AC system at 24 °C \[75 °F] temperature setpoint. We also sent a daily survey to the occupants asking their immediate satisfaction with temperature and air movement within the office environment. Detailed energy consumption from the HVAC system (chiller, AHUs, pumps, and cooling tower) and fans (ceiling and desk) were measured for energy-saving comparison.
 
-### Thermal comfort <a href="#_toc137455763" id="_toc137455763"></a>
+### Thermal comfort <a href="#_toc137735058" id="_toc137735058"></a>
 
 Thermal comfort is a critical requirement to evaluate the effectiveness of the fan-integrated AC system. Based on the experimental results in phase 2, we found the optimal temperature setpoint at ZEB Plus with ceiling fans to elevate air speed in the open plan office was 26.5 °C ± 0.5 °C \[80 °F ± 1 °F]. Meanwhile, personal desk fans were provided in each workstation to meet additional cooling needs. Subjective survey on occupants’ satisfaction with temperature was conducted in ZEB Plus at 26.5 °C \[80 °F] (with fans) and compared with 10 other conventional AC offices in Singapore at 24 °C \[75 °F] (without fans) in Figure S15. We found 68 % of the occupants in ZEB Plus were satisfied with the indoor temperature. Additionally, the dissatisfaction with temperature for fan-integrated AC workspace has been reduced by 14 % when compared with conventional AC offices. This demonstrates an improved temperature satisfaction in ZEB Plus with fans despite the workspace being 2.5 °C \[5 °F] warmer than common AC offices.
 
-![A screenshot of a video game
+![A picture containing text, screenshot, font, line
 
-Description automatically generated with medium confidence](../.gitbook/assets/18.png)
+Description automatically generated](../.gitbook/assets/18.png)
 
 Figure S15. Subjective survey on indoor temperature satisfaction between BCA ZEB PLUS (fan-integrated AC system) and 10 other conventional AC offices (without fans) in Singapore.
 
 Figure S16 showed the results, in phase 3 of the study, when we asked occupants which thermal environment they would prefer between the conditions (i) 24 °C without fans and (ii) 26.5 °C with fans. People who preferred no change (these are the people that are comfortable) increased from 55 % (24 °C without fans condition) to 77 % (26.5 °C and fan-integrated AC condition), indicating that fan-integrated AC gained higher preference of occupants. Moreover, 33 % of occupants preferred a slightly warmer or warmer under 24 °C condition which pointed out the potential discomfort in overcooling conditions. When the setpoint temperature was raised to 26.5 °C with elevated air movement, this negative preference was reduced from 33 % to 9 %. The result provided quantitative evidence that the increased air movement with fans, in general, will not initiate excessing discomfort to the occupants at higher temperature conditions. The fan-integrated AC system worked well in terms of temperature and air movement satisfaction when the occupants were given sufficient long time in adapting to the new system.
 
-![A picture containing screenshot, text, rectangle, colorfulness
+![A picture containing text, screenshot, font, number
 
-Description automatically generated](../.gitbook/assets/19.png)
+Description automatically generated](<../.gitbook/assets/19 (2).png>)
 
 Figure S16. Subject’s preference with the thermal environment at (i) temperature setpoint (Ta) = 24 °C without fans and (ii) Ta = 26.5 °C with fans in Phase 3 study.
 
-### Energy performance <a href="#_toc137455764" id="_toc137455764"></a>
+### Energy performance <a href="#_toc137735059" id="_toc137735059"></a>
 
 Besides thermal comfort, energy performance of the fan-integrated AC system has also been investigated. The yearly average outdoor temperature of Singapore is between 25 °C and 31 °C \[77 °F and 88 °F]. Air conditioning is necessary in office buildings to maintain thermal comfort. The ZEB Plus was installed with a variable air volume (VAV) air conditioning system and served by three air handling units. The cooling setpoint temperatures were about 23 °C \[73 °F] and 26-27 °C \[79-81 °F] before and after retrofitting with ceiling fans installed.
 
-In phase 3 of the thermal comfort experiment, we conducted an 11-week study and alternated the office condition between 2 settings: 24 °C without fan and 26.5 °C with both ceiling and desk fans. All the energy measurement data of the air-conditioning system and fans were recorded to directly compare energy performance. Figure S17 shows the energy use intensity (EUI) of HVAC sub-systems including chillers, pumps, AHU, cooling towers and fans in two cases: i) baseline scenario at 24 °C without fan and ii) proposed scenario at 26.5 °C with both ceiling and desk fans. We found the total EUI for the HVACsystem is 36.6 kWh/m2·yr and 25 kWh/m2·yr, respectively, for the baseline and proposed scenarios. A 32 % reduction in energy usage (11.6 kWh/m2·yr) is observed in the proposed scenario. The significant energy saving comes from chiller energy usage, then AHU fan and pump. Meanwhile, ceiling and desk fans use only 3.5 % of total energy usage (0.88 kWh/m2·yr). These findings suggest that increasing air movement with fans is an energy-efficient complementary technology to conventional air conditioning in office buildings in the tropics. In fact, energy use in ZEB Plus is lower than 90 % of the office buildings in Singapore based on the building energy benchmarks for commercial buildings from 2017.
+In phase 3 of the thermal comfort experiment, we conducted an 11-week study and alternated the office condition between 2 settings: 24 °C without fan and 26.5 °C with both ceiling and desk fans. All the energy measurement data of the air-conditioning system and fans were recorded to directly compare energy performance. Figure S17 shows the energy use intensity (EUI) of HVAC sub-systems including chillers, pumps, AHU, cooling towers and fans in two cases: i) baseline scenario at 24 °C without fan and ii) proposed scenario at 26.5 °C with both ceiling and desk fans. We found the total EUI for the HVAC system is 36.6 kWh/m2·yr and 25 kWh/m2·yr, respectively, for the baseline and proposed scenarios. A 32 % reduction in energy usage (11.6 kWh/m2·yr) is observed in the proposed scenario. The significant energy saving comes from chiller energy usage, then AHU fan and pump. Meanwhile, ceiling and desk fans use only 3.5 % of total energy usage (0.88 kWh/m2·yr). These findings suggest that increasing air movement with fans is an energy-efficient complementary technology to conventional air conditioning in office buildings in the tropics. In fact, energy use in ZEB Plus is lower than 90 % of the office buildings in Singapore based on the building energy benchmarks for commercial buildings from 2017.
 
-![A screenshot of a graph
+![A picture containing text, screenshot, font, number
 
-Description automatically generated with medium confidence](../.gitbook/assets/20.png)
+Description automatically generated](<../.gitbook/assets/20 (2).png>)
 
 Figure S17. Cooling system energy use intensity at (i) temperature setpoint (Ta) = 24 °C without fans and (ii) Ta = 26.5 °C with fans in Phase 3 study.
 
-### Capital cost saving between conventional AC and fan-integrated AC system <a href="#_toc137455765" id="_toc137455765"></a>
+### Capital cost saving between conventional AC and fan-integrated AC system <a href="#_toc137735060" id="_toc137735060"></a>
 
 Potential cost savings accrued from using fan-integrated AC system are mainly derived from two factors: (i) smaller capacity of AC components and (ii) reduced supply air ducting. To compare the potential cost saving, we redesigned the conventional air-conditioning system with extended supply air duct for air distribution and selected adequate chiller and air handling unit size to support the original design cooling load (air temperature at 24 °C \[73 °F]) and estimated the potential construction cost based on average market rate. Figure S18 shows a sector in ZEB Plus comparing the existing installed system layout with ceiling fans (Figure S18b) versus what would be the conventional AC system layout without fans and with more ducts (Figure S18b). This same process was done for the whole floor plan to estimate cost saving.
 
@@ -251,19 +249,19 @@ We compared the cost saving potential between the conventional AC system and the
 
 Figure S18. Example of system design layout in ZEB PLUS: (a) conventional AC system with extended supply air duct for air distribution, and (b) existing fan-integrated AC system with ceiling fans.
 
-### Insights from this study <a href="#_toc137455766" id="_toc137455766"></a>
+### Insights from this study <a href="#_toc137735061" id="_toc137735061"></a>
 
 This study is the first large-scale deployment of a fan-integrated AC system in office space in Singapore. It demonstrates that the ceiling and desk fans can be integrated efficiently with the HVAC system in tropical climates to achieve better thermal comfort while reducing energy consumption significantly. Besides, the cost saving in initial investment and operation reveals a huge advantage of the fan-integrated AC system over the conventional design. From our experience, the location of ceiling fans should be designed properly to uniformly mix the cooling air for all occupants and to avoid the visual flickering or strobing effect between the lighting fixtures and the operating fans. Lastly, desk fans should be provided for higher granularity of air movement adjustment based on individual needs, especially during the transient period from outdoor to indoor conditions.
 
-## Field Evaluation Kit (FEK) study in Singapore <a href="#_toc137455767" id="_toc137455767"></a>
+## Field Evaluation Kit (FEK) study in Singapore <a href="#_toc137735062" id="_toc137735062"></a>
 
-### Background <a href="#_toc137455768" id="_toc137455768"></a>
+### Background <a href="#_toc137735063" id="_toc137735063"></a>
 
 Ceiling fan installation for some buildings is not possible due to limited floor to ceiling height. This case study explored the effectiveness of non-ceiling fan options (i.e., desk fan, towel fan, and pedestal fan) for the application of higher temperature cooling with elevated air speed in a retrofit application.
 
 Figure S19. VENTUS building (sources: SinBerBEST research group).
 
-### Study method <a href="#_toc137455769" id="_toc137455769"></a>
+### Study method <a href="#_toc137735064" id="_toc137735064"></a>
 
 Field measurement was carried out in VENTUS, an office building, located at the National University of Singapore (NUS) (See Figure S19). Around 40 occupants doing administration work participated in this study. Before the study, each occupant was given a chance to select one out of four fan types, including desk fan, clip on fan, tower fan, and pedestal fan (see Figure S20), based on their personal preference. These fans have been pre-tested to increase air movement towards occupants and to compensate potential thermal discomfort due to higher temperature setpoint in the workspace. An introductory session was given to the occupants on the study objectives, procedures, and what should be done before the experiment.
 
@@ -282,19 +280,19 @@ Physical measurements were conducted to verify the indoor environmental status b
 
 Additionally, subjective surveys via web-based platform were conducted to obtain individual’s preference with their perceived environment and perception for the usage of fans. Subject’s satisfaction regarding thermal comfort, indoor air quality, and overall environment was evaluated using a 5 – point satisfaction scale (Very dissatisfied / Dissatisfied / Neither satisfied nor dissatisfied / Satisfied / Very satisfied). We asked the occupants about their fan usage experience regarding the comfortability of air movement generated by fans, noise level, spatial occupation of fans, and overall happiness in using fans. The subjects were instructed to answer these questions using a 5 – point scale (strongly disagree / disagree / neither agree nor disagree / agree / strongly agree). The environmental satisfaction survey was conducted after both baseline and intervention stages, while the fan related survey was only conducted after the intervention stage.
 
-#### Physical measurements <a href="#_toc137455770" id="_toc137455770"></a>
+### Physical measurements <a href="#_toc137735065" id="_toc137735065"></a>
 
-Figure S21 summarizes the measured indoor temperature, relative humidity, and CO2 concentration within the studied zone for both baseline (AC only) and intervention (AC + fans) settings. The mean (min – max) temperature recorded in the baseline and intervention settings was, respectively, 23.1 °C (21.5-25.3 °C) \[73.6 °F (70.7-77.5 °F)] and 25.6 °C (25.2-29.2 °C) \[78.1 °F (77.4-77.5 °F)]. In the intervention setting, higher temperature levels was occasionally observed in the morning at around 7am right after the air-conditioning system started. The mean (min – max) relative humidity for the baseline and intervention settings was, respectively, 61% (56-71 %) and 68 % (62-76 %). We observed the mean humidity in intervention setting has increased by 7 % when compared to baseline. This could be due to the increased off coil temperature setpoint from the air handling unit, where less moisture is being removed from cooling coil, but the indoor latent load remains. Lastly, we found higher mean (min – max) CO2 concentration in the intervention setting 820 ppm (700-920 ppm) than in baseline condition 770 ppm (670-900 ppm). Nevertheless, these recorded CO2 levels were all well below the general CO2 threshold (i.e., 1000 ppm) for good indoor air quality in office premises.
+Figure S21 summarizes the measured indoor temperature, relative humidity, and CO2 concentration within the studied zone for both baseline (AC only) and intervention (AC + fans) settings. The mean (min – max) temperature recorded in the baseline and intervention settings was, respectively, 23.1 °C (21.5-25.3 °C) \[73.6 °F (70.7-77.5 °F)] and 25.6 °C (25.2-29.2 °C) \[78.1 °F (77.4-77.5 °F)]. In the intervention setting, higher temperature levels were occasionally observed in the morning at around 7am right after the air-conditioning system started. The mean (min – max) relative humidity for the baseline and intervention settings was, respectively, 61% (56-71 %) and 68 % (62-76 %). We observed the mean humidity in intervention setting has increased by 7 % when compared to baseline. This could be due to the increased off coil temperature setpoint from the air handling unit, where less moisture is being removed from cooling coil, but the indoor latent load remains. Lastly, we found a higher mean (min – max) CO2 concentration in the intervention setting 820 ppm (700-920 ppm) than in baseline condition 770 ppm (670-900 ppm). Nevertheless, these recorded CO2 levels were all well below the general CO2 threshold (i.e., 1000 ppm) for good indoor air quality in office premises.
 
 Figure S21. Measured (a) temperature, (b) relative humidity, and (c) CO2 concentration for both baseline and intervention settings. Whiskers extend to the recorded maximum and minimum values.
 
-### Environmental satisfaction <a href="#_toc137455771" id="_toc137455771"></a>
+### Environmental satisfaction <a href="#_toc137735066" id="_toc137735066"></a>
 
 Figure S22 compares the occupant’s satisfaction with thermal comfort, indoor air quality (IAQ), and the overall environment between baseline and intervention settings. We found the thermal comfort satisfaction in the intervention settings has increased from 56 % to 64 %, while thermal dissatisfaction has decreased from 21 % to 9 % when compared to the baseline. The results suggest that occupants are thermally more satisfied under higher temperature setpoint (26 °C \[79 °F]) with ability to operate personal fans than in the conventional AC setting at lower temperature (24 °C \[75 °F]). The additional 3 % of “very dissatisfied” responses in the intervention settings could be due to individual’s higher sensitivity to a high indoor temperature resulting from the morning period when the air conditioning just started and have not reached the setpoint yet (max temperatures > 28 °C \[82 °F] in the intervention period, see Figure S21). The percentage of satisfactory IAQ has increased from 62 % in baseline to 70 % in the intervention settings, while the percentage of dissatisfaction remained 12 %. In general, we observed an improvement for IAQ in the when subjects can adjust the air speed around them. Meanwhile, an additional 3 % of the subjects responded “very dissatisfied” for IAQ during the intervention. This could be associated with the increased relative humidity in space which returns a sense of stuffiness in the air. Lastly, we found the overall satisfaction has increased from 59 % to 70 %, while dissatisfaction decreased from 12 % to 6 %, when compared the intervention to the baseline settings. These results showed occupants in the tropics are satisfied with higher temperature workspace when they are given personal fans to adjust their surrounding air speed.
 
 Figure S22. Subject’s satisfaction with thermal comfort, indoor air quality and the overall environment in both baseline (AC only) and intervention (AC + fans) settings.
 
-#### Fan selection and users’ feedback <a href="#_toc137455772" id="_toc137455772"></a>
+### Fan selection and users’ feedback <a href="#_toc137735067" id="_toc137735067"></a>
 
 Figure S23 illustrates the occupant’s preference regarding the fan types available in this study. We found 18 subjects selected a desk fan, 9 of them picked a pedestal fan, 5 of them took a tower fan, and the remaining 3 chose a clip-on fan. Spatial constraint could be a reason for more subjects selecting desk fan instead of pedestal and tower fans. Despite the small size of clip-on fan, the placed location is limited along the desk’s edge, and simply unavailable to be placed in front of the subjects (i.e., desk with partition in the front). In this study, occupants were free to select the fan speed based on their own preference. The average air speed perceived by each occupant is not identical.
 
@@ -306,11 +304,11 @@ Overall, we found 62 % of occupants (i.e., 25 out of 40) are satisfied with the 
 
 Figure S24. Subject’s responses to their fan usage experience.
 
-### Other occupants’ feedback <a href="#_toc137455773" id="_toc137455773"></a>
+### Other occupants’ feedback <a href="#_toc137735068" id="_toc137735068"></a>
 
 During the study, we engaged with some of the occupants to obtain general feedback. In the middle of the intervention period, some participants have reported difficulties in thermally adapting to the new condition, even though personal fans were provided. Thermal dissatisfaction responses were reported early in the morning when the air-conditioning system just started (i.e., temperature may increase up to 29 °C \[84 °F]) and during the transient period when occupants were entering the office from outdoor. In addition, some occupants felt that the indoor air was stuffy and there is inadequate air circulation. Nevertheless, such complaints were reduced significantly towards the end of the experiment.
 
-### Recommendations <a href="#_toc137455774" id="_toc137455774"></a>
+### Recommendations <a href="#_toc137735069" id="_toc137735069"></a>
 
 Based on what we have learnt from this field experiment, there are several recommendations to smoothen the transition between traditional air-conditioning systems (without fan) to fan-integrate air-conditioning settings in real buildings.
 
@@ -320,6 +318,6 @@ Based on what we have learnt from this field experiment, there are several recom
 4. Avoids aggressive change in temperature setpoint**.** During the early stage of the intervention, the increase in temperature setpoint shall not be too large. For example, if the conventional temperature setpoint is 24 °C \[75 °F] and the new targeted setpoint with fans is 26 °C \[79 °F], we suggest to first to increase the temperature to 25 °C \[77 °F] for one or two weeks, followed by 26 °C \[79 °F] if the occupants’ feedback is positive. The benefits are two-fold: (i) it allows the occupants to progressively adapt to the temperature change, and (ii) it provides a buffer for management officers to collect and resolve occupants’ feedback before any further actions are to be taken. Each step change of temperature setpoint is recommended to not exceed 1 °C \[1.8 °F].
 5. Occupants need time for adaptation. Occupants are used to the conventional air-conditioning setting in the workspace. The concept of increasing convective and evaporative heat loss through higher air speed is physiologically valid, but it takes time for the occupants to adapt to this new cooling strategy. It is expected that some occupants would take longer time for adaptation and reflect thermal discomfort during the early stage of system transformation. Facility managers are advised to be patient and try to resolve the reasons for dissatisfaction. For example, occupants may adopt flexible clothing policy, increase background air circulation, or even temporarily reduce the temperature setpoint in a particular hot day. With respect to the space and system settings, the occupant’s adaptation period can be varied.
 
-### Insights from this study <a href="#_toc137455775" id="_toc137455775"></a>
+### Insights from this study <a href="#_toc137735070" id="_toc137735070"></a>
 
 This study demonstrates the feasibility for using personal fans (i.e., desk, clip-on, pedestal, and tower fans) to compensate potential thermal discomfort under higher temperature (up to 26 °C \[79 °F]) workspace in Singapore. Positive feedback on thermal satisfaction, air quality satisfaction, overall environment satisfaction, and overall happiness from the occupants has been confirmed with the use of fans in the workspace. The findings are beneficial to the buildings that are attempting to adopt higher temperature cooling with elevated air speed strategy but limited to ceiling fans installation (i.e., insufficient floor-to-ceiling height) and major renovations (i.e., high cost). Precautions have been raised when selecting personal fans, including flexibility of fan choices, noise level, and spatial consideration. Lastly, an adaptation period for the occupants is acknowledged when transforming from conventional air-conditioning system to fan-integrated air-conditioning system.
