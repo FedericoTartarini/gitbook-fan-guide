@@ -14,7 +14,7 @@ To maximize uniformity of air speeds in a space with standard ceiling fans, choo
 
 ![A diagram of a fan
 
-Description automatically generated with medium confidence](<../.gitbook/assets/0 (4).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/0 (14).png>)
 
 Figure 34. Recommended sizing and layout for single-fan applications in a small room.
 
@@ -22,7 +22,7 @@ For spaces requiring multiple fans the overall layout should be determined by su
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/1 (3).png>)
+Description automatically generated](<../.gitbook/assets/1 (13).png>)
 
 Figure 35. Recommended ceiling fan size and layout for multi-fan applications. (a) Warehouse with higher room height, (b) office with lower room height.
 
@@ -34,7 +34,7 @@ Users are advised to install ceiling fans following the manufacturer’s recomme
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/2 (1).png>)
+Description automatically generated](<../.gitbook/assets/2 (10).png>)
 
 Figure 36. Ceiling fans installation parts.
 
@@ -44,13 +44,13 @@ Another key consideration for ceiling fan effectiveness is mounting height and c
 
 Standard ceiling fans must be mounted at least 2.1 m \[7 ft] above the floor to prevent any accidental contact with blades (see Figure 37). In addition, industry standards recommend fan blades be at least 20 cm \[8 in] below the ceiling, though clearances of 31 cm \[12 in] or more are more optimal at providing air circulation into the swept area of the blades and avoiding ‘starving’ the fan. The distance between blades and the ceiling at which ‘starvation’ occurs increases with fan diameter. An approximation for this has the distance between the blade and the ceiling should be at least 0.2 times the fan diameter. For spaces with relatively low ceilings, “hugger” ceiling fans are available without downrods to maintain adequate clearance, though these fans typically have poorer energy performance than standard fans mounted at an appropriate distance from the ceiling. In spaces with higher ceilings, standard ceiling fans should be suspended on downrods at 3 – 8 m \[10 – 26 ft] above the floor to adequately cool occupants. In addition, standard ceiling fans must be located so that the sweep of the blades is at least 45 cm \[18 in] from any vertical obstructions such as walls or columns, though clearances of 0.6 – 0.9 m \[2 – 3 ft] are often recommended to enable proper air circulation.
 
-![](<../.gitbook/assets/3 (4).png>)
+![](<../.gitbook/assets/3 (8).png>)
 
 Figure 37. Minimum clearances for standard ceiling fans.
 
 Safety regulations require almost all large-diameter fans (above 2.1m \[7 ft] in diameter) to be mounted such that the blades are at least 3m \[10 ft] above the floor (see Figure 38). A small number of large-diameter ceiling fan models can be mounted below 3m \[10 ft], but these fan models have limited rotational speeds to comply with safety regulations, and as such provide limited maximum airflows. As mentioned above, large-diameter ceiling fans typically require a minimum distance from the ceiling of 0.2 times the fan diameter, though manufacturer recommendations may vary. Similarly, large diameter fans typically require at least 1 m \[3 ft] of clearance from any obstructions to the sides or below the fan blades for safety and the ensure proper airflow around the fan blades.
 
-![](<../.gitbook/assets/4 (2).png>)
+![](<../.gitbook/assets/4 (8).png>)
 
 Figure 38. Minimum clearances for large diameter ceiling fans.
 
@@ -70,7 +70,7 @@ double-fan case: [https://cbe-berkeley.shinyapps.io/two-fans](https://cbe-berkel
 
 ![A picture containing text, diagram, black and white, pattern
 
-Description automatically generated](<../.gitbook/assets/5 (4).png>)
+Description automatically generated](<../.gitbook/assets/5 (8).png>)
 
 Figure 39. Air circulation pattern and interaction between two ceiling fans. (a) comparable air speed at closer fans distance, (b) dominant airs peed at closer fans distance, (c) comparable air speed at further fans distance, and (d) dominant air speed at further fans distance.
 
@@ -84,7 +84,7 @@ The adoption of a door-like opening configuration is indicative of an enhanced v
 
 ![A picture containing text, diagram, skeleton, design
 
-Description automatically generated](<../.gitbook/assets/6 (7).png>)
+Description automatically generated](<../.gitbook/assets/6 (10).png>)
 
 Figure 40. Illustration of airflow patterns induced by ceiling fan for (a) normal window opening, (b) door-like opening settings.
 
@@ -96,7 +96,7 @@ When the ceiling fan blade interacts with light distributed from a recess fixtur
 
 The visual line of sight from the occupant to a recess fixture can still be blocked by a ceiling fan since the ceiling fan blades are mounted below the electric light (see Figure 41b). Therefore, this design arrangement between the ceiling fan and recess lighting still creates flicker seen from multiple viewing positions inside the space. Another design option is to use dropdown lighting (i.e., light fixtures are suspended at the level of fan blades or below them, see Figure 41c), which bypasses issues of flicker completely, and prevents strobing on the floor surface. However, drawbacks to this configuration may occur in low floor-to-ceiling applications when reflections from adjacent surfaces are projected back onto the ceiling or onto wall surfaces, creating strobing. Meanwhile, glare from electric lights may also be produced when they are mounted closer to the occupants’ head.
 
-![ceiling fan lighting design strobing and flicker.png](<../.gitbook/assets/7 (4).png>)
+![ceiling fan lighting design strobing and flicker.png](<../.gitbook/assets/7 (10).png>)
 
 Figure 41. Sectional illustrations showing how interactions between ceiling fans and electric fixtures across different configurations convey different issues to the lighting design of that space: (a) strobing and flicker, (b) flicker, and (c) ceiling strobing.
 
@@ -110,7 +110,7 @@ There are many adverse effects that are caused by visual flicker. Increased visu
 
 ![Diagram
 
-Description automatically generated with medium confidence](../.gitbook/assets/9.png)
+Description automatically generated with medium confidence](<../.gitbook/assets/9 (4).png>)
 
 Figure 43. An experimental setup that had followed the design recommendations to remove flicker when using a ceiling fan and recess lighting. The sectional view (a) shows that the blade does not overlap with the light fixture, but the perspective view (b) from a desk shows flicker can be seen.
 
@@ -134,7 +134,7 @@ Ceiling fans can be directly implemented to existing air-conditioned buildings w
 
 ![Diagram
 
-Description automatically generated](../.gitbook/assets/10.jpeg)
+Description automatically generated](<../.gitbook/assets/10 (3).jpeg>)
 
 Figure 44. Ceiling fan integrates with conventional all air system with diffusers.
 
@@ -154,7 +154,7 @@ In such a system, the cool supply air would best be fed through the fan (i.e., a
 
 This approach has been studied for cooling conditions. In heating, the fan may be used in reverse mode but there is no available knowledge about its performance, therefore caution should be used.
 
-![](<../.gitbook/assets/12 (3).png>)
+![](<../.gitbook/assets/12 (5).png>)
 
 Figure 46. Air temperature variation profile for side-wall air supply at fan blade height and above fan blade height.
 
@@ -164,7 +164,7 @@ Radiant heating and cooling systems can achieve significant energy savings, peak
 
 ![Diagram
 
-Description automatically generated](../.gitbook/assets/13.png)
+Description automatically generated](<../.gitbook/assets/13 (1).png>)
 
 Figure 47. Example for radiant cooling system (a) directly embedded piping inside slab, and (b) piping installed inside radiant panel.
 
@@ -178,7 +178,7 @@ Figure 48 presents the airflow patterns of a typical displacement ventilation sy
 
 ![Diagram, engineering drawing
 
-Description automatically generated](../.gitbook/assets/14.jpeg)
+Description automatically generated](<../.gitbook/assets/14 (1).jpeg>)
 
 Figure 48. Airflow patterns for displacement ventilation system ([Li et al., 2017](https://doi.org/10.3390/en10020231)).
 
