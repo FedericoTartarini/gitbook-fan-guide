@@ -1,12 +1,16 @@
 # Practical transformation to fan integrated AC system
 
-## User education <a href="#_toc336745370" id="_toc336745370"></a>
+### User education <a href="#_toc137824718" id="_toc137824718"></a>
 
 A key indicator of successful fan-integrated system is to ensure that occupants understand the purpose and to use the fans. In other words, occupants should be informed about the purpose and operation of the fans. Figure T18 shows an example of an information plaque to inform the fan usage priority – Fan cooling first approach – when occupants are feeling too warm.
 
-![Figure T18. Fan cooling first approach – example plaque for occupant interface and control recommendations.](<../.gitbook/assets/0 (19).png>)
+![Diagram
 
-## Implementation and adaptation <a href="#_toc1778465232" id="_toc1778465232"></a>
+Description automatically generated](<../.gitbook/assets/0 (5).png>)
+
+Figure T18. Fan cooling first approach – example plaque for occupant interface and control recommendations.
+
+### Implementation and adaptation <a href="#_toc137824719" id="_toc137824719"></a>
 
 Occupants take time to adapt to the fan-integrated AC system at warmer temperatures and higher air speed environments. Depending on the site conditions and culture, a grace period for occupant adaptation may take up to 3 months. Any change in temperature cooling setpoint should be small, gradual, and following occupants’ comfort feedback. Despite studies showing occupants can be comfortable at a higher temperature condition with increased air speed, in practice, they may perceive thermal dissatisfaction with a sharp change in room temperature setpoint (e.g., from 23 °C to 27 °C \[73 °F to 81 °F]) without providing a grace period for adaptation. This is particularly important in building retrofits.
 

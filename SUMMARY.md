@@ -4,7 +4,14 @@
 
 ## Practitioner Summary
 
-* [Page 1](practitioner-summary/page-1.md)
+* [Introduction](practitioner-summary/introduction.md)
+* [Elevated air speed and thermal comfort](practitioner-summary/elevated-air-speed-and-thermal-comfort.md)
+* [Fan options and considerable metrics](practitioner-summary/fan-options-and-considerable-metrics.md)
+* [Designing air movement in space](practitioner-summary/designing-air-movement-in-space.md)
+* [Ceiling fan integration with HVAC system](practitioner-summary/ceiling-fan-integration-with-hvac-system.md)
+* [Practical transformation to fan integrated AC system](practitioner-summary/practical-transformation-to-fan-integrated-ac-system.md)
+* [Available design tools](practitioner-summary/available-design-tools.md)
+* [Related codes and standards](practitioner-summary/related-codes-and-standards.md)
 
 ## Full Guidebook
 
