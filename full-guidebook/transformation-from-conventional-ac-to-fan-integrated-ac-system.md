@@ -6,7 +6,7 @@ A key part of the success of any fan installation is ensuring that occupants und
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/0 (3).png>)
+Description automatically generated](<../.gitbook/assets/0 (13).png>)
 
 Figure 56. Example of information plaque for occupant interface and control recommendations.
 

@@ -1,38 +1,6 @@
-# Case study examples with ceiling fans
+# Deep Dive
 
-## Coastal Biology Building
-
-![Graphical user interface, website
-
-Description automatically generated](<../.gitbook/assets/0 (14).png>)
-
-![A picture containing diagram
-
-Description automatically generated](<../.gitbook/assets/1 (16).png>)
-
-## The Bullitt Center
-
-![Text
-
-Description automatically generated with low confidence](<../.gitbook/assets/2 (6).png>)
-
-![A picture containing text
-
-Description automatically generated](<../.gitbook/assets/3 (14).png>)
-
-## Franco Center
-
-![Graphical user interface
-
-Description automatically generated with medium confidence](<../.gitbook/assets/4 (6).png>)
-
-![Graphical user interface
-
-Description automatically generated](<../.gitbook/assets/5 (17).png>)
-
-## Deep Dive <a href="#_toc137735071" id="_toc137735071"></a>
-
-### Air movement, indoor air quality (IAQ) and indoor transmission of aerosol infectious agents <a href="#_toc137735072" id="_toc137735072"></a>
+Air movement, indoor air quality (IAQ) and indoor transmission of aerosol infectious agents
 
 Although many studies have shown that elevated air movement can improve the occupants’ perceived air quality ([Melikov & Kaczmarczyk, 2012](https://doi.org/10.1016/j.buildenv.2011.06.017); [Schiavon et al., 2017](https://doi.org/10.1111/ina.12352); [Zhai et al., 2015](https://doi.org/10.1016/j.buildenv.2015.04.003)), studies on the relationship between air movement and indoor air quality are comparatively limited. Increased air movement does not remove indoor pollutants from a space like ventilation does. However, air movement changes the airflow pattern in the space that can reduce an occupant’s exposure to indoor pollutants and infectious agents in several ways: as discussed below.
 
