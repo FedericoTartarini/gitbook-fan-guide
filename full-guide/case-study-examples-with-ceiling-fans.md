@@ -20,17 +20,17 @@ Description automatically generated with low confidence](<../.gitbook/assets/2 (
 
 ![A picture containing text
 
-Description automatically generated](<../.gitbook/assets/3 (10).png>)
+Description automatically generated](<../.gitbook/assets/3 (14).png>)
 
 ### Franco Center
 
 ![Graphical user interface
 
-Description automatically generated with medium confidence](<../.gitbook/assets/4 (7).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/4 (10).png>)
 
 ![Graphical user interface
 
-Description automatically generated](<../.gitbook/assets/5 (16).png>)
+Description automatically generated](<../.gitbook/assets/5 (4).png>)
 
 ### Deep Dive <a href="#_toc137735071" id="_toc137735071"></a>
 

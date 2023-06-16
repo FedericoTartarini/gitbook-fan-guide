@@ -10,7 +10,7 @@ The user enters temperature, air speed, humidity, metabolic rate and clothing le
 
 ![A screenshot of a computer
 
-Description automatically generated with medium confidence](<../.gitbook/assets/0 (17).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/0 (23).png>)
 
 Figure 57. Example of the CBE Thermal Comfort Tool, showing user inputs, psychometric chart, and results.
 
@@ -32,11 +32,11 @@ The CBE Ceiling Fan Design Tool takes into account many of the design factors di
 
 Figure 59. Example CBE Ceiling Fan Design Tool outputs.
 
-![](<../.gitbook/assets/3 (8).png>)
+![](<../.gitbook/assets/3 (12).png>)
 
 Figure 60. Example cell plan from CBE Ceiling Fan Design Tool.
 
-![](<../.gitbook/assets/4 (17).png>)
+![](<../.gitbook/assets/4 (6).png>)
 
 Figure 61. Example cell section from CBE Ceiling Fan Design Tool.
 
@@ -46,6 +46,6 @@ To demonstrate the energy savings potential of fans in a whole building energy m
 
 ![Graphical user interface
 
-Description automatically generated](<../.gitbook/assets/5 (17).png>)
+Description automatically generated](<../.gitbook/assets/5 (5).png>)
 
 Figure 62. Example of the Setpoint Energy Saving Calculator
