@@ -6,7 +6,7 @@
 
 ![Graphical user interface, website
 
-Description automatically generated](<../.gitbook/assets/0 (28).png>)
+Description automatically generated](<../.gitbook/assets/0 (3).png>)
 
 ![A picture containing diagram
 
@@ -16,21 +16,21 @@ Description automatically generated](<../.gitbook/assets/1 (19).png>)
 
 ![Text
 
-Description automatically generated with low confidence](<../.gitbook/assets/2 (10).png>)
+Description automatically generated with low confidence](<../.gitbook/assets/2 (4).png>)
 
 ![A picture containing text
 
-Description automatically generated](<../.gitbook/assets/3 (3).png>)
+Description automatically generated](<../.gitbook/assets/3 (11).png>)
 
 ### Franco Center
 
 ![Graphical user interface
 
-Description automatically generated with medium confidence](<../.gitbook/assets/4 (1).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/4 (5).png>)
 
 ![Graphical user interface
 
-Description automatically generated](<../.gitbook/assets/5 (12).png>)
+Description automatically generated](<../.gitbook/assets/5 (5).png>)
 
 ### Deep Dive <a href="#_toc137735071" id="_toc137735071"></a>
 

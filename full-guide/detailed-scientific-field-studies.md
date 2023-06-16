@@ -16,7 +16,7 @@ Field measurements of air speed were conducted in 4 commercial buildings install
 
 Table S1. Tested buildings and ceiling fans information.
 
-![](<../.gitbook/assets/0 (9).png>)
+![](<../.gitbook/assets/0 (32).png>)
 
 #### Air speed distribution overview <a href="#_toc137735035" id="_toc137735035"></a>
 
@@ -24,7 +24,7 @@ The height averaged air speed superimposed on floor plans with the ceiling fan l
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/1 (9).png>)
+Description automatically generated](<../.gitbook/assets/1 (28).png>)
 
 Figure S1. Floor plan and air speed distribution in the 4 tested buildings. The magnitude of air speed at each site is averaged by heights.
 
@@ -32,7 +32,7 @@ Figure S1. Floor plan and air speed distribution in the 4 tested buildings. The 
 
 Figure S2 demonstrates the air speed performance under different test conditions. Ceiling fans operating in the downward direction produced higher mean air speeds (0.2-1.8 m/s \[40-350 fpm]) than the upward direction (0.2-0.5 m/s \[40-100 fpm]). However, a more uniform airflow within the occupied zone was found when fans are blowing upwards (i.e., smaller variation in air speed distribution). The variation of air speeds is mainly influenced by measurement height. Generally, fans operating downwards create negative vertical gradients (i.e., air speed the fastest at ankle height and the slowest at head height), while a positive gradient is observed directly under the fan. In contrast, upwards operating fans provide higher air speed at the head height of occupant than at the ankle level, but a negative gradient is observed in the return air path (e.g., near walls or at the confluence of airflows with multiple fans). Priority should be given to downward blowing fans if the thermal comfort design requirements are to maximize cooling efficiency in space, or to minimize energy consumption. Conversely, upward blowing fans allow better airflow uniformity across vertical and horizontal dimensions. In addition, designers should pay attention to the fan blade design (with symmetrical blade geometry or inverted installation fan) if the fans are intended to operate upward in the design stage.
 
-![](<../.gitbook/assets/2 (1).png>)
+![](<../.gitbook/assets/2 (13).png>)
 
 Figure S2. Air speed distribution at 4 sites for different (i) operating directions (downward – purple; upward – green); (ii) fan rotational speed; (iii) operating fan number (if available); and (iv) before and after averaging by heights.
 
@@ -46,7 +46,7 @@ Cooling effect is the temperature reduction (in °C or °F) perceived by the occ
 
 ![Chart
 
-Description automatically generated with medium confidence](<../.gitbook/assets/3 (2).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/3 (10).png>)
 
 Figure S3 Cooling effects in different test conditions and buildings. Characteristics of the plot are the same as describing in Figure FS9
 
@@ -56,7 +56,7 @@ The room’s air speed magnitude and its distribution are affected by multiple c
 
 ![A picture containing graphical user interface
 
-Description automatically generated](../.gitbook/assets/4.png)
+Description automatically generated](<../.gitbook/assets/4 (4).png>)
 
 Figure S4 Air speed distribution for linear and diagonal ceiling fans operation layout.
 
@@ -66,7 +66,7 @@ Furniture is an important aspect for elevated air speed by ceiling fans design i
 
 ![Chart, line chart
 
-Description automatically generated](<../.gitbook/assets/5 (3).png>)
+Description automatically generated](<../.gitbook/assets/5 (13).png>)
 
 Figure S5 Vertical air speed distribution comparison with or without furniture in space.
 
@@ -82,7 +82,7 @@ This is a six-week study implementing ceiling fan with air conditioning in a Sin
 
 ![Chart
 
-Description automatically generated with medium confidence](<../.gitbook/assets/6 (5).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/6 (11).png>)
 
 Figure S6. Plan view of the studies office space. Green seats represent occupants participating in the study.
 
@@ -100,7 +100,7 @@ A total of 78 % of occupants preferred “no change” in thermal conditions, im
 
 ![Chart, bar chart
 
-Description automatically generated](<../.gitbook/assets/7 (2).png>)
+Description automatically generated](<../.gitbook/assets/7 (10).png>)
 
 Figure S7. Subjective responses to thermal acceptability and thermal preference under three tested conditions.
 
@@ -110,7 +110,7 @@ Figure S8 plots the occupant’s self-reported level of sleepiness, concentratio
 
 ![Chart, box and whisker chart
 
-Description automatically generated with medium confidence](../.gitbook/assets/8.png)
+Description automatically generated with medium confidence](<../.gitbook/assets/8 (4).png>)
 
 Figure S8. Self-reported levels of sleepiness, concentration, and productivity. Asterisk shows significance in terms of median difference at: \* p < 0.05, \*\* p < 0.01, \*\*\* p < 0.001.
 
@@ -122,7 +122,7 @@ Table S2 Daily consumption of electrical energy during the field study
 
 ![Table
 
-Description automatically generated](<../.gitbook/assets/9 (2).png>)
+Description automatically generated](<../.gitbook/assets/9 (9).png>)
 
 #### Insights from this study <a href="#_heading-h.thw4kt" id="_heading-h.thw4kt"></a>
 
@@ -142,7 +142,7 @@ The automated ceiling fans installed in this study were all integrated with brus
 
 ![Diagram
 
-Description automatically generated with medium confidence](../.gitbook/assets/10.png)
+Description automatically generated with medium confidence](<../.gitbook/assets/10 (2).png>)
 
 Figure S9. Field study timeline indicating baseline (pre-retrofit) and intervention (post-retrofit) periods.
 
@@ -150,7 +150,7 @@ Figure S9. Field study timeline indicating baseline (pre-retrofit) and intervent
 
 Figure S10 shows an increased indoor temperature during the intervention (AC + fans) compared to the baseline period (AC only) period by an average of 1.9 °C \[3.4 °F] across all sites and all hours. Assuming ‘still air’ conditions during the baseline period (air speeds < 0.05 m/s \[10 fpm]), and air speeds up to 0.5 m/s \[100 fpm] in the intervention period, the respective comfort temperature ranges estimated from ASHRAE Standard 55 in typical office conditions are 22.2 - 25.6 °C \[72 - 78 °F] and 22.2 - 28.3 °C \[72 - 83 °F]. For the baseline period, 46 % of the hours from all sites (including unoccupied hours) were within the comfort temperature range, while 84 % of the hours in the intervention period with ceiling fans were within the comfort temperature range. This result suggests that occupants could be more comfortable in conditions where ceiling fans are operating together with air conditioning at a higher cooling setpoint.
 
-![](../.gitbook/assets/11.png)
+![](<../.gitbook/assets/11 (6).png>)
 
 Figure S10. Mean hourly indoor air temperature against outdoor temperature. Dashed lines on x and y axes represent medians, solid lines represent means.
 
@@ -158,7 +158,7 @@ Figure S10. Mean hourly indoor air temperature against outdoor temperature. Dash
 
 To verify the occupants’ actual thermal comfort perception, subjective surveys were conducted in one out of the four sites before and after the installation of ceiling fans. Subjects responded to the thermal comfort question in a 5-point Likert scale: Too warm, comfortably warm, comfortable, comfortably cool, and too cool. Any responses given to the middle three scales are considered comfortable. The results in Figure S11 suggest 82 % of the occupants found themselves comfortable at 22 °C (72 °F) indoor temperature with air conditioning. The percentage of comfortable occupants increased to 93 % in the intervention period where air conditioning was operating at 26 °C \[79 °F] setpoint temperature together with ceiling fans. This result gives evidence that the intervention could enhance subjects’ thermal comfort compared to the condition operated only with air conditioning.
 
-![](<../.gitbook/assets/12 (2).png>)
+![](<../.gitbook/assets/12 (8).png>)
 
 Figure S11 Thermal comfort survey responses at one site before and after retrofit.
 
@@ -172,7 +172,7 @@ Meanwhile, detailed field study data suggested that the energy saving potential 
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/13 (4).png>) ![](<../.gitbook/assets/14 (1).png>)
+Description automatically generated](<../.gitbook/assets/13 (7).png>) ![](<../.gitbook/assets/14 (2).png>)
 
 Figure S12. Mean hourly power consumption for (a) air conditioning compressor and (b) ceiling fan. Dashed lines\
 on x-axes and y-axes indicates median, solid line indicates mean.
@@ -191,9 +191,9 @@ This is a detailed study on cooperating ceiling fans, desk fans, and air conditi
 
 ![A picture containing outdoor, grass, tree, sky
 
-Description automatically generated](<../.gitbook/assets/15 (1).jpeg>) ![A picture containing indoor, furniture, table, computer
+Description automatically generated](<../.gitbook/assets/15 (6).jpeg>) ![A picture containing indoor, furniture, table, computer
 
-Description automatically generated](../.gitbook/assets/16.jpeg)
+Description automatically generated](<../.gitbook/assets/16 (6).jpeg>)
 
 Figure S13. Outlook and internal design (integrating HVAC system with ceiling fans and desk fans) for BCA ZEB Plus.
 
@@ -203,7 +203,7 @@ Before the retrofit, the first floor of this building was a gallery exhibition u
 
 ![Diagram
 
-Description automatically generated](../.gitbook/assets/17.png)
+Description automatically generated](<../.gitbook/assets/17 (5).png>)
 
 Figure S14. Floor plan in BCA ZEB Plus with supply and return air duct and ceiling fans location.
 
@@ -215,7 +215,7 @@ Thermal comfort is a critical requirement to evaluate the effectiveness of the f
 
 ![A picture containing text, screenshot, font, line
 
-Description automatically generated](../.gitbook/assets/18.png)
+Description automatically generated](<../.gitbook/assets/18 (6).png>)
 
 Figure S15. Subjective survey on indoor temperature satisfaction between BCA ZEB PLUS (fan-integrated AC system) and 10 other conventional AC offices (without fans) in Singapore.
 
@@ -223,7 +223,7 @@ Figure S16 showed the results, in phase 3 of the study, when we asked occupants 
 
 ![A picture containing text, screenshot, font, number
 
-Description automatically generated](../.gitbook/assets/19.png)
+Description automatically generated](<../.gitbook/assets/19 (6).png>)
 
 Figure S16. Subject’s preference with the thermal environment at (i) temperature setpoint (Ta) = 24 °C without fans and (ii) Ta = 26.5 °C with fans in Phase 3 study.
 
@@ -235,7 +235,7 @@ In phase 3 of the thermal comfort experiment, we conducted an 11-week study and 
 
 ![A picture containing text, screenshot, font, number
 
-Description automatically generated](../.gitbook/assets/20.png)
+Description automatically generated](<../.gitbook/assets/20 (2).png>)
 
 Figure S17. Cooling system energy use intensity at (i) temperature setpoint (Ta) = 24 °C without fans and (ii) Ta = 26.5 °C with fans in Phase 3 study.
 
