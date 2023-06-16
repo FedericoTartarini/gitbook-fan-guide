@@ -1,10 +1,8 @@
 # Codes and Standards
 
-### Codes and Standards <a href="#_ref127795127" id="_ref127795127"></a>
+## Environmental conditions <a href="#_toc137735015" id="_toc137735015"></a>
 
-### Environmental conditions <a href="#_toc137735015" id="_toc137735015"></a>
-
-#### ASHRAE Standard 55 (2020) <a href="#_toc137735016" id="_toc137735016"></a>
+### ASHRAE Standard 55 (2020) <a href="#_toc137735016" id="_toc137735016"></a>
 
 [ASHRAE Standard 55 – Thermal Environmental Conditions for Human Occupancy (2020)](https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy) specify the combinations of indoor thermal environmental factors and personal factors that will produce satisfactory thermal environmental conditions for a majority of the occupants within the space. The ASHRAE 55 is applicable worldwide and incorporated in other countries standards (e.g., the [Brazilian ABNT NBR 16401-2 review proposed in 2021](https://labeee.ufsc.br/sites/default/files/210126%20PROJETO%2016401-2.pdf))
 
@@ -22,21 +20,21 @@ Table 5. ASHRAE 55-2020 Comfort control classification levels (CCCLs)
 | 4                                                      | The room or thermal zone provides multi occupant control of one control measure in their shared environment.                   | <ul><li>Shared office with an occupant adjustable thermostat</li></ul>                                                                                               |
 | 5                                                      | No occupant control of any environmental factors                                                                               | <ul><li>Shared or private office with an un-adjustable thermostat or no thermostat</li></ul>                                                                         |
 
-#### Green Mark Scheme - Singapore <a href="#_toc137735017" id="_toc137735017"></a>
+### Green Mark Scheme - Singapore <a href="#_toc137735017" id="_toc137735017"></a>
 
 Green Mark is a green building certification scheme established by the Building and Constructure Authority (BCA) tailored for tropical climate aiming to raise standards in energy performance and emphasis on other sustainability outcomes. Singapore is located in the Tropics with a yearly average outdoor air temperature around 30 °C \[86 °F], which indicates a great potential for application of increased air movement.
 
 In [Green Mark 2021: Health and Wellbeing](https://www1.bca.gov.sg/docs/default-source/bca-awards-2020/20220419\_healthwellbeing\_simplified\_r1-2.pdf?sfvrsn=d8f5e495\_0) section, strategy of hybrid cooling system (i.e., increasing temperature setpoint in HVAC system with provision of elevated air speed by ceiling fans and/or individual fans) is highlighted to enhance thermal comfort in air-conditioned non-residential buildings. Thermal comfort can be achieved by controlling the temperature of conditioned air and by adjusting air speed via fans. The [Technical Guide of Green Mark for existing non-residential buildings (2017)](https://www1.bca.gov.sg/docs/default-source/docs-corp-buildsg/sustainability/green-mark-enrb-2017-technical-guide\_\(11feb2020\)-to-upload708672f9aeaf4cb58ceb01298bd1de70.pdf?sfvrsn=8ada0ddf\_0%E3%80%81) further highlights the indoor temperature setpoint shall be maintained at 26 °C \[79 °F] or above, with increased air speed to meet thermal comfort criteria (-0.5 < PMV < 0.5, and/or PPD < 10 %) through ASHRAE Standard 55, ISO 7730, or EN 15251 (substituted by EN 16798) methodologies. This setpoint temperature operates in the fan-integrate AC system is higher than the setpoint recommended in the [Singapore Standard 553 (2016): Code of practice for air-conditioning and mechanical ventilation in buildings](https://www.singaporestandardseshop.sg/Product/SSPdtDetail/112b67fc-8c96-4dd4-8d8a-e71a5b4d4df8), i.e., room temperature should be maintained within 23-25 °C \[73-77 °F], for conventional air-conditioning (without fan) settings, meaning that energy saving through increased temperature setpoint in the HVAC system is achievable.
 
-### Ceiling fans testing regulations <a href="#_ceiling_fans_testing" id="_ceiling_fans_testing"></a>
+## Ceiling fans testing regulations <a href="#_ceiling_fans_testing" id="_ceiling_fans_testing"></a>
 
 In 2017, the US Department of Energy (DOE) published the [Energy Conservation Standards for Ceiling Fans (Federal Register 82:6826)](https://www.federalregister.gov/documents/2022/11/28/2022-25749/energy-conservation-program-energy-conservation-standards-for-ceiling-fans). This regulation proposes a fan testing procedure to allow comparison of products based on electric input power and airflow. These test criteria are based on common industry protocols and used by fan manufacturers as the basis of published ceiling fan performance data.
 
-#### Small-diameter fans: Method for ENERGY STAR qualified ceiling fans <a href="#_toc137735019" id="_toc137735019"></a>
+### Small-diameter fans: Method for ENERGY STAR qualified ceiling fans <a href="#_toc137735019" id="_toc137735019"></a>
 
 Small-diameter ceiling fan is a ceiling fan that is smaller than (or equal to) 2.1 m \[7 ft] in diameter. Performance testing on small-diameter ceiling fan is based on the [_ENERGY STAR Testing Facility Guidance Manual: The Solid State Test Method for ENERGY STAR Qualified Ceiling Fans_](https://www.energystar.gov/ia/partners/prod\_development/revisions/downloads/ceil\_fans/testmanual.pdf). This guidance provides detailed information on how to properly test the performance a ceiling fan, including the construction and preparation of the test room, equipment that are needed for the test, equipment set-up, testing procedures, and criteria in reporting test results.The qualifying fans shall meet or exceed the minimum airflow and efficiency requirements at its low fan speed (1250 CFM; 155 CFM/W), medium fan speed (2500 CFM; 110 CFM/W) and high fan speed (5000 CFM; 75 CFM/W).
 
-#### Large-diameter fans: AMCA Standard 230 <a href="#_toc137735020" id="_toc137735020"></a>
+### Large-diameter fans: AMCA Standard 230 <a href="#_toc137735020" id="_toc137735020"></a>
 
 Large-diameter ceiling fan is a ceiling fan that is larger than 2.1 m \[7 ft] in diameter. Performance testing on larger-diameter ceiling fan is standardized by the [_Air Movement and Control Association (AMCA) Standard 230-15: Laboratory Methods of Testing Air Circulating Fans for Rating and Certification_](https://www.techstreet.com/amca/standards/amca-230-15?product\_id=1904250). Similarly, this standard provides a protocol and testing conditions to assess the performance of different fan models, in particular determining and expressing ceiling fan efficiency and efficacy.The fan efficiency, adopted by Department of Energy (DOE) in the United State of America, is calculated using a weighted average of data collected in standby model and up to five available fan speed (if five speeds are tested, each speed is assumed 20% of the daily operating hours). Similar approaches could be applied to other countries as an additional instrument for estimating fans’ energy consumption and efficiency. The equation for the DOE efficiency is presented below:
 
@@ -44,21 +42,21 @@ where Airflowi = Airflow at speed i, OHi = Operating hours at speed i, Wi = Powe
 
 A major consideration in using DOE metric is when the fan operates at very low speed. Power consumption is proportional to the cube of flow rate. Therefore, slowing down a fan would reduce the input power and airflow, but the reduction in input power is higher than airflow. This means that low airflow fans equipped with inefficient motors can still achieve high DOE metric. Conversely, high airflow fans (at the same diameter), even equipped with more efficient motors, are more difficult in complying the DOE metric.
 
-#### Large-diameter fans: Ceiling Fan Energy Index (CFEI) <a href="#_toc137735021" id="_toc137735021"></a>
+### Large-diameter fans: Ceiling Fan Energy Index (CFEI) <a href="#_toc137735021" id="_toc137735021"></a>
 
 Since 2021, the Ceiling Fan Energy Index (CFEI) is used to make inefficient fans less likely to comply using slower speeds, such as those used to game the DOE (CFM/W) metric,and to remove the unintentional barrier to compliance for high-performing high-utility fans. CFEI is derived from the FEI equation in [_ANSI/AMCA Standard 208-18: Calculation of the Fan Energy Index_](https://www.amca.org/news/press-releases/ansi/amca-standard-208,-calculation-of-the-fan-energy-index,-available-for-free-download.html) with substitute coefficient of airflow constant: Q0 = 12.5 m3/s (26500 CFM), pressure constant: P0 = 0.67 pascals (0.0027 inches water gauge), and fan-efficiency constant: η0 = 42 %.CFEI is calculated as a ratio of the electrical input power of a reference fan to the electrical input power of the actual fan. The equation is presented below:
 
 The reference fan is a conceptual fan used to relate all fans to a common baseline, producing the airflow and fan pressure required at a specified electrical input power. According to the standard, large-diameter ceiling fans should have a CFEI greater than or equal to: (a) 1.00 at high (i.e., 100 %) fan speed, and (b) 1.31 at 40 % of fan speed.
 
-#### ASHRAE Standard 216 <a href="#_toc137735022" id="_toc137735022"></a>
+### ASHRAE Standard 216 <a href="#_toc137735022" id="_toc137735022"></a>
 
 [_ASHRAE Standard 216_](https://www.techstreet.com/ashrae/standards/ashrae-216-2020?gateway\_code=ashrae\&product\_id=2202077)_: Methods of Test for Determining Application Data of Overhead Circulator Fans_ aims to provide standardized performance data for the application of overhead circulation ceiling fans in indoor spaces. The room air speed distribution test results can be used to calculate occupant thermal comfort and to demonstrate compliance with the thermal comfort requirements of ASHRAE Standard 55. This standard includes requirements for test instrumentation, the features of test rooms, and measurement procedures. It also includes calculation procedures for several performance metrics relevant to thermal comfort application of overhead circulator ceiling fans such as uniformity, room average cooling effect, heating draft risk, and comfort cooling efficacy.
 
 This standard provides a consistent industry-standard practice for determining ceiling fan performance characteristics. Manufacturers can use Standard 216 test procedures to test their products and provide standardized performance data for use in specification and simulation of fan performance. Standard 216 test procedures should also be used for any full-scale fan test mock-ups. In conjunction with the Design Thermal Environmental Control Classification of ASHRAE Standard 55, this standard supports the implementation of ceiling fans as an option for thermal comfort control in buildings.
 
-### Fire safety and installation <a href="#_toc137735023" id="_toc137735023"></a>
+## Fire safety and installation <a href="#_toc137735023" id="_toc137735023"></a>
 
-#### Fire code requirements <a href="#_toc137735024" id="_toc137735024"></a>
+### Fire code requirements <a href="#_toc137735024" id="_toc137735024"></a>
 
 The primary concern with ceiling fans in relation to the fire code is the interaction with fire sprinklers. For the most part, standard ceiling fans in typical residential and non-residential applications have few limitations in relation to fire sprinklers, while large-diameter ceiling fans require a higher degree of integration with fire suppression systems.
 
@@ -74,7 +72,7 @@ The California Fire Codes also specify that smoke alarms and smoke detectors sha
 
 While this section covers requirements as they apply in the California Fire Code, adapted from NFPA Standards, specific requirements may vary by local jurisdiction. Always consult local codes for requirements for a specific project.
 
-#### Seismic requirements <a href="#_toc137735025" id="_toc137735025"></a>
+### Seismic requirements <a href="#_toc137735025" id="_toc137735025"></a>
 
 In many applications, standard ceiling fans attached directly to a structural ceiling do not require any further seismic bracing or restraint. However, applications with large-diameter ceiling fans, suspended ceilings, long suspension rods, or other special conditions may require additional seismic support.
 
@@ -82,6 +80,6 @@ Seismic considerations and requirements are especially relevant for installation
 
 In addition to the specific requirements in ASCE 7, there are some general best practices for all applications and scenarios. The Federal Emergency Management Agency’s (FEMA) document, “[Reducing the Risks of Non-structural Earthquake Damage – A Practical Guide](https://www.fema.gov/sites/default/files/2020-07/fema\_earthquakes\_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)” recommends that all suspended fixtures, such as lighting and ceiling fans, have positive attachment to the structure to avoid falling hazards. Ceiling fans should never be supported on a suspended ceiling grid or ceiling tile. In addition, the [California Department of the State Architect (DSA)](https://www.dgs.ca.gov/DSA/Publications) has issued code interpretations pertaining to suspended fixtures such as ceiling fans, stating that fixtures with rigid suspension pendants must be attached to the structure using a device allowing movement in any direction (i.e., a ball and socket joint) ([DAS IR 16-9](https://www.dgs.ca.gov/DSA/Publications#structural\_design)) and requiring bracing where any pendant fixture passes through a suspended ceiling ([DAS IR 25-2](https://www.dgs.ca.gov/DSA/Publications#structural\_design)). Some manufacturers also suggest lateral restraint using guy wires that are at least 6.35 mm \[0,25 in] in diameter for large-diameter fans. Again, it is important to consult local building codes to determine specific requirements.
 
-### Energy information label for ceiling fan <a href="#_heading-h.1idq7dh" id="_heading-h.1idq7dh"></a>
+## Energy information label for ceiling fan <a href="#_heading-h.1idq7dh" id="_heading-h.1idq7dh"></a>
 
 The Energy Protection Act (EPA) requires any ceiling fan to be tested in approved laboratory before it can be sold in the United States. The airflow and corresponding wattage at different operating speeds of the ceiling fan will be tested. Thereafter, the fan will be given an airflow rating (cubic feet per min), electricity use rating (watt, excludes lights), and an airflow efficiency rating (cubic feet per minute per watt). All the numbers will be printed on an energy Information label outside the fan packaging. This label helps the fan buyers to clarify the efficiency of fan products and to compare their needs between fan types.

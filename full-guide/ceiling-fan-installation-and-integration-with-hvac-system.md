@@ -102,7 +102,7 @@ Figure 41. Sectional illustrations showing how interactions between ceiling fans
 
 Strobing and flicker can also occur when ceiling fans interact with daylight transmitted through skylights (see Figure 42). These problems will naturally arise when direct sunlight is admitted into the space, increasing both the temperature and the need to use ceiling fans. Unlike recessed lighting, maneuvering the ceiling fan may not remove strobing when the roof is fully glazed by the skylight. The size and number of blades are often larger to increase the effects of space cooling in these applications. This generally increases the area and frequency in which strobing, and flicker may occur inside the space.
 
-![](<../.gitbook/assets/8 (3).jpeg>)
+![](<../.gitbook/assets/8 (1).jpeg>)
 
 Figure 42. Ceiling fans installed onto skylight applications in Singapore, creating problems of strobing and flicker when daylight is admitted into the space.
 
@@ -144,7 +144,7 @@ The function of diffusers and branch ducting in conventional HVAC system is to d
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/11 (2).jpeg>)
+Description automatically generated](<../.gitbook/assets/11 (1).jpeg>)
 
 Figure 45. Ceiling fan integrated side-wall air supply air-conditioning system.
 
@@ -186,7 +186,7 @@ Similarly, the airflow pattern in the underfloor air distribution (UFAD) system 
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/15 (2).jpeg>)
+Description automatically generated](<../.gitbook/assets/15 (1).jpeg>)
 
 Figure 49. Airflow patterns for [underfloor air distribution (UFAD)](https://en.wikipedia.org/wiki/Underfloor\_air\_distribution).
 
@@ -200,7 +200,7 @@ Figure 50 demonstrates the control schematic for the HVAC system with and withou
 
 ![Timeline
 
-Description automatically generated](<../.gitbook/assets/16 (5).jpeg>)
+Description automatically generated](<../.gitbook/assets/16 (4).jpeg>)
 
 Figure 50. Example HVAC control schematic with without ceiling fans.
 
@@ -212,7 +212,7 @@ Within the dead band, especially when HVAC is in heating mode, the ceiling fan s
 
 ![Timeline
 
-Description automatically generated](../.gitbook/assets/17.png)
+Description automatically generated](<../.gitbook/assets/17 (5).png>)
 
 Figure 51. Example ceiling fan control schematic.
 
@@ -233,7 +233,7 @@ In automatic mode, the integrated PMV-SET (Predicted Mean Vote - Standard Effect
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/18 (4).png>)
+Description automatically generated](<../.gitbook/assets/18 (2).png>)
 
 Figure 52. Automatic control mode of Ceiling Fan using PMV-SET algorithm and occupancy sensors.
 

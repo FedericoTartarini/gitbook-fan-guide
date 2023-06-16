@@ -8,7 +8,7 @@ Alternatively, shown in Figure 54b, the ceiling fan integrated air-conditioning 
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/0 (3).png>)
+Description automatically generated](<../.gitbook/assets/0 (31).png>)
 
 Figure 54. Example design layout for (a) conventional HVAC system with supply air ducts and diffusers, (b) Ceiling fan integrated HVAC system with limited air ducts.
 

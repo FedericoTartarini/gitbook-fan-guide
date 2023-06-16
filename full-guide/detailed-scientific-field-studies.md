@@ -16,7 +16,7 @@ Field measurements of air speed were conducted in 4 commercial buildings install
 
 Table S1. Tested buildings and ceiling fans information.
 
-![](<../.gitbook/assets/0 (22).png>)
+![](<../.gitbook/assets/0 (16).png>)
 
 #### Air speed distribution overview <a href="#_toc137735035" id="_toc137735035"></a>
 
@@ -24,7 +24,7 @@ The height averaged air speed superimposed on floor plans with the ceiling fan l
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/1 (18).png>)
+Description automatically generated](<../.gitbook/assets/1 (13).png>)
 
 Figure S1. Floor plan and air speed distribution in the 4 tested buildings. The magnitude of air speed at each site is averaged by heights.
 
@@ -56,7 +56,7 @@ The room’s air speed magnitude and its distribution are affected by multiple c
 
 ![A picture containing graphical user interface
 
-Description automatically generated](<../.gitbook/assets/4 (9).png>)
+Description automatically generated](<../.gitbook/assets/4 (6).png>)
 
 Figure S4 Air speed distribution for linear and diagonal ceiling fans operation layout.
 
@@ -66,7 +66,7 @@ Furniture is an important aspect for elevated air speed by ceiling fans design i
 
 ![Chart, line chart
 
-Description automatically generated](<../.gitbook/assets/5 (8).png>)
+Description automatically generated](<../.gitbook/assets/5 (5).png>)
 
 Figure S5 Vertical air speed distribution comparison with or without furniture in space.
 
@@ -100,7 +100,7 @@ A total of 78 % of occupants preferred “no change” in thermal conditions, im
 
 ![Chart, bar chart
 
-Description automatically generated](<../.gitbook/assets/7 (6).png>)
+Description automatically generated](<../.gitbook/assets/7 (4).png>)
 
 Figure S7. Subjective responses to thermal acceptability and thermal preference under three tested conditions.
 
@@ -142,7 +142,7 @@ The automated ceiling fans installed in this study were all integrated with brus
 
 ![Diagram
 
-Description automatically generated with medium confidence](<../.gitbook/assets/10 (4).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/10 (1).png>)
 
 Figure S9. Field study timeline indicating baseline (pre-retrofit) and intervention (post-retrofit) periods.
 
@@ -191,7 +191,7 @@ This is a detailed study on cooperating ceiling fans, desk fans, and air conditi
 
 ![A picture containing outdoor, grass, tree, sky
 
-Description automatically generated](<../.gitbook/assets/15 (3).jpeg>) ![A picture containing indoor, furniture, table, computer
+Description automatically generated](<../.gitbook/assets/15 (2).jpeg>) ![A picture containing indoor, furniture, table, computer
 
 Description automatically generated](<../.gitbook/assets/16 (6).jpeg>)
 
@@ -235,7 +235,7 @@ In phase 3 of the thermal comfort experiment, we conducted an 11-week study and 
 
 ![A picture containing text, screenshot, font, number
 
-Description automatically generated](<../.gitbook/assets/20 (2).png>)
+Description automatically generated](<../.gitbook/assets/20 (1).png>)
 
 Figure S17. Cooling system energy use intensity at (i) temperature setpoint (Ta) = 24 °C without fans and (ii) Ta = 26.5 °C with fans in Phase 3 study.
 
