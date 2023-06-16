@@ -27,7 +27,7 @@ Figure T7 demonstrates an example of recommended ceiling fan size for single-fan
 Figure T8 presents two examples of recommended ceiling fan size and layout for multi-fan applications with the same site area (240 m2 \[2580 ft2]) but different room heights and room functions. In Figure T8a shows a warehouse divided into two identical fan cells and one larger-diameter ceiling fan (4.4 m \[14 ft]) is centred in each fan cells. The design and installation are valid with sufficient room height (8 m \[26 ft]). In Figure T8b shows an office with the same area of the warehouse, but a much lower room height (2.6 m \[9 ft]). It also demonstrates two layout settings: less fan cells with larger fans (on the left) and more fan cells with smaller fans (on the right). Settings on the left has four 30 m2 \[322 ft2] fan cells and a 2.2 m \[7 ft] diameter fan centred in each cell (calculated by 0.4 time of room characteristics width). A 2.2 m \[7 ft] diameter fan is considered as larger-diameter ceiling fan, which requires at least 3 m \[10 ft] mounting height above floor level (see Table T5) and it is not suitable to be installed in office space with relatively shorter room height. In addition, considering this is an office space, too large fan size would block the lighting fixture on the ceiling, initiating unwanted visual flicker. Use of a smaller fan size may fulfil the installation requirement but result in smaller airflow rate and reduced uniformity. The layout settings on the right, with more but smaller fan cells (13 m2 \[140 ft2]) and a 1.45 m \[4.7 ft] diameter fan centred in each cell, can provide more uniform air speed within space and it is a more suitable design for office settings.
 
 ![Figure T8. Recommended ceiling fan size and layout for multi-fan applications. (a) Warehouse with higher room height, (b) office with lower room height.
-](<../.gitbook/assets/1 (5).png>)
+](<../.gitbook/assets/1 (6).png>)
 
 ### Fan installation <a href="#_toc137824710" id="_toc137824710"></a>
 
@@ -37,12 +37,12 @@ The fans mounting heights from ceiling / floor and clearance from walls / obstru
 
 Installation of ceiling fans should avoid conflicts with the lighting fixtures to minimize changes of visual flicker and strobing effect, as well visual discomfort. Figure T9 illustrates the potential problems when ceiling fans interact with lighting fixtures. It suggests that visual flicker effect is dependent to view angle of the occupants. Thus, the position of ceiling fans should not only be installed away from the recess lights, but also considering occupants’ position in space. Alternatively, designer may consider the possibility of using dropdown lightings (see Figure T9c) with minimum glare to the occupants. If the above limitations with respect to lightings cannot be resolved, designers may consider using other non-ceiling fan alternatives.
 
-![Figure T9. Sectional illustrations on the interactions between ceiling fans and lighting fixtures across different configurations: (a) strobing and flicker, (b) flicker, and (c) ceiling strobing.](<../.gitbook/assets/2 (4).png>)
+![Figure T9. Sectional illustrations on the interactions between ceiling fans and lighting fixtures across different configurations: (a) strobing and flicker, (b) flicker, and (c) ceiling strobing.](<../.gitbook/assets/2 (16).png>)
 
 Operation of ceiling fans near windows / doors opening would impact the room air changes per hour (ACH) or ventilation rate. Figure T10 illustrates the airflow patterns for normal window and door-like opening settings. Designers should consider the impact of room ACH via window in natural ventilation conditions by the fan airflow patterns. The use of door-like openings may induce more outdoor airflow.
 
 ![Figure T10. Illustration of airflow patterns induced by ceiling fan for (a) normal window opening, (b) door-like opening settings.
-](<../.gitbook/assets/3 (3).png>)
+](<../.gitbook/assets/3 (5).png>)
 
 ## Air-conditioning system design <a href="#_toc137824711" id="_toc137824711"></a>
 
@@ -50,7 +50,7 @@ Conventional air-conditioning system requires diffusers and extended air ducts t
 
 Figure T11 compares the design layouts between a conventional air-conditioning system and a recommended ceiling fan integrated air-conditioning system. The ceiling fan integrated air-conditioning system requires only the main supply air duct to throw cool air from a high-sidewall vent into the occupied space. Then the ceiling fan will mix and distribute the cool air in the space. The cool supply air would be best fed above the fan blades to enhance air mixing and avoid cold draft. Immediate benefits of such design are reduced capital and maintenance costs for unnecessary ducting, diffusers, and variable air volume (VAV) boxes. In addition, the ceiling fans could work more efficiently with larger blades to ceiling height (assuming no false ceiling and without extra supply air duct).
 
-![Figure T11. Example design layouts for (a) conventional HVAC system with supply air ducts and diffusers, (b) Ceiling fan integrated HVAC system with limited supply air ducts.](<../.gitbook/assets/4 (1).png>)
+![Figure T11. Example design layouts for (a) conventional HVAC system with supply air ducts and diffusers, (b) Ceiling fan integrated HVAC system with limited supply air ducts.](../.gitbook/assets/4.png)
 
 ## Ceiling fans integrated AC System <a href="#_toc137824712" id="_toc137824712"></a>
 
