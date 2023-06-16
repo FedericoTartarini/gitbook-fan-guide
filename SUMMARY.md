@@ -27,10 +27,10 @@
 * [Available design tools](full-guide/available-design-tools.md)
 * [Detailed scientific field studies](full-guide/detailed-scientific-field-studies.md)
 * [Case study examples with ceiling fans](full-guide/case-study-examples-with-ceiling-fans.md)
-* [Acknowledgment and how to cite](full-guide/acknowledgment-and-how-to-cite.md)
 
 ## About this work
 
+* [Acknowledgment and how to cite](about-this-work/acknowledgment-and-how-to-cite.md)
 * [Acknowledgment](about-this-work/acknowledgment.md)
 * [Version](about-this-work/version.md)
 * [To cite this work](about-this-work/to-cite-this-work.md)
