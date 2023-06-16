@@ -107,7 +107,7 @@ Airflow patterns from different devices can be varied by fan size, blade types, 
 For fans that intend for direct cooling towards human body, customers tend to select a stronger fan which can produce more airflow and faster air speed. However, in some situations (e.g., operating fan together with air-conditioning), the occupants do not require air movement that is too strong. Therefore, choosing a fan with possible lower airflow turndown (minimum speed divided by maximum speed) capability could be the key for better comfort in terms of direct convective cooling. Meanwhile, if the function of a fan is used to circulate the air with a room, the fan selection approach should be either bigger in size (i.e., produce more airflow) or able to generate high airflow jet with high speed to drive the in-room air. Figure T4 illustrates the examples of airflow flow patterns for different fan types.
 
 ![Figure T4. Example airflow pattens for (a) desk fans, (b) pedestal fans, (c) tower fans, (d) wall mounted fangs, (e) bladeless ceiling fans, and (f) air circulators.
-](<../.gitbook/assets/2 (17).png>)
+](<../.gitbook/assets/2 (14).png>)
 
 ### Noise levels <a href="#_toc137824701" id="_toc137824701"></a>
 

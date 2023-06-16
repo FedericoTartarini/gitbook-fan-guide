@@ -14,7 +14,7 @@ Field measurements of air speed were conducted in 4 commercial buildings install
 
 Table S1. Tested buildings and ceiling fans information.
 
-![](<../.gitbook/assets/0 (44).png>)
+![](<../.gitbook/assets/0 (38).png>)
 
 ### Air speed distribution overview <a href="#_toc137735035" id="_toc137735035"></a>
 
@@ -30,7 +30,7 @@ Figure S1. Floor plan and air speed distribution in the 4 tested buildings. The 
 
 Figure S2 demonstrates the air speed performance under different test conditions. Ceiling fans operating in the downward direction produced higher mean air speeds (0.2-1.8 m/s \[40-350 fpm]) than the upward direction (0.2-0.5 m/s \[40-100 fpm]). However, a more uniform airflow within the occupied zone was found when fans are blowing upwards (i.e., smaller variation in air speed distribution). The variation of air speeds is mainly influenced by measurement height. Generally, fans operating downwards create negative vertical gradients (i.e., air speed the fastest at ankle height and the slowest at head height), while a positive gradient is observed directly under the fan. In contrast, upwards operating fans provide higher air speed at the head height of occupant than at the ankle level, but a negative gradient is observed in the return air path (e.g., near walls or at the confluence of airflows with multiple fans). Priority should be given to downward blowing fans if the thermal comfort design requirements are to maximize cooling efficiency in space, or to minimize energy consumption. Conversely, upward blowing fans allow better airflow uniformity across vertical and horizontal dimensions. In addition, designers should pay attention to the fan blade design (with symmetrical blade geometry or inverted installation fan) if the fans are intended to operate upward in the design stage.
 
-![](<../.gitbook/assets/2 (12).png>)
+![](<../.gitbook/assets/2 (4).png>)
 
 Figure S2. Air speed distribution at 4 sites for different (i) operating directions (downward – purple; upward – green); (ii) fan rotational speed; (iii) operating fan number (if available); and (iv) before and after averaging by heights.
 
@@ -64,7 +64,7 @@ Furniture is an important aspect for elevated air speed by ceiling fans design i
 
 ![Chart, line chart
 
-Description automatically generated](<../.gitbook/assets/5 (12).png>)
+Description automatically generated](<../.gitbook/assets/5 (7).png>)
 
 Figure S5 Vertical air speed distribution comparison with or without furniture in space.
 
@@ -189,7 +189,7 @@ This is a detailed study on cooperating ceiling fans, desk fans, and air conditi
 
 ![A picture containing outdoor, grass, tree, sky
 
-Description automatically generated](<../.gitbook/assets/15 (1).jpeg>) ![A picture containing indoor, furniture, table, computer
+Description automatically generated](<../.gitbook/assets/15 (4).jpeg>) ![A picture containing indoor, furniture, table, computer
 
 Description automatically generated](<../.gitbook/assets/16 (2).jpeg>)
 
