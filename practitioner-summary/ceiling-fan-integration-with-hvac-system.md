@@ -21,19 +21,13 @@ Table T5. Key features in determining fan size (and number) in space.
 
 Figure T7 demonstrates an example of recommended ceiling fan size for single-fan applications. Provided that the room area aspect ratio (length : width) is within 1.5 : 1, one fan operation is applicable. The room area is 24 m2 \[258 ft2] and the characteristic width is 4.9 m \[16 ft] (i.e., square root of the room area). The recommended ceiling fan diameters are between 0.2 – 0.4 times of the room characteristics width, equivalent to 1 m \[3.3 ft] – 2 m \[6.6 ft], assuming all other features in Table T5 have been fulfilled.
 
-![Diagram
-
-Description automatically generated](<../.gitbook/assets/0 (26).png>)
-
-Figure T7. Recommended ceiling fan size and layout for single-fan applications.
+![Figure T7. Recommended ceiling fan size and layout for single-fan applications.
+](<../.gitbook/assets/0 (18).png>)
 
 Figure T8 presents two examples of recommended ceiling fan size and layout for multi-fan applications with the same site area (240 m2 \[2580 ft2]) but different room heights and room functions. In Figure T8a shows a warehouse divided into two identical fan cells and one larger-diameter ceiling fan (4.4 m \[14 ft]) is centred in each fan cells. The design and installation are valid with sufficient room height (8 m \[26 ft]). In Figure T8b shows an office with the same area of the warehouse, but a much lower room height (2.6 m \[9 ft]). It also demonstrates two layout settings: less fan cells with larger fans (on the left) and more fan cells with smaller fans (on the right). Settings on the left has four 30 m2 \[322 ft2] fan cells and a 2.2 m \[7 ft] diameter fan centred in each cell (calculated by 0.4 time of room characteristics width). A 2.2 m \[7 ft] diameter fan is considered as larger-diameter ceiling fan, which requires at least 3 m \[10 ft] mounting height above floor level (see Table T5) and it is not suitable to be installed in office space with relatively shorter room height. In addition, considering this is an office space, too large fan size would block the lighting fixture on the ceiling, initiating unwanted visual flicker. Use of a smaller fan size may fulfil the installation requirement but result in smaller airflow rate and reduced uniformity. The layout settings on the right, with more but smaller fan cells (13 m2 \[140 ft2]) and a 1.45 m \[4.7 ft] diameter fan centred in each cell, can provide more uniform air speed within space and it is a more suitable design for office settings.
 
-![Diagram, engineering drawing
-
-Description automatically generated](<../.gitbook/assets/1 (26).png>)
-
-Figure T8. Recommended ceiling fan size and layout for multi-fan applications. (a) Warehouse with higher room height, (b) office with lower room height.
+![Figure T8. Recommended ceiling fan size and layout for multi-fan applications. (a) Warehouse with higher room height, (b) office with lower room height.
+](<../.gitbook/assets/1 (14).png>)
 
 #### Fan installation <a href="#_toc137824710" id="_toc137824710"></a>
 
@@ -43,17 +37,12 @@ The fans mounting heights from ceiling / floor and clearance from walls / obstru
 
 Installation of ceiling fans should avoid conflicts with the lighting fixtures to minimize changes of visual flicker and strobing effect, as well visual discomfort. Figure T9 illustrates the potential problems when ceiling fans interact with lighting fixtures. It suggests that visual flicker effect is dependent to view angle of the occupants. Thus, the position of ceiling fans should not only be installed away from the recess lights, but also considering occupants’ position in space. Alternatively, designer may consider the possibility of using dropdown lightings (see Figure T9c) with minimum glare to the occupants. If the above limitations with respect to lightings cannot be resolved, designers may consider using other non-ceiling fan alternatives.
 
-![ceiling fan lighting design strobing and flicker.png](<../.gitbook/assets/2 (4).png>)
-
-Figure T9. Sectional illustrations on the interactions between ceiling fans and lighting fixtures across different configurations: (a) strobing and flicker, (b) flicker, and (c) ceiling strobing.
+![Figure T9. Sectional illustrations on the interactions between ceiling fans and lighting fixtures across different configurations: (a) strobing and flicker, (b) flicker, and (c) ceiling strobing.](<../.gitbook/assets/2 (10).png>)
 
 Operation of ceiling fans near windows / doors opening would impact the room air changes per hour (ACH) or ventilation rate. Figure T10 illustrates the airflow patterns for normal window and door-like opening settings. Designers should consider the impact of room ACH via window in natural ventilation conditions by the fan airflow patterns. The use of door-like openings may induce more outdoor airflow.
 
-![A picture containing text, diagram, skeleton, design
-
-Description automatically generated](<../.gitbook/assets/3 (19).png>)
-
-Figure T10. Illustration of airflow patterns induced by ceiling fan for (a) normal window opening, (b) door-like opening settings.
+![Figure T10. Illustration of airflow patterns induced by ceiling fan for (a) normal window opening, (b) door-like opening settings.
+](<../.gitbook/assets/3 (11).png>)
 
 ### Air-conditioning system design <a href="#_toc137824711" id="_toc137824711"></a>
 
@@ -61,11 +50,7 @@ Conventional air-conditioning system requires diffusers and extended air ducts t
 
 Figure T11 compares the design layouts between a conventional air-conditioning system and a recommended ceiling fan integrated air-conditioning system. The ceiling fan integrated air-conditioning system requires only the main supply air duct to throw cool air from a high-sidewall vent into the occupied space. Then the ceiling fan will mix and distribute the cool air in the space. The cool supply air would be best fed above the fan blades to enhance air mixing and avoid cold draft. Immediate benefits of such design are reduced capital and maintenance costs for unnecessary ducting, diffusers, and variable air volume (VAV) boxes. In addition, the ceiling fans could work more efficiently with larger blades to ceiling height (assuming no false ceiling and without extra supply air duct).
 
-![Diagram, engineering drawing
-
-Description automatically generated](<../.gitbook/assets/4 (15).png>)
-
-Figure T11. Example design layouts for (a) conventional HVAC system with supply air ducts and diffusers, (b) Ceiling fan integrated HVAC system with limited supply air ducts.
+![Figure T11. Example design layouts for (a) conventional HVAC system with supply air ducts and diffusers, (b) Ceiling fan integrated HVAC system with limited supply air ducts.](<../.gitbook/assets/4 (8).png>)
 
 ### Ceiling fans integrated AC System <a href="#_toc137824712" id="_toc137824712"></a>
 
@@ -83,11 +68,7 @@ Regarding the relaxation of designated cooling demand (i.e., lower sensible and 
 
 Figure T12 demonstrates the control schematic for the heating, ventilation, and air conditioning (HVAC) system with and without the integration of ceiling fans. It shows that when ceiling fans are integrated with the building automation system (BAS), it can react at the first stage cooling setpoint (say 23 °C \[73 °F]) to cooling down the zone before the HVAC system beings to operate for cooling. The ceiling fan speed shall increase with the room temperature, which is determined by cooling effect or a representative point in space. The HVAC cooling starts when indoor temperature increases to the second stage of cooling setpoint (say 26 °C \[79 °F]). Operating the HVAC system at this higher cooling setpoint has significant energy savings potential.
 
-![Timeline
-
-Description automatically generated](<../.gitbook/assets/5 (1).jpeg>)
-
-Figure T12. Example HVAC control schematic with / without ceiling fans.
+![Figure T12. Example HVAC control schematic with / without ceiling fans.](<../.gitbook/assets/5 (1).jpeg>)
 
 Some ceiling fans have onboard sensing and controls that allow fan speed and temperature automation without integration with the building automation systems (BAS). A lower cost, simpler alternative to automatically control the ceiling fan based on temperature is to use a relay to turn fan(s) on and off. The fans then operate at a fixed pre-set speed. Fans operation can also be tied to occupancy sensors in the zone, preventing unnecessary operation, energy use, and maintenance. In some cases, it may be beneficial to operate fans even when unoccupied, such as pre-cooling applications that benefit from increased convection from surfaces in the space due to the air movement generated by the fans.
 

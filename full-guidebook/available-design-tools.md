@@ -16,7 +16,7 @@ The CBE Thermal Comfort Tool also takes into account elevated air speeds. As the
 
 ![A screenshot of a graph
 
-Description automatically generated with medium confidence](<../.gitbook/assets/1 (15).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/1 (28).png>)
 
 Figure 58. Example of the CBE Thermal Comfort Tool showing air speed vs. operative air temperature mode.
 
@@ -30,11 +30,11 @@ The CBE Ceiling Fan Design Tool takes into account many of the design factors di
 
 Figure 59. Example CBE Ceiling Fan Design Tool outputs.
 
-![](<../.gitbook/assets/3 (15).png>)
+![](<../.gitbook/assets/3 (1).png>)
 
 Figure 60. Example cell plan from CBE Ceiling Fan Design Tool.
 
-![](<../.gitbook/assets/4 (4).png>)
+![](<../.gitbook/assets/4 (3).png>)
 
 Figure 61. Example cell section from CBE Ceiling Fan Design Tool.
 

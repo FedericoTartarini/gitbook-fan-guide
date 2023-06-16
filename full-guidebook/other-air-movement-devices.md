@@ -26,7 +26,7 @@ Figure 21. Examples of other air movement devices: (a) desk fan, (b) clip-on fan
 
 A wall mounted fan is basically a pedestal fan without a base that is mounted on the wall. Sometimes these fans may also mount to the ceiling. Yet, different from conventional ceiling fans, these “ceiling mounted” fan can oscillate in 180 °. It is a good choice to provide a breeze over the human body and enhance room air circulation when the space and floor-to-ceiling height is limited. Figure 22 shows some examples of wall mounted fans.
 
-![](<../.gitbook/assets/1 (32).png>)
+![](<../.gitbook/assets/1 (20).png>)
 
 Figure 22. Examples of wall mounted fans.
 
@@ -99,7 +99,7 @@ Due to different design and usage, the performance of cooling fans (e.g., ceilin
 
 ![A picture containing text, line, diagram, screenshot
 
-Description automatically generated](<../.gitbook/assets/5 (15).png>)
+Description automatically generated](<../.gitbook/assets/5 (11).png>)
 
 Figure 25. CFE index versus fan power for the ceiling fan (CF), desk fan (DF) standing fan (SF) and tower fan (TF). Lines with constant whole-body cooling effect (∆teq) are plotted.
 
@@ -117,13 +117,13 @@ Direct cooling towards human body: When choosing an air movement device, custome
 
 ![A picture containing text, diagram, line, font
 
-Description automatically generated](<../.gitbook/assets/6 (11).png>)
+Description automatically generated](<../.gitbook/assets/6 (2).png>)
 
 Figure 26. Demonstration of thermal comfort condition and corresponding cooling effect.
 
 ![Diagram, engineering drawing
 
-Description automatically generated](../.gitbook/assets/7.png)
+Description automatically generated](<../.gitbook/assets/7 (9).png>)
 
 Figure 27. Illustration of airflow patterns for (a) desk fan, (b) pedestal fan, (c) tower fan, and (d) wall-mounted fan.
 
@@ -153,7 +153,7 @@ Most of the fan types listed in Table 2 can oscillate horizontally in a range of
 
 Some fans are equipped with technologies that enable them with special features. Some tower fans and bladeless fans are equipped with multiple filters, contributing to air purification. Particulate matter and sometimes gases in the air can be filtered out and cleaner air will be circulated within the space. Different types of filters can remove various kinds of contaminant. Some special fan models are installed with UV-C (i.e., germicidal UV) light inside the fan framework to disinfect the air during circulation process. UV-C is effective at deactivating viruses, bacteria, mold, and fungus. Some fan models can emit water mist that moves along with the air stream to reduce its temperature thanks to the adiabatic cooling (evaporative cooling) process. Figure 30 presents an example of a pedestal fan with evaporative cooling function.
 
-![](<../.gitbook/assets/10 (3).jpeg>)
+![](<../.gitbook/assets/10 (4).jpeg>)
 
 Figure 30. Pedestal fan with evaporative cooling.
 
