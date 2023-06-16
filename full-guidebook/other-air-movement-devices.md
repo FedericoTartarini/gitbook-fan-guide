@@ -26,7 +26,7 @@ Figure 21. Examples of other air movement devices: (a) desk fan, (b) clip-on fan
 
 A wall mounted fan is basically a pedestal fan without a base that is mounted on the wall. Sometimes these fans may also mount to the ceiling. Yet, different from conventional ceiling fans, these “ceiling mounted” fan can oscillate in 180 °. It is a good choice to provide a breeze over the human body and enhance room air circulation when the space and floor-to-ceiling height is limited. Figure 22 shows some examples of wall mounted fans.
 
-![](<../.gitbook/assets/1 (4).png>)
+![](<../.gitbook/assets/1 (15).png>)
 
 Figure 22. Examples of wall mounted fans.
 
@@ -34,7 +34,7 @@ Figure 22. Examples of wall mounted fans.
 
 A bladeless ceiling fan operates as a centrifugal fan, differently from the conventional ceiling fan which uses an axial fan. In theory, bladeless ceiling fan is not bladeless, but a special design with many small blades installed at the fan’s circumference structure. The fan rotates the entire design structure, which draws air under the fan and hurls it out at the side from 360 °. These fans are intended to enhance air movement and air circulation within a small space, such as living room and bedroom. Figure 23 demonstrates some examples of bladeless ceiling fans. They are less common than other fan types. The installation requirement is similar to ceiling fan with blades, but the bladeless ceiling fans do not require a minimum mounting height to prevent “air choking”, which they are suitable to be installed in a space with low floor-to-ceiling height.
 
-![](<../.gitbook/assets/2 (2).jpeg>)
+![](<../.gitbook/assets/2 (1).jpeg>)
 
 Figure 23. Examples of bladeless ceiling fans.
 
@@ -42,7 +42,7 @@ Figure 23. Examples of bladeless ceiling fans.
 
 Air circulators aim to provide a high velocity air jet to circulate air and keep air moving continuously in the room. The strong air movement is not intended to directly be blown towards the human body, but to initiate air circulation. Depending on the brand, the air circulator diameter range is between 23-40 cm \[9-16 in]. Such fans are ideal for air circulation in small rooms, such as bedrooms and enclosed offices. An extra-large air circulator about 50 to 76 cm \[20-30 in] in diameter, also known as the drum blowers, with durable metal construction, can deliver extra high velocity airflow. These heavy-duty air circulators are ideal for warehouses, industrial workshops and loading docks. Figure 24 illustrates some examples of air circulators.
 
-![](../.gitbook/assets/3.jpeg)
+![](<../.gitbook/assets/3 (1).jpeg>)
 
 Figure 24. Examples of air circulators.
 
@@ -99,7 +99,7 @@ Due to different design and usage, the performance of cooling fans (e.g., ceilin
 
 ![A picture containing text, line, diagram, screenshot
 
-Description automatically generated](<../.gitbook/assets/5 (2).png>)
+Description automatically generated](<../.gitbook/assets/5 (4).png>)
 
 Figure 25. CFE index versus fan power for the ceiling fan (CF), desk fan (DF) standing fan (SF) and tower fan (TF). Lines with constant whole-body cooling effect (∆teq) are plotted.
 
@@ -123,7 +123,7 @@ Figure 26. Demonstration of thermal comfort condition and corresponding cooling 
 
 ![Diagram, engineering drawing
 
-Description automatically generated](<../.gitbook/assets/7 (3).png>)
+Description automatically generated](../.gitbook/assets/7.png)
 
 Figure 27. Illustration of airflow patterns for (a) desk fan, (b) pedestal fan, (c) tower fan, and (d) wall-mounted fan.
 
@@ -139,7 +139,7 @@ Figure 28. Schematic of airflow pattern driven by bladeless ceiling fan.
 
 An air circulator intends to produce a high-speed strong air jet to move air from one side of the room to the other. Figure 29 presents a schematic representation of the airflow pattern for an air circulator in an enclosed room. Similarly, this strategy aims to move the air to increase the average air speed and to enhance air mixing in space. Thus, the air circulation effectiveness also works better in small to medium size rooms. Different from the bladeless ceiling fan approach, however, air jet from the air circulator is freely adjustable within the occupied zone. Basically, the air circulator can reduce the fan speed, temporally act as a desk fan, or pedestal fan blowing air directly towards human body for immediate cooling. In addition, to enhance long distance air movement, some air circulator’s fan blades are modified to a propeller (or turbine) type. Instead of moving air parallel to the fan axial, it drives the air in form of a vortex which propagates along the fan axial. This feature helps to centralize the airflow across longer distance and to drag surrounding air towards the propagation of air stream to maximize the airflow rate. The air movement distance from an air circulator is much longer when compared with normal desk or pedestal fan with a flat blade.
 
-![](<../.gitbook/assets/9 (6).png>)
+![](<../.gitbook/assets/9 (3).png>)
 
 Figure 29. Schematic of airflow pattern driven by air circulator.
 
@@ -165,6 +165,6 @@ Control panel on fan body: Most portable fans are equipped with a control panel 
 
 ![A picture containing text, indoor, monitor, remote
 
-Description automatically generated](<../.gitbook/assets/11 (2).png>)
+Description automatically generated](<../.gitbook/assets/11 (1).png>)
 
 Figure 31. Manual fan control method. (a) Control panel on fan body, (b) IR wireless remote control, (c) Wi-Fi control via smart phone.

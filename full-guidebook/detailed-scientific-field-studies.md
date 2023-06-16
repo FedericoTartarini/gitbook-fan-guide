@@ -64,7 +64,7 @@ Furniture is an important aspect for elevated air speed by ceiling fans design i
 
 ![Chart, line chart
 
-Description automatically generated](<../.gitbook/assets/5 (4).png>)
+Description automatically generated](<../.gitbook/assets/5 (6).png>)
 
 Figure S5 Vertical air speed distribution comparison with or without furniture in space.
 
@@ -98,7 +98,7 @@ A total of 78 % of occupants preferred “no change” in thermal conditions, im
 
 ![Chart, bar chart
 
-Description automatically generated](<../.gitbook/assets/7 (5).png>)
+Description automatically generated](<../.gitbook/assets/7 (2).png>)
 
 Figure S7. Subjective responses to thermal acceptability and thermal preference under three tested conditions.
 

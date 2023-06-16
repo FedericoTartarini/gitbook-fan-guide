@@ -6,7 +6,7 @@ In this section we discuss the thermal comfort related effects of increased air 
 
 ![Chart
 
-Description automatically generated](<../.gitbook/assets/0 (12).png>)
+Description automatically generated](<../.gitbook/assets/0 (2).png>)
 
 Figure 3. Cooling effect of increased air speed for a ‘typical’ office worker in cooling conditions (operative temperature of 24.4 °C \[76 °F], 50% relative humidity, 0.6 clo, 1.13 met).
 

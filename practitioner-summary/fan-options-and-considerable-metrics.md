@@ -93,7 +93,7 @@ All the elevated air movement devices described in Table T4 consist of motor and
 
 In general, fan performance can be evaluated by the cooling fan efficiency (CFE) index, ratio between cooling effect of the device and its power consumption, defines in following equation (where _Pf_ is the input power of the fan (in W) and ∆_teq_ is the whole-body cooling effect (in °C or °F)):&#x20;
 
-![](<../.gitbook/assets/3 (3).png>)
+![](<../.gitbook/assets/3 (1).png>)
 
 It is noted that the cooling effect depends on the effectiveness of convective cooling towards subject’s body, and is affected by air speed, airflow pattern, and fan operation distance. Eventually, the intent of fan usage (local cooling vs air circulation) should have been taken into consideration when quantifying the fan effectiveness.
 

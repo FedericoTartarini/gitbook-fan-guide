@@ -110,7 +110,7 @@ There are many adverse effects that are caused by visual flicker. Increased visu
 
 ![Diagram
 
-Description automatically generated with medium confidence](<../.gitbook/assets/9 (4).png>)
+Description automatically generated with medium confidence](<../.gitbook/assets/9 (1).png>)
 
 Figure 43. An experimental setup that had followed the design recommendations to remove flicker when using a ceiling fan and recess lighting. The sectional view (a) shows that the blade does not overlap with the light fixture, but the perspective view (b) from a desk shows flicker can be seen.
 
@@ -144,7 +144,7 @@ The function of diffusers and branch ducting in conventional HVAC system is to d
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/11 (1).jpeg>)
+Description automatically generated](../.gitbook/assets/11.jpeg)
 
 Figure 45. Ceiling fan integrated side-wall air supply air-conditioning system.
 
@@ -233,7 +233,7 @@ In automatic mode, the integrated PMV-SET (Predicted Mean Vote - Standard Effect
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/18 (1).png>)
+Description automatically generated](<../.gitbook/assets/18 (2).png>)
 
 Figure 52. Automatic control mode of Ceiling Fan using PMV-SET algorithm and occupancy sensors.
 
@@ -241,6 +241,6 @@ In cooperative mode, the ceiling system operates based on the environmental data
 
 ![Timeline
 
-Description automatically generated](<../.gitbook/assets/19 (3).png>)
+Description automatically generated](<../.gitbook/assets/19 (4).png>)
 
 Figure 53. Ceiling Fan cooperative control mode using user preference feedback.
