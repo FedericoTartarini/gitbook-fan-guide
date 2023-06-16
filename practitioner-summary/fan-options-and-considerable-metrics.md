@@ -45,7 +45,7 @@ Ceiling fans air speed is defined as the average air speed that passes through t
 The variation of the air speeds in a space is an important design consideration. Figure T2 demonstrates an example of air speeds distribution from a 1.5 m \[5 ft] diameter ceiling fan. The airflow ‘jet’ from the fan immediately narrows to a slightly smaller diameter than the fan blades. The jet then impinges on the floor, creating a stagnation point, and then spreads radially outwards along the floor. Away from the fan diameter and above the floor spreading zone, there is a still air zone where air speeds are almost unaffected. The depth of air spreading zone along the floor and its average air speed is dependent to the fan diameter: smaller fan (shallower) and larger fan (deeper). In general, larger diameter fans have lower air speeds directly under the fan centre (i.e., near the stagnation point), but the air speeds distribution is more uniform than the smaller diameter fans.
 
 ![Figure T2. Example air speed distribution from a ceiling fan (Source: Gao, Y. et al., 2017).Chart
-](<../.gitbook/assets/0 (30).png>)
+](<../.gitbook/assets/0 (37).png>)
 
 ### Fan operates in reverse direction <a href="#_toc1637818677" id="_toc1637818677"></a>
 
@@ -81,7 +81,7 @@ Airflow patterns from different devices can be varied by fan size, blade types, 
 
 For fans that intend for direct cooling towards human body, customers tend to select a stronger fan which can produce more airflow and faster air speed. However, in some situations (e.g., operating fan together with air-conditioning), the occupants do not require air movement that is too strong. Therefore, choosing a fan with possible lower airflow turndown (minimum speed divided by maximum speed) capability could be the key for better comfort in terms of direct convective cooling. Meanwhile, if the function of a fan is used to circulate the air with a room, the fan selection approach should be either bigger in size (i.e., produce more airflow) or able to generate high airflow jet with high speed to drive the in-room air. Figure T4 illustrates the examples of airflow flow patterns for different fan types.
 
-![Figure T4. Example airflow patterns for (a) desk fans, (b) pedestal fans, (c) tower fans, (d) wall mounted fangs, (e) bladeless ceiling fans, and (f) air circulators.](<../.gitbook/assets/2 (10).png>)
+![Figure T4. Example airflow patterns for (a) desk fans, (b) pedestal fans, (c) tower fans, (d) wall mounted fangs, (e) bladeless ceiling fans, and (f) air circulators.](<../.gitbook/assets/2 (16).png>)
 
 ### Noise levels <a href="#_toc1308291521" id="_toc1308291521"></a>
 
