@@ -30,11 +30,11 @@ The CBE Ceiling Fan Design Tool takes into account many of the design factors di
 
 Figure 59. Example CBE Ceiling Fan Design Tool outputs.
 
-![](<../.gitbook/assets/3 (12).png>)
+![](<../.gitbook/assets/3 (8).png>)
 
 Figure 60. Example cell plan from CBE Ceiling Fan Design Tool.
 
-![](<../.gitbook/assets/4 (12).png>)
+![](<../.gitbook/assets/4 (17).png>)
 
 Figure 61. Example cell section from CBE Ceiling Fan Design Tool.
 
@@ -44,6 +44,6 @@ To demonstrate the energy savings potential of fans in a whole building energy m
 
 ![Graphical user interface
 
-Description automatically generated](<../.gitbook/assets/5 (11).png>)
+Description automatically generated](<../.gitbook/assets/5 (17).png>)
 
 Figure 62. Example of the Setpoint Energy Saving Calculator

@@ -1,8 +1,6 @@
 # Case study examples with ceiling fans
 
-### Case study examples with ceiling fans (better version provide by Paul’s later)
-
-### Coastal Biology Building
+## Coastal Biology Building
 
 ![Graphical user interface, website
 
@@ -12,7 +10,7 @@ Description automatically generated](<../.gitbook/assets/0 (3).png>)
 
 Description automatically generated](<../.gitbook/assets/1 (9).png>)
 
-### The Bullitt Center
+## The Bullitt Center
 
 ![Text
 
@@ -20,9 +18,9 @@ Description automatically generated with low confidence](<../.gitbook/assets/2 (
 
 ![A picture containing text
 
-Description automatically generated](<../.gitbook/assets/3 (14).png>)
+Description automatically generated](<../.gitbook/assets/3 (10).png>)
 
-### Franco Center
+## Franco Center
 
 ![Graphical user interface
 
@@ -30,9 +28,9 @@ Description automatically generated with medium confidence](<../.gitbook/assets/
 
 ![Graphical user interface
 
-Description automatically generated](<../.gitbook/assets/5 (10).png>)
+Description automatically generated](<../.gitbook/assets/5 (16).png>)
 
-### Deep Dive <a href="#_toc137735071" id="_toc137735071"></a>
+## Deep Dive <a href="#_toc137735071" id="_toc137735071"></a>
 
 ### Air movement, indoor air quality (IAQ) and indoor transmission of aerosol infectious agents <a href="#_toc137735072" id="_toc137735072"></a>
 
