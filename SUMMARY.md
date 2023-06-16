@@ -30,11 +30,7 @@
 
 ## About this work
 
-* [Acknowledgment and how to cite](about-this-work/acknowledgment-and-how-to-cite.md)
 * [Acknowledgment](about-this-work/acknowledgment.md)
+* [Acknowledgment](about-this-work/acknowledgment-1.md)
 * [Version](about-this-work/version.md)
 * [To cite this work](about-this-work/to-cite-this-work.md)
-
-***
-
-* [test 1](test-1.md)
