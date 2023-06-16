@@ -162,7 +162,7 @@ The amount of variation of the air speeds in a space is an important design cons
 
 Figure 18. Example air speed distribution from a ceiling fan ([Gao et al., 2017](https://doi.org/10.1016/j.buildenv.2017.08.029)).
 
-<figure><img src="../.gitbook/assets/10 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (8).png" alt=""><figcaption></figcaption></figure>
 
 ![Chart, line chart
 
