@@ -6,7 +6,7 @@ In this section we discuss the thermal comfort related effects of increased air 
 
 ![Chart
 
-Description automatically generated](<../.gitbook/assets/0 (37).png>)
+Description automatically generated](<../.gitbook/assets/0 (31).png>)
 
 Figure 3. Cooling effect of increased air speed for a ‘typical’ office worker in cooling conditions (operative temperature of 24.4 °C \[76 °F], 50% relative humidity, 0.6 clo, 1.13 met).
 
@@ -16,7 +16,7 @@ Thermal comfort, here defined as the occupant’s satisfaction with the perceive
 
 ![Diagram
 
-Description automatically generated](<../.gitbook/assets/1 (27).png>)
+Description automatically generated](<../.gitbook/assets/1 (22).png>)
 
 Figure 4. Human body thermoregulation (i.e., heat gain and loss) pathways.
 
@@ -40,6 +40,6 @@ In addition to directly cooling occupants, fans also effectively mix the air in 
 
 ![Graphical user interface
 
-Description automatically generated](<../.gitbook/assets/2 (14).png>)
+Description automatically generated](<../.gitbook/assets/2 (12).png>)
 
 Figure 5. Ceiling fans (blowing upwards) for destratification.
