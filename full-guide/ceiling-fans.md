@@ -1,7 +1,5 @@
 # Ceiling fans
 
-
-
 There are multiple fan types available in the market, but ceiling fans outweigh their benefits over the other fan types in terms of air circulation effectiveness and low energy consumption, especially for serving multiple occupants within the same space. In addition, installation and operation of ceiling fans are specific to building design and different from other portable fan options. Therefore, this guide highlights a separate section for ceiling fans, while other fan choices (i.e., other air movement devices) will be clustered in another section.
 
 ## Ceiling fan options <a href="#_toc137734947" id="_toc137734947"></a>
