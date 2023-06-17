@@ -4,7 +4,7 @@
 
 A key indicator of successful fan-integrated system is to ensure that occupants understand the purpose and to use the fans. In other words, occupants should be informed about the purpose and operation of the fans. Figure T18 shows an example of an information plaque to inform the fan usage priority – Fan cooling first approach – when occupants are feeling too warm.
 
-![Figure T18. Fan cooling first approach – example plaque for occupant interface and control recommendations.](<../.gitbook/assets/0 (30).png>)
+![Figure T18. Fan cooling first approach – example plaque for occupant interface and control recommendations.](../.gitbook/assets/0.png)
 
 ## Implementation and adaptation <a href="#_toc137824719" id="_toc137824719"></a>
 
