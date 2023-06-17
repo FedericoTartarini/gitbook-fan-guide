@@ -138,7 +138,7 @@ The amount of variation of the air speeds in a space is an important design cons
 <figure><img src="../.gitbook/assets/10 (1).png" alt=""><figcaption><p>Figure 18. Example air speed distribution from a ceiling fan (<a href="https://doi.org/10.1016/j.buildenv.2017.08.029">Gao et al., 2017</a>).</p></figcaption></figure>
 
 ![Figure 19. Air speeds over distance from the fan center (Raftery et al., 2019)
-](<../.gitbook/assets/11 (5).png>)
+](<../.gitbook/assets/11 (11).png>)
 
 ### IP rating, damp rated, and wet rated <a href="#_heading-h.sqyw64" id="_heading-h.sqyw64"></a>
 
