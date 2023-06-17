@@ -1,6 +1,6 @@
 # Deep Dive
 
-Air movement, indoor air quality (IAQ) and indoor transmission of aerosol infectious agents
+## Air movement, indoor air quality (IAQ) and indoor transmission of aerosol infectious agents
 
 Although many studies have shown that elevated air movement can improve the occupants’ perceived air quality ([Melikov & Kaczmarczyk, 2012](https://doi.org/10.1016/j.buildenv.2011.06.017); [Schiavon et al., 2017](https://doi.org/10.1111/ina.12352); [Zhai et al., 2015](https://doi.org/10.1016/j.buildenv.2015.04.003)), studies on the relationship between air movement and indoor air quality are comparatively limited. Increased air movement does not remove indoor pollutants from a space like ventilation does. However, air movement changes the airflow pattern in the space that can reduce an occupant’s exposure to indoor pollutants and infectious agents in several ways: as discussed below.
 
