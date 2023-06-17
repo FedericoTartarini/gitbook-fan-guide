@@ -10,7 +10,7 @@ The user enters temperature, air speed, humidity, metabolic rate and clothing le
 
 The CBE Thermal Comfort Tool also takes into account elevated air speeds. As the air speeds increase, the range of acceptable temperatures increases, and the blue shaded area shifts to the right. Using higher air speeds allows the user to ASHRAE 55 compliance at higher cooling temperature setpoints. Note that Standard 55 has a maximum average air speed permitted in the case that occupants do not have control over the system (0.8 m/s \[160 fpm]). This can be specified as an input in the Thermal Comfort Tool as well. To support this functionality, users can also select the “air speed vs. operative air temperature” mode from the drop-down menu above the chart to view the comfort range and results in terms of air speed and temperature (see Figure 58).
 
-![Figure 58. Example of the CBE Thermal Comfort Tool showing air speed vs. operative air temperature mode.](<../.gitbook/assets/1 (17).png>)
+![Figure 58. Example of the CBE Thermal Comfort Tool showing air speed vs. operative air temperature mode.](<../.gitbook/assets/1 (11).png>)
 
 ## CBE Ceiling Fan Design Tool <a href="#_toc137735029" id="_toc137735029"></a>
 
@@ -18,7 +18,7 @@ To help determine optimal ceiling fan arrangements, you can use the free online 
 
 The CBE Ceiling Fan Design Tool takes into account many of the design factors discussed in the previous sections. For more details on how the tool functions, please consult the online [User Guide](https://github.com/CenterForTheBuiltEnvironment/fan-tool/wiki/User-Guide). However, it is important to highlight that the tool is mainly applicable for uniform design intent and does not consider the room layout or non-uniform demands that should be taken into consideration by the designer.
 
-![Figure 59. Example CBE Ceiling Fan Design Tool outputs.](<../.gitbook/assets/2 (11).png>)
+![Figure 59. Example CBE Ceiling Fan Design Tool outputs.](<../.gitbook/assets/2 (7).png>)
 
 
 

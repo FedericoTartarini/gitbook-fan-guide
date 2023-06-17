@@ -62,7 +62,7 @@ Ceiling fans air speed is defined as the average air speed that passes through t
 The variation of the air speeds in a space is an important design consideration. Figure T2 demonstrates an example of air speeds distribution from a 1.5 m \[5 ft] diameter ceiling fan. The airflow ‘jet’ from the fan immediately narrows to a slightly smaller diameter than the fan blades. The jet then impinges on the floor, creating a stagnation point, and then spreads radially outwards along the floor. Away from the fan diameter and above the floor spreading zone, there is a still air zone where air speeds are almost unaffected. The depth of air spreading zone along the floor and its average air speed is dependent to the fan diameter: smaller fan (shallower) and larger fan (deeper). In general, larger diameter fans have lower air speeds directly under the fan centre (i.e., near the stagnation point), but the air speeds distribution is more uniform than the smaller diameter fans.
 
 ![Figure T2. Example air speed distribution from a ceiling fan (Gao et al., 2017).
-](<../.gitbook/assets/0 (10).png>)
+](<../.gitbook/assets/0 (9).png>)
 
 ### Fan operates in reverse direction <a href="#_toc137824696" id="_toc137824696"></a>
 
@@ -119,7 +119,7 @@ All the elevated air movement devices described in Table T4 consist of motor and
 
 In general, fan performance can be evaluated by the cooling fan efficiency (CFE) index, ratio between cooling effect of the device and its power consumption, defines in following equation (where _Pf_ is the input power of the fan (in W) and ∆_teq_ is the whole-body cooling effect (in °C or °F)):
 
-![](<../.gitbook/assets/3 (15).png>)
+![](<../.gitbook/assets/3 (10).png>)
 
 It is noted that the cooling effect depends on the effectiveness of convective cooling towards subject’s body, and is affected by air speed, airflow pattern, and fan operation distance. Eventually, the intent of fan usage (local cooling vs air circulation) should have been taken into consideration when quantifying the fan effectiveness.
 
