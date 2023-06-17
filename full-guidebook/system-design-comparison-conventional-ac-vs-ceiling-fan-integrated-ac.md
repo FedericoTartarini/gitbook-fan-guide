@@ -6,7 +6,7 @@ This section discusses the difference in design and components needed between th
 
 Alternatively, shown in Figure 54b, the ceiling fan integrated air-conditioning design for the same layout requires only the main supply air duct throwing cool air directly from the sidewall towards the center of space. The ceiling fans can effectively mix the air and temperature within the space, without any diffusers nor extensive supply air ducts for uniform air distribution. The number of ceiling fan and corresponding installation location can be estimated using the [CBE Ceiling Fan Design Tool](https://centerforthebuiltenvironment.github.io/fan-tool/).
 
-![Figure 54. Example design layout for (a) conventional HVAC system with supply air ducts and diffusers, (b) Ceiling fan integrated HVAC system with limited air ducts.](<../.gitbook/assets/0 (45).png>)
+![Figure 54. Example design layout for (a) conventional HVAC system with supply air ducts and diffusers, (b) Ceiling fan integrated HVAC system with limited air ducts.](<../.gitbook/assets/0 (33).png>)
 
 ## System design, selection, and operation <a href="#_toc137735004" id="_toc137735004"></a>
 
