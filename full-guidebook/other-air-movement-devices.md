@@ -18,13 +18,13 @@ Pedestal fans, also known as standing fans, are quite similar to desk fans, but 
 
 Another common type of fan used on the floor is the tower fans. Unlike axial fans (draw and deliver air along the fan axis), a tower fan is a crossflow variety (draw and deliver air perpendicular to the impeller fan axis). A crossflow fan pulls air from the inlet into a cylindrical impeller vane, housed inside the tall and slim fan structure, by setting up a cylindrical vortex of spinning air. The vortex then swings the air to the opposite side of the impeller blades and pushes the air out alongside the rectification plate (i.e., the outlet duct). The enclosed impeller blade design maximizes safety for residential usage, especially with kids and pets around. The tower-like structure is fixed on a base and rotates horizontally to extend the air movement sweeping area. The tower fans are compact and lightweight, and fit well for any indoor spaces serving both personal cooling and air circulation purposes. The airflow produced by tower fan is usually laminar and uniform along the tower. Figure 21e shows an example of a tower fan.
 
-![Figure 21. Examples of other air movement devices: (a) desk fan, (b) clip-on fan, (c) bladeless fan, (d) pedestal fan, and (e) tower fan.](<../.gitbook/assets/0 (15).png>)
+![Figure 21. Examples of other air movement devices: (a) desk fan, (b) clip-on fan, (c) bladeless fan, (d) pedestal fan, and (e) tower fan.](<../.gitbook/assets/0 (26).png>)
 
 ### Wall mounted fans <a href="#_toc137734969" id="_toc137734969"></a>
 
 A wall mounted fan is basically a pedestal fan without a base that is mounted on the wall. Sometimes these fans may also mount to the ceiling. Yet, different from conventional ceiling fans, these “ceiling mounted” fan can oscillate in 180 °. It is a good choice to provide a breeze over the human body and enhance room air circulation when the space and floor-to-ceiling height is limited. Figure 22 shows some examples of wall mounted fans.
 
-![Figure 22. Examples of wall mounted fans.](<../.gitbook/assets/1 (12).png>)
+![Figure 22. Examples of wall mounted fans.](<../.gitbook/assets/1 (13).png>)
 
 ### Bladeless ceiling fan <a href="#_ref127806698" id="_ref127806698"></a>
 
@@ -104,7 +104,7 @@ There is no existing requirement or standard on typical air speed for the air mo
 
 Direct cooling towards human body: When choosing an air movement device, customers tend to select a stronger fan which can produce more airflow and faster air speed. While it is true that bigger and stronger fans can provide better cooling effect, the question is do we really need that much air movement if the fan is intended to operate close to us? The fact is, sometimes we may experience too strong air movement from a nearby fan blowing toward our body, even though it is working at the lowest available fan speed. Figure 26a shows the environment is thermally comfortable if the surrounding air speed is 0.5 m/s \[98 fpm]. A cooling effect of 2.8 °C \[5 °F] means that, with current thermal condition, the subject is actually feeling 2.8 °C \[5 °F] lower than the actual temperature (equivalent to 23.2 °C \[73.8 °F]). If the fan is placed closer to the occupant, or the air speed is increased to 0.8 m/s \[157 fpm]. Keeping other thermal parameters unchanged, Figure 26b suggests a cooling effect of 3.5 °C \[6.3 °F], where the occupant became slightly cool and outside the thermal comfort zone. This example demonstrates that choosing a fan with possible lower airflow turndown (minimum speed divided by maximum speed) capability could be the key for better comfort in terms of direct convective cooling. Figure 27 illustrates the airflow examples for desk fan, pedestal fan, tower fan, and wall mounted. The oscillating function of these fans helps to deliver air movement at a wider coverage range and to minimize the risk of unwanted draft from long term spot cooling.
 
-![Figure 26. Demonstration of thermal comfort condition and corresponding cooling effect.](<../.gitbook/assets/6 (10).png>)
+![Figure 26. Demonstration of thermal comfort condition and corresponding cooling effect.](<../.gitbook/assets/6 (3).png>)
 
 
 
@@ -118,7 +118,7 @@ The airflow pattern of bladeless ceiling fan is quite similar to a reversely ope
 
 An air circulator intends to produce a high-speed strong air jet to move air from one side of the room to the other. Figure 29 presents a schematic representation of the airflow pattern for an air circulator in an enclosed room. Similarly, this strategy aims to move the air to increase the average air speed and to enhance air mixing in space. Thus, the air circulation effectiveness also works better in small to medium size rooms. Different from the bladeless ceiling fan approach, however, air jet from the air circulator is freely adjustable within the occupied zone. Basically, the air circulator can reduce the fan speed, temporally act as a desk fan, or pedestal fan blowing air directly towards human body for immediate cooling. In addition, to enhance long distance air movement, some air circulator’s fan blades are modified to a propeller (or turbine) type. Instead of moving air parallel to the fan axial, it drives the air in form of a vortex which propagates along the fan axial. This feature helps to centralize the airflow across longer distance and to drag surrounding air towards the propagation of air stream to maximize the airflow rate. The air movement distance from an air circulator is much longer when compared with normal desk or pedestal fan with a flat blade.
 
-![Figure 29. Schematic of airflow pattern driven by air circulator.](<../.gitbook/assets/9 (8).png>)
+![Figure 29. Schematic of airflow pattern driven by air circulator.](<../.gitbook/assets/9 (10).png>)
 
 ### Flexibility <a href="#_toc137734978" id="_toc137734978"></a>
 
@@ -138,4 +138,4 @@ Compared with ceiling fan, other fan types listed in Table A1 are mostly portabl
 
 Control panel on fan body: Most portable fans are equipped with a control panel on the fan body (See Figure 31a). It shows a simple On / Off plus fan speed control button, and a rotary switch connected with the watch spring to provide basic timer control (i.e., after how long the fan will be switched off automatically). Wireless IR remote control: Many modern fan types can be wirelessly controlled by an IR remote. Figure 31b shows an example of the remote control. Basically, it can adjust the on / off switch, fan speeds, vertical or horizontal oscillation, and set timer. Some remote controls may even be able to control other special functions if the corresponding fan has corresponding features, such as lighting switch. Wi-Fi or Bluetooth control via phone App or Internet: Wireless control via phone App or internet is very similar to the IR remote control approach but uses a smart phone instead of a remote control. Figure 31c presents an example of Wi-Fi connection via smart phone.
 
-![Figure 31. Manual fan control method. (a) Control panel on fan body, (b) IR wireless remote control, (c) Wi-Fi control via smart phone.](<../.gitbook/assets/11 (10).png>)
+![Figure 31. Manual fan control method. (a) Control panel on fan body, (b) IR wireless remote control, (c) Wi-Fi control via smart phone.](<../.gitbook/assets/11 (8).png>)

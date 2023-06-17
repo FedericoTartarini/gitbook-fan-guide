@@ -37,4 +37,4 @@ If the limitations of ceiling fan usage cannot be overcome, designers may consid
 
 Within a space, different types of fans can be integrated to maximize occupants’ comfort and to achieve multiple design intents. For example, ceiling fans can provide a uniformly low speed background air movement for all occupants in a large open space, while individual fan allow additional personal control to further improve occupants’ local thermal comfort at whenever it is necessary (e.g., at transient condition or near the window).
 
-![Figure 33. Fans selection examples based on different design intents.](<../.gitbook/assets/1 (30).png>)
+![Figure 33. Fans selection examples based on different design intents.](<../.gitbook/assets/1 (31).png>)
