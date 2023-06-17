@@ -2,30 +2,28 @@
 
 ## Coastal Biology Building
 
-![Graphical user interface, website
+![](<../.gitbook/assets/0 (13).png>)
 
-Description automatically generated](<../.gitbook/assets/0 (3).png>)
 
-![A picture containing diagram
 
-Description automatically generated](<../.gitbook/assets/1 (9).png>)
+![](<../.gitbook/assets/1 (19).png>)
+
+
 
 ## The Bullitt Center
 
-![Text
+![](<../.gitbook/assets/2 (11).png>)
 
-Description automatically generated with low confidence](<../.gitbook/assets/2 (8).png>)
 
-![A picture containing text
 
-Description automatically generated](../.gitbook/assets/3.png)
+![](<../.gitbook/assets/3 (7).png>)
+
+
 
 ## Franco Center
 
-![Graphical user interface
+![](<../.gitbook/assets/4 (19).png>)
 
-Description automatically generated with medium confidence](<../.gitbook/assets/4 (15).png>)
 
-![Graphical user interface
 
-Description automatically generated](<../.gitbook/assets/5 (2).png>)
+![](<../.gitbook/assets/5 (4).png>)
