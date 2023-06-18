@@ -37,7 +37,7 @@ The fans mounting heights from ceiling / floor and clearance from walls / obstru
 
 Installation of ceiling fans should avoid conflicts with the lighting fixtures to minimize changes of visual flicker and strobing effect, as well visual discomfort. Figure T9 illustrates the potential problems when ceiling fans interact with lighting fixtures. It suggests that visual flicker effect is dependent to view angle of the occupants. Thus, the position of ceiling fans should not only be installed away from the recess lights, but also considering occupants’ position in space. Alternatively, designer may consider the possibility of using dropdown lightings (see Figure T9c) with minimum glare to the occupants. If the above limitations with respect to lightings cannot be resolved, designers may consider using other non-ceiling fan alternatives.
 
-![Figure T9. Sectional illustrations on the interactions between ceiling fans and lighting fixtures across different configurations: (a) strobing and flicker, (b) flicker, and (c) ceiling strobing.](<../.gitbook/assets/2 (11).png>)
+![Figure T9. Sectional illustrations on the interactions between ceiling fans and lighting fixtures across different configurations: (a) strobing and flicker, (b) flicker, and (c) ceiling strobing.](<../.gitbook/assets/2 (3).png>)
 
 Operation of ceiling fans near windows / doors opening would impact the room air changes per hour (ACH) or ventilation rate. Figure T10 illustrates the airflow patterns for normal window and door-like opening settings. Designers should consider the impact of room ACH via window in natural ventilation conditions by the fan airflow patterns. The use of door-like openings may induce more outdoor airflow.
 
@@ -50,7 +50,7 @@ Conventional air-conditioning system requires diffusers and extended air ducts t
 
 Figure T11 compares the design layouts between a conventional air-conditioning system and a recommended ceiling fan integrated air-conditioning system. The ceiling fan integrated air-conditioning system requires only the main supply air duct to throw cool air from a high-sidewall vent into the occupied space. Then the ceiling fan will mix and distribute the cool air in the space. The cool supply air would be best fed above the fan blades to enhance air mixing and avoid cold draft. Immediate benefits of such design are reduced capital and maintenance costs for unnecessary ducting, diffusers, and variable air volume (VAV) boxes. In addition, the ceiling fans could work more efficiently with larger blades to ceiling height (assuming no false ceiling and without extra supply air duct).
 
-![Figure T11. Example design layouts for (a) conventional HVAC system with supply air ducts and diffusers, (b) Ceiling fan integrated HVAC system with limited supply air ducts.](<../.gitbook/assets/4 (19).png>)
+![Figure T11. Example design layouts for (a) conventional HVAC system with supply air ducts and diffusers, (b) Ceiling fan integrated HVAC system with limited supply air ducts.](<../.gitbook/assets/4 (20).png>)
 
 ## Ceiling fans integrated AC System <a href="#_toc137824712" id="_toc137824712"></a>
 
