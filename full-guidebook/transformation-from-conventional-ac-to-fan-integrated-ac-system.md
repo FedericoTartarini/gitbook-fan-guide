@@ -8,7 +8,7 @@ A key part of the success of any fan installation is ensuring that occupants und
 
 ## Progressive transformation and user adaptations <a href="#_toc137735013" id="_toc137735013"></a>
 
-The benefits of higher temperature cooling with elevated air speed, in terms of energy saving and higher occupant comfort level, have been verified in multiple studies (see Thermal comfort) (CHECK LINK). However, occupants are used to conventional cooling strategy with only air-conditioning at lower setpoint temperature.
+The benefits of higher temperature cooling with elevated air speed, in terms of energy saving and higher occupant comfort level, have been verified in multiple studies <mark style="background-color:red;"><mark style="color:blue;">(see Thermal comfort) (CHECK LINK)<mark style="color:blue;"></mark><mark style="background-color:red;">.</mark> However, occupants are used to conventional cooling strategy with only air-conditioning at lower setpoint temperature.
 
 Occupants take time to adapt to the fan-integrated AC system at warmer temperatures and higher air speed environments. Depending on the site conditions and culture, a grace period for occupant adaptation may take up to 3 months. Any change in temperature cooling setpoint should be small, gradual, and following occupants’ comfort feedback. Despite studies showing subjects can be comfortable at a higher temperature condition with increased air speed, in practice, occupants may perceive thermal dissatisfaction with a sharp change in room temperature setpoint (e.g., from 23 °C to 27 °C \[73 °F to 81 °F]) without providing a grace period for adaptation.
 

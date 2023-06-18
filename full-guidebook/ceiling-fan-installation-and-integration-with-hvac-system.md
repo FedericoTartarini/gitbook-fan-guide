@@ -76,7 +76,7 @@ The visual line of sight from the occupant to a recess fixture can still be bloc
 
 Strobing and flicker can also occur when ceiling fans interact with daylight transmitted through skylights (see Figure 42). These problems will naturally arise when direct sunlight is admitted into the space, increasing both the temperature and the need to use ceiling fans. Unlike recessed lighting, maneuvering the ceiling fan may not remove strobing when the roof is fully glazed by the skylight. The size and number of blades are often larger to increase the effects of space cooling in these applications. This generally increases the area and frequency in which strobing, and flicker may occur inside the space.
 
-![Figure 42. Ceiling fans installed onto skylight applications in Singapore, creating problems of strobing and flicker when daylight is admitted into the space.](<../.gitbook/assets/8 (1).jpeg>)
+![Figure 42. Ceiling fans installed onto skylight applications in Singapore, creating problems of strobing and flicker when daylight is admitted into the space.](<../.gitbook/assets/8 (2).jpeg>)
 
 There are many adverse effects that are caused by visual flicker. Increased visual discomfort was an overt consequence from a design layout that followed current recommendations in a recent [study](https://escholarship.org/content/qt3wj1f6xj/qt3wj1f6xj.pdf). Short-term exposure (i.e., about 10-minutes) to flicker from the configuration, shown in Figure 43, made it hard for people to concentrate, which lowered their mental performance [Kent et al., 2020](https://doi.org/10.1016/j.buildenv.2020.107060)). This could hinder learning in schools or reduce productivity in offices. Under a longer exposure time, like daily working conditions, and for populations highly sensitive to flicker (e.g., photosensitive people), the effects of flicker caused from ceiling fans may be exacerbated.
 
@@ -130,11 +130,11 @@ While we have introduced above the HVAC systems that are favorable integrating w
 
 Figure 48 presents the airflow patterns of a typical displacement ventilation system. The conditioned cool air is supplied from an air handling unit through diffusers, either located against a wall or at the corner of a room. The cold air gets warmer by absorbing heat from the heat sources (e.g., occupants, equipment) and slowly rises to the top. Thermal plumes are formed due to the density difference between the cold and warm air. Finally, the warm air on the ceiling is removed by the return air outlet. One benefit of displacement ventilation is the improvement of air quality by removing fine particles in the room (light particle goes together with the thermal plumes and exhausts out). The presence of ceiling fan, in this case, will adversely mix the air and temperature inside the room causing the thermal plume dependent on the temperature gradient to no longer exist.
 
-![Figure 48. Airflow patterns for displacement ventilation system (Li et al., 2017).](../.gitbook/assets/14.jpeg)
+![Figure 48. Airflow patterns for displacement ventilation system (Li et al., 2017).](<../.gitbook/assets/14 (1).jpeg>)
 
 Similarly, the airflow pattern in the underfloor air distribution (UFAD) system (see Figure 49) also relies on the temperature difference within the space, by providing fresh and cool air from underfloor to the lower occupied zoom and exhausting the warm air in upper unoccupied zoon from the ceiling return. Again, the presence of ceiling fan in UFAD would break the ventilation path, resulting in negative system effectiveness.
 
-![Figure 49. Airflow patterns for underfloor air distribution (UFAD).](<../.gitbook/assets/15 (6).jpeg>)
+![Figure 49. Airflow patterns for underfloor air distribution (UFAD).](<../.gitbook/assets/15 (3).jpeg>)
 
 ## Integrated ceiling fan and HVAC control <a href="#_ref127806888" id="_ref127806888"></a>
 
@@ -144,7 +144,7 @@ This section describes the control strategy for integrating ceiling fans and HVA
 
 Figure 50 demonstrates the control schematic for the HVAC system with and without the integration of a ceiling fan. The HVAC signal for heating reduces when indoor temperature increases accordingly, and it stops when the indoor temperature goes beyond the heating setpoint say 21 °C \[70 °F]. For a case without ceiling fans, the HVAC signal for cooling starts when the indoor air temperature goes higher than the first cooling setpoint temperature say 24 °C \[75 °F]. Alternatively, for a case integrated with ceiling fan, the fan may respond to zone temperature, acting as the first stage of cooling for a zone before the HVAC system begins to operate in cooling mode. The ceiling fan will operate at the first cooling setpoint of 24 °C \[75 °F] to provide convective cooling and maintain occupants’ thermal comfort without operating the HVAC. The fan speed increases with zone air temperature until reaching 25.5-26.5 °C \[78-80 °F], at a point which the HVAC system begins to modulate and to maintain that setpoint, providing the second stage of cooling. Operating the HVAC system at this higher cooling setpoint has significant energy savings potential.
 
-![Figure 50. Example HVAC control schematic with without ceiling fans.](<../.gitbook/assets/16 (3).jpeg>)
+![Figure 50. Example HVAC control schematic with without ceiling fans.](<../.gitbook/assets/16 (5).jpeg>)
 
 ### Ceiling fan speed control <a href="#_heading-h.3s49zyc" id="_heading-h.3s49zyc"></a>
 
