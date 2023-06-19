@@ -26,8 +26,8 @@
 * [Transformation from conventional AC to fan integrated AC system](full-guidebook/transformation-from-conventional-ac-to-fan-integrated-ac-system.md)
 * [Codes and Standards](full-guidebook/codes-and-standards.md)
 * [Available design tools](full-guidebook/available-design-tools.md)
-* [Detailed scientific field studies](full-guidebook/detailed-scientific-field-studies.md)
-* [Case study examples with ceiling fans](full-guidebook/case-study-examples-with-ceiling-fans.md)
+* [Case studies for researchers](full-guidebook/case-studies-for-researchers.md)
+* [Case study for practioners](full-guidebook/case-study-for-practioners.md)
 * [Deep Dive](full-guidebook/deep-dive.md)
 
 ## About this work
