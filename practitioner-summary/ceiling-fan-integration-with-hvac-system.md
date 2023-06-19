@@ -37,7 +37,7 @@ The fans mounting heights from ceiling / floor and clearance from walls / obstru
 
 Installation of ceiling fans should avoid conflicts with the lighting fixtures to minimize changes of visual flicker and strobing effect, as well visual discomfort. Figure T9 illustrates the potential problems when ceiling fans interact with lighting fixtures. It suggests that visual flicker effect is dependent to view angle of the occupants. Thus, the position of ceiling fans should not only be installed away from the recess lights, but also considering occupants’ position in space. Alternatively, designer may consider the possibility of using dropdown lightings (see Figure T9c) with minimum glare to the occupants. If the above limitations with respect to lightings cannot be resolved, designers may consider using other non-ceiling fan alternatives.
 
-![Figure T9. Sectional illustrations on the interactions between ceiling fans and lighting fixtures across different configurations: (a) strobing and flicker, (b) flicker, and (c) ceiling strobing.](<../.gitbook/assets/2 (10).png>)
+![Figure T9. Sectional illustrations on the interactions between ceiling fans and lighting fixtures across different configurations: (a) strobing and flicker, (b) flicker, and (c) ceiling strobing.](<../.gitbook/assets/2 (1).png>)
 
 Operation of ceiling fans near windows / doors opening would impact the room air changes per hour (ACH) or ventilation rate. Figure T10 illustrates the airflow patterns for normal window and door-like opening settings. Designers should consider the impact of room ACH via window in natural ventilation conditions by the fan airflow patterns. The use of door-like openings may induce more outdoor airflow.
 

@@ -30,13 +30,13 @@ Note that while these DOE definitions include a variety of sub-categories for sm
 
 Table 1. Ceiling Fan Blade and Tip Speed Criteria (Adapted from DOE Definitions).
 
-| Airflow Direction | Thickness (t) of edges of blades | Tip speed threshold |      |      |
-| ----------------- | -------------------------------- | ------------------- | ---- | ---- |
-| mm                | in                               | m/s                 | fpm  |      |
-| Downward-Only     | 4.8 > t ≥ 3.2                    | 3/16 > t ≥ 1/8      | 16.3 | 3200 |
-| Downward-Only     | t ≥ 4.8                          | t ≥ 3/16            | 20.3 | 4000 |
-| Reversible        | 4.8 > t ≥ 3.2                    | 3/16 > t ≥ 1/8      | 12.2 | 2400 |
-| Reversible        | t ≥ 4.8                          | t ≥ 3/16            | 16.3 | 3200 |
+| Airflow Direction | Thickness (t) of edges of blades | Thickness (t) of edges of blades | Tip speed threshold | Tip speed threshold |
+| ----------------- | -------------------------------- | -------------------------------- | ------------------- | ------------------- |
+|                   | mm                               | in                               | m/s                 | fpm                 |
+| Downward-Only     | 4.8 > t ≥ 3.2                    | 3/16 > t ≥ 1/8                   | 16.3                | 3200                |
+| Downward-Only     | t ≥ 4.8                          | t ≥ 3/16                         | 20.3                | 4000                |
+| Reversible        | 4.8 > t ≥ 3.2                    | 3/16 > t ≥ 1/8                   | 12.2                | 2400                |
+| Reversible        | t ≥ 4.8                          | t ≥ 3/16                         | 16.3                | 3200                |
 
 <figure><img src="../.gitbook/assets/Table 1.png" alt=""><figcaption><p>Table 1. Ceiling Fan Blade and Tip Speed Criteria (Adapted from DOE Definitions).</p></figcaption></figure>
 
@@ -57,7 +57,7 @@ The number of blades is an important factor in increasing airflow of ceiling fan
 Similarly, increasing the blade’s angle may also increase airflow at the cost of energy efficiency. Academic modeling studies have found the optimal blade angle to be 8-10 ° for residential fans. Manufacturers recommend 12-15 °. Some airfoil-style blades also vary the blade angle over the length of the fan blade, with steeper angles toward the center of the fan to maximize airflow for the low blade speed in this region and reducing to shallower angles toward the tips where the blade speed is high to limit drag and maximize energy efficiency.
 
 ![Figure 8. Ceiling Fan Blade Types.
-](<../.gitbook/assets/0 (40).png>)
+](<../.gitbook/assets/0 (41).png>)
 
 ### Motor and drives <a href="#_toc137734950" id="_toc137734950"></a>
 
@@ -131,16 +131,16 @@ Most standard fans typically have several fixed fan speed levels. Though some of
 
 The minimum rotational speed on fans with just 3 speed levels is typically still quite high, and often the minimum speed may generate 0.75 m/s \[150 fpm] seated average directly under the fan, equivalent to over 2.8 °C \[5 °F] cooling effect. Having a high minimum speed can be problematic in some applications, such where there are occupants located directly under the fans for extended periods of time (e.g., an office) or when the fan is used to destratify a space in heating mode. The reason is that the minimum speed may generate too much of a cooling effect for the occupants when temperatures are mild or cool, and they cannot reduce the speed further without switching the fan off. In contrast, a high minimum speed is less of a concern in transiently occupied spaces, spaces where occupants can move freely around. Overall, in most applications, it is desirable to have more levels of speed control, particularly a minimum level that is slow enough that it generates low air speeds directly under the fan. A reasonable approximation is that the minimum fan air speed should be below 0.4 m/s \[80 fpm], or a 1.7 °C \[3 °F] cooling effect at the minimum allowed blade height, depending on the specifics of the application.
 
-![Figure 17. Number of speed control levels for ceiling fans in the CEC MAEDbS database.](<../.gitbook/assets/9 (13).png>)
+![Figure 17. Number of speed control levels for ceiling fans in the CEC MAEDbS database.](<../.gitbook/assets/9 (12).png>)
 
 ### Uniformity of air speeds <a href="#_toc137734958" id="_toc137734958"></a>
 
 The amount of variation of the air speeds in a space is an important design consideration. Figure 18 below shows the measured air speeds in a cross section through a 5.5 x 5.5 m \[18 x 18 ft] room with a 1.5 m \[5 ft] diameter ceiling fan located at the center of the room. The airflow ‘jet’ from the fan immediately narrows to a slightly smaller diameter than the fan blades. The jet then impinges on the floor, creating a stagnation point, and then spreads radially outwards along the floor. Smaller diameter fans have a relatively shallow spreading zone. For the case shown below, the air speed in the spreading zone is still high along the floor at a distance of one fan diameter from the fan center. However, the air speeds are almost unaffected by the fan at a height of 0.5 to 0.7 m at the same location. In contrast, larger diameter fans have a deeper spreading zone. For fans at or above 3m \[10 ft] in diameter, the height of the spreading zone at a distance of one fan diameter from the fan center is approximately the height of an average person. However, large diameter fans have lower air speeds directly under the fan center, near the stagnation point. As Figure 19 shows, the larger the ratio of fan diameter to room size is, the more uniform the distribution of air speeds will be in the room.
 
-<figure><img src="../.gitbook/assets/10 (1).png" alt=""><figcaption><p>Figure 18. Example air speed distribution from a ceiling fan (<a href="https://doi.org/10.1016/j.buildenv.2017.08.029">Gao et al., 2017</a>).</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (3).png" alt=""><figcaption><p>Figure 18. Example air speed distribution from a ceiling fan (<a href="https://doi.org/10.1016/j.buildenv.2017.08.029">Gao et al., 2017</a>).</p></figcaption></figure>
 
 ![Figure 19. Air speeds over distance from the fan center (Raftery et al., 2019)
-](<../.gitbook/assets/11 (8).png>)
+](<../.gitbook/assets/11 (11).png>)
 
 ### IP rating, damp rated, and wet rated <a href="#_heading-h.sqyw64" id="_heading-h.sqyw64"></a>
 
@@ -168,7 +168,7 @@ Wi-Fi or Bluetooth Connectivity via Phone App or Internet: some fans have smartp
 
 Building automation system interface: some fans may also be controlled through building automation system interface. This approach may be ideal for applications where access to fan control needs to be limited to building management and maintenance staff, such as assembly and hospitality spaces.
 
-![Figure 20. Inappropriate examples of ceiling fan wall controls (Images courtesy Elaina Present).](../.gitbook/assets/12.png)
+![Figure 20. Inappropriate examples of ceiling fan wall controls (Images courtesy Elaina Present).](<../.gitbook/assets/12 (6).png>)
 
 Figure 20 demonstrates some examples of wall mounted control for ceiling fan that are not particularly clear to the user. For example, the controls are not labelled as controlling the ceiling fan and as such are indistinguishable from a dimmable light switch in many cases. It is important to ensure that wall mounted fan controls are clearly visible to the occupant(s), located near the fan they control and near the thermostat in the room, intuitive (e.g., levels increase vertically from off to maximum speed), and clearly differentiated from other controls, like lighting controls.
 
