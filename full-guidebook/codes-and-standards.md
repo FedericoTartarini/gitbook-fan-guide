@@ -1,4 +1,4 @@
-# Codes and Standards
+# Codes and standards
 
 ## Environmental conditions <a href="#_toc137735015" id="_toc137735015"></a>
 
@@ -48,13 +48,13 @@ A major consideration in using the DOE metric is when the fan operates at a very
 
 ### Large-diameter fans: Ceiling Fan Energy Index (CFEI) <a href="#_toc137735021" id="_toc137735021"></a>
 
-Since 2021, the Ceiling Fan Energy Index (CFEI) is used to make inefficient fans less likely to comply using slower speeds, such as those used to game the DOE (CFM/W) metric,and to remove the unintentional barrier to compliance for high-performing high-utility fans. CFEI is derived from the FEI equation in [_ANSI/AMCA Standard 208-18: Calculation of the Fan Energy Index_](https://www.amca.org/news/press-releases/ansi/amca-standard-208,-calculation-of-the-fan-energy-index,-available-for-free-download.html) with substitute coefficient of airflow constant: Q0 = 12.5 m3/s (26500 CFM), pressure constant: P0 = 0.67 pascals (0.0027 inches water gauge), and fan-efficiency constant: η0 = 42 %.CFEI is calculated as a ratio of the electrical input power of a reference fan to the electrical input power of the actual fan. The equation is presented below:
+Since 2021, the Ceiling Fan Energy Index (CFEI) has been used to make inefficient fans less likely to comply using slower speeds, such as those used to game the DOE (CFM/W) metric and to remove the unintentional barrier to compliance for high-performing high-utility fans. CFEI is derived from the FEI equation in [_ANSI/AMCA Standard 208-18: Calculation of the Fan Energy Index_](https://www.amca.org/news/press-releases/ansi/amca-standard-208,-calculation-of-the-fan-energy-index,-available-for-free-download.html) with substitute coefficient of airflow constant: Q0 = 12.5 m3/s (26500 CFM), pressure constant: P0 = 0.67 pascals (0.0027 inches water gauge), and fan-efficiency constant: η0 = 42 %. CFEI is calculated as a ratio of a reference fan's electrical input power to the actual fan's electrical input power. The equation is presented below:      &#x20;
 
 $$
 CFEI=\frac {Reference\  Ceiling\  Fan\ Electrical\ Input\ Power}{Actual\ Ceiling\ Fan\ Electrical\ Input\ Power}
 $$
 
-The reference fan is a conceptual fan used to relate all fans to a common baseline, producing the airflow and fan pressure required at a specified electrical input power. According to the standard, large-diameter ceiling fans should have a CFEI greater than or equal to: (a) 1.00 at high (i.e., 100 %) fan speed, and (b) 1.31 at 40 % of fan speed.
+The reference fan is a conceptual fan that relates all fans to a common baseline, producing the airflow and fan pressure required at a specified electrical input power. According to the standard, large-diameter ceiling fans should have a CFEI greater than or equal to: (a) 1.00 at high (i.e., 100 %) fan speed and (b) 1.31 at 40 % of fan speed.
 
 ### ASHRAE Standard 216 <a href="#_toc137735022" id="_toc137735022"></a>
 
