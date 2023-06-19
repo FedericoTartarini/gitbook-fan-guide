@@ -72,7 +72,7 @@ According to the US Department of Energy (DOE), ceiling fan efficacy is generall
 
 Meanwhile, the ceiling fan energy index (CFEI), a ratio of reference fan power input to actual fan power input, is a more reliable alternative in reflecting the above blind spot. It helps to make inefficient fans less likely to comply with slower speeds and to remove the unintentional barrier to compliance for high-performing high-utility fans by comparing fans to a standardized baseline. Taken the same example in Figure T3, CFEI at high fan speed for the left most and right most curve is, respectively, 0.63 (less efficient) and 1.72 (more efficient). See section “Ceiling fans testing regulations” for more information.
 
-![Figure T3. Fan efficacy versus total airflow and power.](<../.gitbook/assets/1 (23).png>)
+![Figure T3. Fan efficacy versus total airflow and power.](<../.gitbook/assets/1 (9).png>)
 
 Generally, the ability of a fan to operate efficiently at lower speed improves as the diameter increases, but there is considerable variation in performance between models of fans with the same diameter. Fans with a lower turndown ratio (i.e., minimum fan speed divided by maximum fan speed) can be more flexible in different applications purpose.
 
