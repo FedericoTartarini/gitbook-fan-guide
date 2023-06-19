@@ -26,7 +26,7 @@
 * [Transformation from conventional AC to fan integrated AC system](full-guidebook/transformation-from-conventional-ac-to-fan-integrated-ac-system.md)
 * [Codes and standards](full-guidebook/codes-and-standards.md)
 * [Available design tools](full-guidebook/available-design-tools.md)
-* [Case study for practioners](full-guidebook/case-study-for-practioners.md)
+* [Case studies for practitioners](full-guidebook/case-studies-for-practitioners.md)
 * [Case studies for researchers](full-guidebook/case-studies-for-researchers.md)
 * [Deep dive](full-guidebook/deep-dive.md)
 
