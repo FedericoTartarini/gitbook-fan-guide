@@ -62,7 +62,7 @@ Ceiling fans air speed is defined as the average air speed that passes through t
 The variation of the air speeds in a space is an important design consideration. Figure T2 demonstrates an example of air speeds distribution from a 1.5 m \[5 ft] diameter ceiling fan. The airflow ‘jet’ from the fan immediately narrows to a slightly smaller diameter than the fan blades. The jet then impinges on the floor, creating a stagnation point, and then spreads radially outwards along the floor. Away from the fan diameter and above the floor spreading zone, there is a still air zone where air speeds are almost unaffected. The depth of air spreading zone along the floor and its average air speed is dependent to the fan diameter: smaller fan (shallower) and larger fan (deeper). In general, larger diameter fans have lower air speeds directly under the fan centre (i.e., near the stagnation point), but the air speeds distribution is more uniform than the smaller diameter fans.
 
 ![Figure T2. Example air speed distribution from a ceiling fan (Gao et al., 2017).
-](<../.gitbook/assets/0 (36).png>)
+](<../.gitbook/assets/0 (10).png>)
 
 ### Fan operates in reverse direction <a href="#_toc137824696" id="_toc137824696"></a>
 
@@ -78,7 +78,7 @@ According to the US Department of Energy (DOE), ceiling fan efficacy is generall
 
 Meanwhile, the ceiling fan energy index (CFEI), a ratio of reference fan power input to actual fan power input, is a more reliable alternative in reflecting the above blind spot. It helps to make inefficient fans less likely to comply with slower speeds and to remove the unintentional barrier to compliance for high-performing high-utility fans by comparing fans to a standardized baseline. Taken the same example in Figure T3, CFEI at high fan speed for the left most and right most curve is, respectively, 0.63 (less efficient) and 1.72 (more efficient). See section “Ceiling fans testing regulations” for more information.
 
-![Figure T3. Fan efficacy versus total airflow and power.](<../.gitbook/assets/1 (2).png>)
+![Figure T3. Fan efficacy versus total airflow and power.](<../.gitbook/assets/1 (10).png>)
 
 Generally, the ability of a fan to operate efficiently at lower speed improves as the diameter increases, but there is considerable variation in performance between models of fans with the same diameter. Fans with a lower turndown ratio (i.e., minimum fan speed divided by maximum fan speed) can be more flexible in different applications purpose.
 
@@ -104,10 +104,10 @@ Table T4. Summary of other air movement device’s function, noise level and app
 
 Airflow patterns from different devices can be varied by fan size, blade types, and fan structure. Currently, there is no requirement or standard on typical air speed for the air movement devices described in Table T4. The air speed and airflow requirements are mainly dependent to the typical functions and locations of usage.
 
-For fans that intend for direct cooling towards human body, customers tend to select a stronger fan which can produce more airflow and faster air speed. However, in some situations (e.g., operating fan together with air-conditioning), the occupants do not require air movement that is too strong. Therefore, choosing a fan with possible lower airflow turndown (minimum speed divided by maximum speed) capability could be the key for better comfort in terms of direct convective cooling. Meanwhile, if the function of a fan is used to circulate the air with a room, the fan selection approach should be either bigger in size (i.e., produce more airflow) or able to generate high airflow jet with high speed to drive the in-room air. Figure T4 illustrates the examples of airflow flow patterns for different fan types.
+For fans that intend for direct cooling towards human body, customers tend to select a stronger fan which can produce more airflow and faster air speed. However, in some situations (e.g., operating fan together with air-conditioning), the occupants do not require air movement that is too strong. Therefore, choosing a fan with possible lower airflow turndown (minimum speed divided by maximum speed) capability could be the key for better comfort in terms of direct convective cooling. Meanwhile, if the function of a fan is used to circulate the air with a room, the fan selection approach should be either bigger in size (i.e., produce more airflow) or able to generate high airflow jet with high speed to drive the in-room air. Figure T4 illustrates examples of airflow flow patterns for different fan types.
 
 ![Figure T4. Example airflow pattens for (a) desk fans, (b) pedestal fans, (c) tower fans, (d) wall mounted fangs, (e) bladeless ceiling fans, and (f) air circulators.
-](<../.gitbook/assets/2 (10).png>)
+](<../.gitbook/assets/2 (2).png>)
 
 ### Noise levels <a href="#_toc137824701" id="_toc137824701"></a>
 
@@ -115,16 +115,16 @@ Noise from a fan can initiate dissatisfaction and unwillingness of its usage fro
 
 ### Power and cooling fan efficiency <a href="#_toc137824702" id="_toc137824702"></a>
 
-All the elevated air movement devices described in Table T4 consist of motor and drive. The types of motor and drive used for these elevated air movement devices are similar to that operate in a ceiling fan, which we have been discussed in the former section. It is worth noted that, larger energy saving potential can be achieved by using DC motor instead of AC motor, especially for small fans like desk fan or pedestal fan.
+All the elevated air movement devices described in Table T4 consist of a motor and drive. The types of motor and drive used for these elevated air movement devices are similar to those that operate in a ceiling fan, which we have discussed in the former section. It is worth noting that a larger energy-saving potential can be achieved by using a DC motor instead of an AC motor, especially for small fans like desk fans or pedestal fans.
 
-In general, fan performance can be evaluated by the cooling fan efficiency (CFE) index, ratio between cooling effect of the device and its power consumption, defines in following equation (where _Pf_ is the input power of the fan (in W) and ∆_teq_ is the whole-body cooling effect (in °C or °F)):
+In general, fan performance can be evaluated by the cooling fan efficiency (CFE) index, the ratio between the cooling effect of the device and its power consumption, defined in the following equation (where $$P_f=$$ the input power of the fan (in W) and $$\Delta t_{eq}=$$ the whole-body cooling effect (in °C or °F):
 
 $$
-GFE = \frac{Cooling\
+CFE = \frac{Cooling\
 Effect}{Fan\ Power} =(-1) \frac{\Delta t_{eq}}{{P_f}}
 $$
 
-It is noted that the cooling effect depends on the effectiveness of convective cooling towards subject’s body, and is affected by air speed, airflow pattern, and fan operation distance. Eventually, the intent of fan usage (local cooling vs air circulation) should have been taken into consideration when quantifying the fan effectiveness.
+It is noted that the cooling effect depends on the effectiveness of convective cooling towards the subject’s body and is affected by air speed, airflow pattern, and fan operation distance. Eventually, the intent of fan usage (local cooling vs. air circulation) should have been considered when quantifying the fan's effectiveness.
 
 ### Flexibility and other features <a href="#_toc137824703" id="_toc137824703"></a>
 
