@@ -8,23 +8,17 @@ The US Department of Energy (DOE) defines a variety of ceiling fan types in the 
 
 Table T1. Ceiling Fan Blade and Tip Speed Criteria (adapted from DOE definitions).
 
-| Airflow Direction | Thickness (t) of edges of blades | Tip speed threshold |      |      |
-| ----------------- | -------------------------------- | ------------------- | ---- | ---- |
-| mm                | in                               | m/s                 | fpm  |      |
-| Downward-Only     | 4.8 > t ≥ 3.2                    | 3/16 > t ≥ 1/8      | 16.3 | 3200 |
-| Downward-Only     | t ≥ 4.8                          | t ≥ 3/16            | 20.3 | 4000 |
-| Reversible        | 4.8 > t ≥ 3.2                    | 3/16 > t ≥ 1/8      | 12.2 | 2400 |
-| Reversible        | t ≥ 4.8                          | t ≥ 3/16            | 16.3 | 3200 |
+| Airflow Direction | Thickness (t) of edges of blades | Thickness (t) of edges of blades | Tip speed threshold | Tip speed threshold |
+| ----------------- | :------------------------------: | :------------------------------: | :-----------------: | :-----------------: |
+|                   |                mm                |                in                |         m/s         |         fpm         |
+| Downward-Only     |           4.8 > t ≥ 3.2          |          3/16 > t ≥ 1/8          |         16.3        |         3200        |
+| Downward-Only     |              t ≥ 4.8             |             t ≥ 3/16             |         20.3        |         4000        |
+| Reversible        |           4.8 > t ≥ 3.2          |          3/16 > t ≥ 1/8          |         12.2        |         2400        |
+| Reversible        |              t ≥ 4.8             |             t ≥ 3/16             |         16.3        |         3200        |
 
 Table T2. Common ceiling fan types (adapted from DOE definitions)
 
-| Ceiling fan types       | Fan diameter (D) | Remarks     |                                                                                         |
-| ----------------------- | ---------------- | ----------- | --------------------------------------------------------------------------------------- |
-| m                       | Ft               |             |                                                                                         |
-| Standard fan            | 0.46 ≤ D ≤ 2.1   | 1.5 ≤ D ≤ 7 | Blade to ceiling height > 25 cm \[10 in]                                                |
-| Large-diameter fan      | D > 2.1          | D > 7       | Known as high volume low speed (HVLS) fan                                               |
-| Hugger fan              | 0.46 ≤ D ≤ 2.1   | 1.5 ≤ D ≤ 7 | <p>Similar to standard fan;</p><p>Blade to ceiling height ≤ 25 cm [10 in]</p>           |
-| Very-small-diameter fan | D < 0.46         | D < 1.5     | <p>Airflow > 0.87 m³/s [1840 cfm];</p><p>Rotational speed > 90 rpm at highest speed</p> |
+<table><thead><tr><th>Ceiling fan types</th><th width="201" align="center">Fan diameter (D)</th><th align="center">Fan diameter (D)</th><th>Remarks</th></tr></thead><tbody><tr><td> </td><td align="center">m</td><td align="center">Ft</td><td> </td></tr><tr><td>Standard fan</td><td align="center">0.46 ≤ D ≤ 2.1</td><td align="center">1.5 ≤ D ≤ 7</td><td>Blade to ceiling height > 25 cm [10 in] </td></tr><tr><td>Large-diameter fan</td><td align="center">D > 2.1</td><td align="center">D > 7</td><td>Known as high volume low speed (HVLS) fan</td></tr><tr><td>Hugger fan</td><td align="center">0.46 ≤ D ≤ 2.1</td><td align="center">1.5 ≤ D ≤ 7</td><td>Similar to standard fan;<br>Blade to ceiling height ≤ 25 cm [10 in]</td></tr><tr><td>Very-small-diameter fan</td><td align="center">D &#x3C; 0.46</td><td align="center">D &#x3C; 1.5</td><td>Airflow > 0.87 m³/s [1840 cfm];<br>Rotational speed > 90 rpm at highest speed</td></tr></tbody></table>
 
 In general, a larger diameter fan (i.e., high volume low speed (HVLS) fan) blade can move a larger volume of air than a smaller diameter fan blade. As fan diameter increases, rotational speed is typically limited to prevent excessive noise from the fan blades, especially near the blade tip. Additionally, where fans can be mounted at blade heights below 3 m \[10 ft], the rotational speed must be limited to meet safety criteria for the maximum speed of the blade tips. HSLV fans require higher ceilings (typically at least 3.3 m \[11 ft]) and larger spaces free from obstructions to accommodate their increased diameter, and these fans are most often found in non-residential stings, like commercial and industrial applications. Some large-diameter ceiling fans include “winglets” or blade tip fences to maximize airflow and minimize noise, which is a less common problem in standard fans as the blade tip speed is already constrained for safety reasons.
 
@@ -38,14 +32,7 @@ Typically, ceiling fans have three main types of motor (AC induction; permanent 
 
 Table T3. Comparison between ceiling fan’s motors and drives
 
-|                               |                                                                                                                                                        | Characteristic(s)                                                                                                                       |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Motors                        | Alternating current (AC) induction                                                                                                                     | Provides constant, even airflow and are cheaper than DC motors. They typically provide only three speed levels.                         |
-| Permanent magnet DC (PMDC)    | More energy efficient than AC motors and provides constant force over a wider range of speeds than AC motors.                                          |                                                                                                                                         |
-| Brushless direct current (DC) | The most energy efficient of the three motor types (use 70% less energy than an AC motor), most quiet, and has a longer service life than PMDC motors. |                                                                                                                                         |
-|                               |                                                                                                                                                        |                                                                                                                                         |
-| Drives                        | Direct drive                                                                                                                                           | Almost all small-diameter fans are direct drive. It is quieter than gear-driven fans. However, comparatively, it provides less airflow. |
-| Gear-driven                   | Gear-driven fans allow for higher motor power where maximizing airflow is a priority over sound levels or aesthetics.                                  |                                                                                                                                         |
+
 
 ### Diameter and rotational speed <a href="#_toc137824693" id="_toc137824693"></a>
 
@@ -62,7 +49,7 @@ Ceiling fans air speed is defined as the average air speed that passes through t
 The variation of the air speeds in a space is an important design consideration. Figure T2 demonstrates an example of air speeds distribution from a 1.5 m \[5 ft] diameter ceiling fan. The airflow ‘jet’ from the fan immediately narrows to a slightly smaller diameter than the fan blades. The jet then impinges on the floor, creating a stagnation point, and then spreads radially outwards along the floor. Away from the fan diameter and above the floor spreading zone, there is a still air zone where air speeds are almost unaffected. The depth of air spreading zone along the floor and its average air speed is dependent to the fan diameter: smaller fan (shallower) and larger fan (deeper). In general, larger diameter fans have lower air speeds directly under the fan centre (i.e., near the stagnation point), but the air speeds distribution is more uniform than the smaller diameter fans.
 
 ![Figure T2. Example air speed distribution from a ceiling fan (Gao et al., 2017).
-](<../.gitbook/assets/0 (11).png>)
+](<../.gitbook/assets/0 (10).png>)
 
 ### Fan operates in reverse direction <a href="#_toc137824696" id="_toc137824696"></a>
 
@@ -78,7 +65,7 @@ According to the US Department of Energy (DOE), ceiling fan efficacy is generall
 
 Meanwhile, the ceiling fan energy index (CFEI), a ratio of reference fan power input to actual fan power input, is a more reliable alternative in reflecting the above blind spot. It helps to make inefficient fans less likely to comply with slower speeds and to remove the unintentional barrier to compliance for high-performing high-utility fans by comparing fans to a standardized baseline. Taken the same example in Figure T3, CFEI at high fan speed for the left most and right most curve is, respectively, 0.63 (less efficient) and 1.72 (more efficient). See section “Ceiling fans testing regulations” for more information.
 
-![Figure T3. Fan efficacy versus total airflow and power.](<../.gitbook/assets/1 (10).png>)
+![Figure T3. Fan efficacy versus total airflow and power.](<../.gitbook/assets/1 (32).png>)
 
 Generally, the ability of a fan to operate efficiently at lower speed improves as the diameter increases, but there is considerable variation in performance between models of fans with the same diameter. Fans with a lower turndown ratio (i.e., minimum fan speed divided by maximum fan speed) can be more flexible in different applications purpose.
 
@@ -107,7 +94,7 @@ Airflow patterns from different devices can be varied by fan size, blade types, 
 For fans that intend for direct cooling towards human body, customers tend to select a stronger fan which can produce more airflow and faster air speed. However, in some situations (e.g., operating fan together with air-conditioning), the occupants do not require air movement that is too strong. Therefore, choosing a fan with possible lower airflow turndown (minimum speed divided by maximum speed) capability could be the key for better comfort in terms of direct convective cooling. Meanwhile, if the function of a fan is used to circulate the air with a room, the fan selection approach should be either bigger in size (i.e., produce more airflow) or able to generate high airflow jet with high speed to drive the in-room air. Figure T4 illustrates examples of airflow flow patterns for different fan types.
 
 ![Figure T4. Example airflow pattens for (a) desk fans, (b) pedestal fans, (c) tower fans, (d) wall mounted fangs, (e) bladeless ceiling fans, and (f) air circulators.
-](<../.gitbook/assets/2 (3).png>)
+](<../.gitbook/assets/2 (2).png>)
 
 ### Noise levels <a href="#_toc137824701" id="_toc137824701"></a>
 
