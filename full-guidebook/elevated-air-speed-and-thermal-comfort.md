@@ -5,13 +5,13 @@
 In this section we discuss the thermal comfort related effects of increased air movement using fans for cooling applications. We also discuss tools such as the [CBE Thermal Comfort Tool](https://comfort.cbe.berkeley.edu/) to help determine the right air speed and other factors for optimal thermal comfort. Figure 3 shows the cooling effect – or how many degrees warmer the air temperature can be to provide the same level of thermal comfort – associated with increased air speeds. This figure also highlights that the design air speeds discussed in this guide are well below the air speeds that a person experiences every day. For example, a design speed of 0.5 m/s \[100 fpm], equal to approximately 2 °C \[4 °F] cooling effect, is approximately half the air speed that a person experiences just from the relative motion of walking slowly through still-air conditions.
 
 ![Figure 3. Cooling effect of increased air speed for a ‘typical’ office worker in cooling conditions (operative temperature of 24.4 °C \[76 °F\], 50% relative humidity, 0.6 clo, 1.13 met).
-](<../.gitbook/assets/0 (14).png>)
+](<../.gitbook/assets/0 (25).png>)
 
 ## Human body thermoregulation <a href="#_toc137734938" id="_toc137734938"></a>
 
 Thermal comfort, here defined as the occupant’s satisfaction with the perceived thermal sensation, depends on how much heat is released or retained by the occupant’s body. [Human thermoregulation,](https://en.wikipedia.org/wiki/Thermoregulation\_in\_humans) as depicted in Figure 4, is the heat transfer process to and from the body that occur in four ways: radiation, convection, evaporation, and conduction.
 
-![Figure 4. Human body thermoregulation (i.e., heat gain and loss) pathways.](<../.gitbook/assets/1 (12).png>)
+![Figure 4. Human body thermoregulation (i.e., heat gain and loss) pathways.](<../.gitbook/assets/1 (19).png>)
 
 ## Thermal comfort factors <a href="#_toc137734939" id="_toc137734939"></a>
 
@@ -32,4 +32,4 @@ Cooling effect is also used to calculate the Cooling Fan Efficiency (CFE). CFE i
 In addition to directly cooling occupants, fans also effectively mix the air in a space, which has several applications. The most common of these applications is where the temperatures in a space are unwantedly stratified, with warmer air close to the ceiling and cooler air near the floor (Figure 5). This typically occurs in spaces with high ceilings or where the heating equipment has a relatively high discharge temperature and low mixing momentum. In these conditions, ceiling fans can mix the air in the space such that the temperature at the floor (and near where the thermostat is located) is close to the average temperature in the space. This can save energy and improve occupant comfort. Ceiling fans are most effective to provide destratification, as they are located close to the ceiling and can run in either direction to achieve this mixing, although they will use more power to achieve the same mixing effect when operating in reverse (moving air upward) than forwards (moving air downward). Note that during destratification, the space is typically operating in heating mode and operating at the lower end of the range of temperatures that define the thermal comfort zone. As such it is very important to maintain very low air speeds in the occupied zone to avoid the sensation of draft. Depending on the specific conditions, the occupant locations, and the minimum speed capabilities of the fan, running the fan in forward or reverse may be better to achieve this goal.
 
 ![Figure 5. Ceiling fans (blowing upwards) for destratification.
-](<../.gitbook/assets/2 (1).png>)
+](<../.gitbook/assets/2 (4).png>)
