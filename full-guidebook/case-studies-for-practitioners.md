@@ -2,21 +2,21 @@
 
 ## Coastal Biology Building
 
-![](<../.gitbook/assets/0 (15).png>)
+![](<../.gitbook/assets/0 (29).png>)
 
 
 
-![](<../.gitbook/assets/1 (15).png>)
+![](<../.gitbook/assets/1 (38).png>)
 
 
 
 ## The Bullitt Center
 
-![](<../.gitbook/assets/2 (6).png>)
+![](<../.gitbook/assets/2 (12).png>)
 
 
 
-![](<../.gitbook/assets/3 (7).png>)
+![](<../.gitbook/assets/3 (11).png>)
 
 
 
@@ -26,4 +26,4 @@
 
 
 
-![](<../.gitbook/assets/5 (4).png>)
+![](<../.gitbook/assets/5 (11).png>)
