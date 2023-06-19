@@ -38,13 +38,13 @@ Small-diameter ceiling fan is a ceiling fan that is smaller than (or equal to) 2
 
 Large-diameter ceiling fan is a ceiling fan that is larger than 2.1 m \[7 ft] in diameter. Performance testing on larger-diameter ceiling fan is standardized by the [_Air Movement and Control Association (AMCA) Standard 230-15: Laboratory Methods of Testing Air Circulating Fans for Rating and Certification_](https://www.techstreet.com/amca/standards/amca-230-15?product\_id=1904250). Similarly, this standard provides a protocol and testing conditions to assess the performance of different fan models, in particular determining and expressing ceiling fan efficiency and efficacy.The fan efficiency, adopted by Department of Energy (DOE) in the United State of America, is calculated using a weighted average of data collected in standby model and up to five available fan speed (if five speeds are tested, each speed is assumed 20% of the daily operating hours). Similar approaches could be applied to other countries as an additional instrument for estimating fans’ energy consumption and efficiency. The equation for the DOE efficiency is presented below:
 
+$$
+DOE\ Efficiency\ (\frac {CFM}{W})=\frac{\Sigma_i\ Airflow_i\ \cdot\ OH_i}{W_{sb}\cdot OH_{sb} +\Sigma_i\ W_i \cdot OH_i}
+$$
+
 where Airflowi = Airflow at speed i, OHi = Operating hours at speed i, Wi = Power consumption at speed i, OHbs = Operating hours in standby mode, Wsb = Power consumption in standby model
 
-A major consideration in using DOE metric is when the fan operates at very low speed. Power consumption is proportional to the cube of flow rate. Therefore, slowing down a fan would reduce the input power and airflow, but the reduction in input power is higher than airflow. This means that low airflow fans equipped with inefficient motors can still achieve high DOE metric. Conversely, high airflow fans (at the same diameter), even equipped with more efficient motors, are more difficult in complying the DOE metric.
-
-$$
-DOE\ Efficiency(\frac {CFM}{W})=\frac{\Sigma_i^\square\ Airflow_i\ *\ OH_i}{W_{sb}\ * OH_{sb}\ +\Sigma_i^\square\ \ W_i\ *\ OH_i}
-$$
+A major consideration in using the DOE metric is when the fan operates at a very low speed. Power consumption is proportional to the cube of flow rate. Therefore, slowing down a fan would reduce the input power and airflow, but the reduction in input power is higher than airflow. Low airflow fans with inefficient motors can still achieve high DOE metric values. Conversely, high airflow fans (at the same diameter), even equipped with more efficient motors, are more difficult to comply with the DOE metric.
 
 ### Large-diameter fans: Ceiling Fan Energy Index (CFEI) <a href="#_toc137735021" id="_toc137735021"></a>
 
