@@ -42,7 +42,7 @@ $$
 DOE\ Efficiency\ (\frac {CFM}{W})=\frac{\Sigma_i\ Airflow_i\ \cdot\ OH_i}{W_{sb}\cdot OH_{sb} +\Sigma_i\ W_i \cdot OH_i}
 $$
 
-where Airflowi = Airflow at speed i, OHi = Operating hours at speed i, Wi = Power consumption at speed i, OHbs = Operating hours in standby mode, Wsb = Power consumption in standby model
+where:$$Airflow_i=$$ Airflow at speed i, $$OH_i=$$ Operating hours at speed i, $$W_i=$$ Power consumption at speed i, $$OH_{sb}=$$ Operating hours in standby mode, $$W_{sb}=$$ Power consumption in standby model.
 
 A major consideration in using the DOE metric is when the fan operates at a very low speed. Power consumption is proportional to the cube of flow rate. Therefore, slowing down a fan would reduce the input power and airflow, but the reduction in input power is higher than airflow. Low airflow fans with inefficient motors can still achieve high DOE metric values. Conversely, high airflow fans (at the same diameter), even equipped with more efficient motors, are more difficult to comply with the DOE metric.
 
