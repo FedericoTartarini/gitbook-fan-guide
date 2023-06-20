@@ -11,7 +11,7 @@ In this section we discuss the thermal comfort related effects of increased air 
 
 Thermal comfort, here defined as the occupant’s satisfaction with the perceived thermal sensation, depends on how much heat is released or retained by the occupant’s body. [Human thermoregulation,](https://en.wikipedia.org/wiki/Thermoregulation\_in\_humans) as depicted in Figure 4, is the heat transfer process to and from the body that occur in four ways: radiation, convection, evaporation, and conduction.
 
-![Figure 4. Human body thermoregulation (i.e., heat gain and loss) pathways.](<../.gitbook/assets/1 (19).png>)
+![Figure 4. Human body thermoregulation (i.e., heat gain and loss) pathways.](<../.gitbook/assets/1 (18).png>)
 
 ## Thermal comfort factors <a href="#_toc137734939" id="_toc137734939"></a>
 
@@ -25,7 +25,7 @@ Fans increase air speed and the heat transfer via convection and evaporation, wh
 
 ASHRAE Standard 55 (2020) provides a method called The Elevated Air Speed Comfort (Section 5.3.3. of the standard) to calculate thermal comfort in situations of elevated air speed. This method uses a combination of the Analytical Comfort Zone Method with the Standard Effective Temperature (SET) method (Normative Appendix D of standard). Since increasing air speeds has a cooling effect, the method calculates adjusted air and radiant temperatures according to how occupants are expected to feel under increased air speed conditions to calculate a new PMV value. The “Standard Effective Temperature” (SET) output translates the 6 thermal comfort factors (presented before) into a single temperature equivalent. The SET provides a single metric that can be compared across a variety of comfort conditions.
 
-Cooling effect is also used to calculate the Cooling Fan Efficiency (CFE). CFE is defined in ASHRAE Standard 216 as the ratio of the cooling effect to the input power of the fan. CFE gives people a standardized way to compare how much cooling a fan provides when consuming the same amount of energy.
+Cooling effect is also used to calculate the Cooling Fan Efficiency (CFE). CFE is defined in[ ASHRAE Standard 216](https://webstore.ansi.org/standards/ashrae/ansiashraestandard2162020) as the ratio of the cooling effect to the input power of the fan. CFE gives people a standardized way to compare how much cooling a fan provides when consuming the same amount of energy.
 
 ## Elevated air speed for desertification in heating mode <a href="#_toc137734942" id="_toc137734942"></a>
 
