@@ -17,7 +17,7 @@
 
 * [Benefits of using fans](full-guidebook/benefits-of-using-fans.md)
 * [Elevated air speed and thermal comfort](full-guidebook/elevated-air-speed-and-thermal-comfort.md)
-* [Human response to air movement](full-guidebook/human-response-to-air-movement.md)
+* [Human response to fans](full-guidebook/human-response-to-fans.md)
 * [Ceiling fans](full-guidebook/ceiling-fans.md)
 * [Other air movement devices](full-guidebook/other-air-movement-devices.md)
 * [Prior to elevated air movement design](full-guidebook/prior-to-elevated-air-movement-design.md)
