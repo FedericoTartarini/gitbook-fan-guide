@@ -73,7 +73,7 @@ Several factors determine a ceiling fan’s performance, as well as its suitabil
 
 Ceiling fans are available in a wide range of diameters, from very small fans approximately 45 cm \[18 in] in diameter to very large fans up to 7m \[24 ft] in diameter. Determining the appropriate fan diameter depends largely on the dimensions of the space and the application, as discussed in more detail later in this guide. The California Energy Commission maintains the Modernized Appliance Efficiency Database System ([MAEDbS](https://www.energy.ca.gov/programs-and-topics/programs/appliance-efficiency-program-outreach-and-education/modernized)), which contains a large dataset of information on ceiling fans as well as many other types of appliances. For context, this dataset shows that most fan models on the market today are between 1.2 – 1.5 m \[4 – 5 ft] in diameter, and presumably therefore aimed at the residential market, as illustrated in Figure 9, below.
 
-![Figure 9. Distribution of fan diameters in a random sample of the fans in the CEC MAEDbS database.](<../.gitbook/assets/1 (14).png>)
+![Figure 9. Distribution of fan diameters in a random sample of the fans in the CEC MAEDbS database.](<../.gitbook/assets/1 (26).png>)
 
 All other factors being equal, a larger diameter fan will produce greater airflow through the fan than a smaller diameter fan at the same rotational speed. Figure 10 shows a range of example fans of varying diameters and the range of possible airflows and rotational speeds at which those fans can operate. In general, higher airflow through the fan generally results in higher average air speeds in the space. Additionally, larger fan diameters increase the uniformity of air speeds throughout a space. Lastly, larger diameter fans increase the depth of the boundary layer of air moving along the floor in the spreading zone outside the fan blades. This figure also highlights the differences between fan models even if they have the same diameter. Comparing the Type G and Type F fans, of equal diameter (2.4 m \[8 ft]), it shows the range of performance varies by fan type. The Type G fan has a higher maximum airflow, a lower minimum airflow, and a higher rotational speed for any particular airflow.
 
@@ -135,10 +135,10 @@ The minimum rotational speed on fans with just 3 speed levels is typically still
 
 The amount of variation of the air speeds in a space is an important design consideration. Figure 18 below shows the measured air speeds in a cross section through a 5.5 x 5.5 m \[18 x 18 ft] room with a 1.5 m \[5 ft] diameter ceiling fan located at the center of the room. The airflow ‘jet’ from the fan immediately narrows to a slightly smaller diameter than the fan blades. The jet then impinges on the floor, creating a stagnation point, and then spreads radially outwards along the floor. Smaller diameter fans have a relatively shallow spreading zone. For the case shown below, the air speed in the spreading zone is still high along the floor at a distance of one fan diameter from the fan center. However, the air speeds are almost unaffected by the fan at a height of 0.5 to 0.7 m at the same location. In contrast, larger diameter fans have a deeper spreading zone. For fans at or above 3m \[10 ft] in diameter, the height of the spreading zone at a distance of one fan diameter from the fan center is approximately the height of an average person. However, large diameter fans have lower air speeds directly under the fan center, near the stagnation point. As Figure 19 shows, the larger the ratio of fan diameter to room size is, the more uniform the distribution of air speeds will be in the room.
 
-<figure><img src="../.gitbook/assets/10 (4).png" alt=""><figcaption><p>Figure 18. Example air speed distribution from a ceiling fan (<a href="https://doi.org/10.1016/j.buildenv.2017.08.029">Gao et al., 2017</a>).</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (5).png" alt=""><figcaption><p>Figure 18. Example air speed distribution from a ceiling fan (<a href="https://doi.org/10.1016/j.buildenv.2017.08.029">Gao et al., 2017</a>).</p></figcaption></figure>
 
 ![Figure 19. Air speeds over distance from the fan center (Raftery et al., 2019)
-](<../.gitbook/assets/11 (9).png>)
+](<../.gitbook/assets/11 (3).png>)
 
 ### IP rating, damp rated, and wet rated <a href="#_heading-h.sqyw64" id="_heading-h.sqyw64"></a>
 
@@ -166,7 +166,7 @@ Wi-Fi or Bluetooth Connectivity via Phone App or Internet: some fans have smartp
 
 Building automation system interface: some fans may also be controlled through building automation system interface. This approach may be ideal for applications where access to fan control needs to be limited to building management and maintenance staff, such as assembly and hospitality spaces.
 
-![Figure 20. Inappropriate examples of ceiling fan wall controls (Images courtesy Elaina Present).](<../.gitbook/assets/12 (3).png>)
+![Figure 20. Inappropriate examples of ceiling fan wall controls (Images courtesy Elaina Present).](<../.gitbook/assets/12 (5).png>)
 
 Figure 20 demonstrates some examples of wall mounted control for ceiling fan that are not particularly clear to the user. For example, the controls are not labelled as controlling the ceiling fan and as such are indistinguishable from a dimmable light switch in many cases. It is important to ensure that wall mounted fan controls are clearly visible to the occupant(s), located near the fan they control and near the thermostat in the room, intuitive (e.g., levels increase vertically from off to maximum speed), and clearly differentiated from other controls, like lighting controls.
 
