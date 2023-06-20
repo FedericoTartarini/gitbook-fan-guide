@@ -4,6 +4,8 @@ description: One page summary of the guidebook
 
 # Executive summary
 
+<figure><img src=".gitbook/assets/GraphicalAbstract-v4.jpg" alt=""><figcaption></figcaption></figure>
+
 Using fans alone or in coordination with HVAC systems to cool people offers several significant enhancements compared to conventional HVAC systems, including improved thermal comfort, indoor air quality, air distribution, energy savings, and initial cost savings.
 
 Despite the numerous benefits of fans and fan-integrated systems, comprehensive resources are unavailable to guide engineers and architects in designing and implementing such systems. The purpose of this guideline is to address this gap and provide building practitioners with valuable materials and answers to common questions.
