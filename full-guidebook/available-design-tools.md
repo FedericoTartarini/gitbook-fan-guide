@@ -18,7 +18,7 @@ To help determine optimal ceiling fan arrangements, you can use the free online 
 
 The CBE Ceiling Fan Design Tool takes into account many of the design factors discussed in the previous sections. For more details on how the tool functions, please consult the online [User Guide](https://github.com/CenterForTheBuiltEnvironment/fan-tool/wiki/User-Guide). However, it is important to highlight that the tool is mainly applicable for uniform design intent and does not consider the room layout or non-uniform demands that should be taken into consideration by the designer.
 
-![Figure 59. Example CBE Ceiling Fan Design Tool outputs.](<../.gitbook/assets/2 (14).png>)
+![Figure 59. Example CBE Ceiling Fan Design Tool outputs.](<../.gitbook/assets/2 (13).png>)
 
 
 

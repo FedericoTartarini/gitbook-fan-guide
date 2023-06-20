@@ -135,7 +135,7 @@ The minimum rotational speed on fans with just 3 speed levels is typically still
 
 The amount of variation of the air speeds in a space is an important design consideration. Figure 18 below shows the measured air speeds in a cross section through a 5.5 x 5.5 m \[18 x 18 ft] room with a 1.5 m \[5 ft] diameter ceiling fan located at the center of the room. The airflow ‘jet’ from the fan immediately narrows to a slightly smaller diameter than the fan blades. The jet then impinges on the floor, creating a stagnation point, and then spreads radially outwards along the floor. Smaller diameter fans have a relatively shallow spreading zone. For the case shown below, the air speed in the spreading zone is still high along the floor at a distance of one fan diameter from the fan center. However, the air speeds are almost unaffected by the fan at a height of 0.5 to 0.7 m at the same location. In contrast, larger diameter fans have a deeper spreading zone. For fans at or above 3m \[10 ft] in diameter, the height of the spreading zone at a distance of one fan diameter from the fan center is approximately the height of an average person. However, large diameter fans have lower air speeds directly under the fan center, near the stagnation point. As Figure 19 shows, the larger the ratio of fan diameter to room size is, the more uniform the distribution of air speeds will be in the room.
 
-<figure><img src="../.gitbook/assets/10 (5).png" alt=""><figcaption><p>Figure 18. Example air speed distribution from a ceiling fan (<a href="https://doi.org/10.1016/j.buildenv.2017.08.029">Gao et al., 2017</a>).</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (7).png" alt=""><figcaption><p>Figure 18. Example air speed distribution from a ceiling fan (<a href="https://doi.org/10.1016/j.buildenv.2017.08.029">Gao et al., 2017</a>).</p></figcaption></figure>
 
 ![Figure 19. Air speeds over distance from the fan center (Raftery et al., 2019)
 ](<../.gitbook/assets/11 (2).png>)
@@ -166,7 +166,7 @@ Wi-Fi or Bluetooth Connectivity via Phone App or Internet: some fans have smartp
 
 Building automation system interface: some fans may also be controlled through building automation system interface. This approach may be ideal for applications where access to fan control needs to be limited to building management and maintenance staff, such as assembly and hospitality spaces.
 
-![Figure 20. Inappropriate examples of ceiling fan wall controls (Images courtesy Elaina Present).](<../.gitbook/assets/12 (8).png>)
+![Figure 20. Inappropriate examples of ceiling fan wall controls (Images courtesy Elaina Present).](<../.gitbook/assets/12 (10).png>)
 
 Figure 20 demonstrates some examples of wall mounted control for ceiling fan that are not particularly clear to the user. For example, the controls are not labelled as controlling the ceiling fan and as such are indistinguishable from a dimmable light switch in many cases. It is important to ensure that wall mounted fan controls are clearly visible to the occupant(s), located near the fan they control and near the thermostat in the room, intuitive (e.g., levels increase vertically from off to maximum speed), and clearly differentiated from other controls, like lighting controls.
 
