@@ -11,7 +11,7 @@ In this section we discuss the thermal comfort related effects of increased air 
 
 Thermal comfort, here defined as the occupant’s satisfaction with the perceived thermal sensation, depends on how much heat is released or retained by the occupant’s body. [Human thermoregulation,](https://en.wikipedia.org/wiki/Thermoregulation\_in\_humans) as depicted in Figure 4, is the heat transfer process to and from the body that occur in four ways: radiation, convection, evaporation, and conduction.
 
-![Figure 4. Human body thermoregulation (i.e., heat gain and loss) pathways.](<../.gitbook/assets/1 (4).png>)
+![Figure 4. Human body thermoregulation (i.e., heat gain and loss) pathways.](<../.gitbook/assets/1 (3).png>)
 
 ## Thermal comfort factors <a href="#_toc137734939" id="_toc137734939"></a>
 
