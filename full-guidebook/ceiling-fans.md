@@ -14,7 +14,7 @@ Standard ceiling fan: any ceiling fan with a diameter greater than 45 cm \[18 in
 
 Large-diameter ceiling fan: any ceiling fan that is greater than 2.1 m \[7 ft] in diameter. These are often also known as High Volume Low Speed (HVLS) fans.
 
-Small-diameter ceiling fan: any ceiling fan that is more than 46 cm \[18 in] in diameter but less than or equal to 2.1 m \[7 ft] in diameter, and with an airflow of at least 0.87 m3/s \[1840 CFM] and a rotational speed of more than 1.5 Hz \[90 rpm] at its highest speed.
+Small-diameter ceiling fan: any ceiling fan that is more than 46 cm \[18 in] in diameter but less than or equal to 2.1 m \[7 ft] in diameter, and with an airflow of at least 0.87 m³/s \[1840 CFM] and a rotational speed of more than 1.5 Hz \[90 rpm] at its highest speed.
 
 High-speed small-diameter ceiling fan: any small-diameter ceiling fan that has a blade thickness of less than 3.2 mm \[12.6 in] at the edge or a maximum tip speed greater than the applicable limit specified in Table 1 below.
 
@@ -73,7 +73,7 @@ Several factors determine a ceiling fan’s performance, as well as its suitabil
 
 Ceiling fans are available in a wide range of diameters, from very small fans approximately 45 cm \[18 in] in diameter to very large fans up to 7m \[24 ft] in diameter. Determining the appropriate fan diameter depends largely on the dimensions of the space and the application, as discussed in more detail later in this guide. The California Energy Commission maintains the Modernized Appliance Efficiency Database System ([MAEDbS](https://www.energy.ca.gov/programs-and-topics/programs/appliance-efficiency-program-outreach-and-education/modernized)), which contains a large dataset of information on ceiling fans as well as many other types of appliances. For context, this dataset shows that most fan models on the market today are between 1.2 – 1.5 m \[4 – 5 ft] in diameter, and presumably therefore aimed at the residential market, as illustrated in Figure 9, below.
 
-![Figure 9. Distribution of fan diameters in a random sample of the fans in the CEC MAEDbS database.](<../.gitbook/assets/1 (29).png>)
+![Figure 9. Distribution of fan diameters in a random sample of the fans in the CEC MAEDbS database.](<../.gitbook/assets/1 (30).png>)
 
 All other factors being equal, a larger diameter fan will produce greater airflow through the fan than a smaller diameter fan at the same rotational speed. Figure 10 shows a range of example fans of varying diameters and the range of possible airflows and rotational speeds at which those fans can operate. In general, higher airflow through the fan generally results in higher average air speeds in the space. Additionally, larger fan diameters increase the uniformity of air speeds throughout a space. Lastly, larger diameter fans increase the depth of the boundary layer of air moving along the floor in the spreading zone outside the fan blades. This figure also highlights the differences between fan models even if they have the same diameter. Comparing the Type G and Type F fans, of equal diameter (2.4 m \[8 ft]), it shows the range of performance varies by fan type. The Type G fan has a higher maximum airflow, a lower minimum airflow, and a higher rotational speed for any particular airflow.
 
@@ -138,7 +138,7 @@ The amount of variation of the air speeds in a space is an important design cons
 <figure><img src="../.gitbook/assets/10 (1).png" alt=""><figcaption><p>Figure 18. Example air speed distribution from a ceiling fan (<a href="https://doi.org/10.1016/j.buildenv.2017.08.029">Gao et al., 2017</a>).</p></figcaption></figure>
 
 ![Figure 19. Air speeds over distance from the fan center (Raftery et al., 2019)
-](<../.gitbook/assets/11 (10).png>)
+](<../.gitbook/assets/11 (11).png>)
 
 ### IP rating, damp rated, and wet rated <a href="#_heading-h.sqyw64" id="_heading-h.sqyw64"></a>
 

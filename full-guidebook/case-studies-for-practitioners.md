@@ -6,7 +6,7 @@
 
 
 
-![](<../.gitbook/assets/1 (30).png>)
+![](<../.gitbook/assets/1 (23).png>)
 
 
 
