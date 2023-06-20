@@ -11,7 +11,7 @@ In this section we discuss the thermal comfort related effects of increased air 
 
 Thermal comfort, here defined as the occupant’s satisfaction with the perceived thermal sensation, depends on how much heat is released or retained by the occupant’s body. [Human thermoregulation,](https://en.wikipedia.org/wiki/Thermoregulation\_in\_humans) as depicted in Figure 4, is the heat transfer process to and from the body that occur in four ways: radiation, convection, evaporation, and conduction.
 
-![Figure 4. Human body thermoregulation (i.e., heat gain and loss) pathways.](<../.gitbook/assets/1 (3).png>)
+![Figure 4. Human body thermoregulation (i.e., heat gain and loss) pathways.](<../.gitbook/assets/1 (4).png>)
 
 ## Thermal comfort factors <a href="#_toc137734939" id="_toc137734939"></a>
 
@@ -32,4 +32,4 @@ Cooling effect is also used to calculate the Cooling Fan Efficiency (CFE). CFE i
 In addition to directly cooling occupants, fans also effectively mix the air in a space, which has several applications. The most common of these applications is where the temperatures in a space are unwantedly stratified, with warmer air close to the ceiling and cooler air near the floor (Figure 5). This typically occurs in spaces with high ceilings or where the heating equipment has a relatively high discharge temperature and low mixing momentum. In these conditions, ceiling fans can mix the air in the space such that the temperature at the floor (and near where the thermostat is located) is close to the average temperature in the space. This can save energy and improve occupant comfort. Ceiling fans are most effective to provide destratification, as they are located close to the ceiling and can run in either direction to achieve this mixing, although they will use more power to achieve the same mixing effect when operating in reverse (moving air upward) than forwards (moving air downward). Note that during destratification, the space is typically operating in heating mode and operating at the lower end of the range of temperatures that define the thermal comfort zone. As such it is very important to maintain very low air speeds in the occupied zone to avoid the sensation of draft. Depending on the specific conditions, the occupant locations, and the minimum speed capabilities of the fan, running the fan in forward or reverse may be better to achieve this goal.
 
 ![Figure 5. Ceiling fans (blowing upwards) for destratification.
-](<../.gitbook/assets/2 (7).png>)
+](<../.gitbook/assets/2 (13).png>)
