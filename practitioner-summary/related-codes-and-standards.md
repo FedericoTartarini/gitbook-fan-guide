@@ -10,7 +10,7 @@ This technical guide does not cover all codes and standards that are related to 
 
 Green Mark is a green building certification scheme established in Singapore to raise standards in energy performance and emphasis on other sustainability outcomes. [A Technical Guide of Green Mark for existing non-residential buildings (2017)](https://www1.bca.gov.sg/docs/default-source/docs-corp-buildsg/sustainability/green-mark-enrb-2017-technical-guide\_\(11feb2020\)-to-upload708672f9aeaf4cb58ceb01298bd1de70.pdf?sfvrsn=8ada0ddf\_0%E3%80%81) suggests the indoor temperature setpoint could maintain at 26 °C \[79 °F] or above if the space is designed with elevated air speed.&#x20;
 
-Check this [link](related-codes-and-standards.md#\_toc137824724) for details.
+Check this link for details.
 
 ## Ceiling fans testing regulations <a href="#_ceiling_fans_testing" id="_ceiling_fans_testing"></a>
 
