@@ -19,7 +19,7 @@
 * [Elevated air speed and thermal comfort](full-guidebook/elevated-air-speed-and-thermal-comfort.md)
 * [Human response to fans](full-guidebook/human-response-to-fans.md)
 * [Ceiling fans](full-guidebook/ceiling-fans.md)
-* [Other air movement devices](full-guidebook/other-air-movement-devices.md)
+* [Other fan types](full-guidebook/other-fan-types.md)
 * [Prior to elevated air movement design](full-guidebook/prior-to-elevated-air-movement-design.md)
 * [Ceiling fan installation and integration with HVAC system](full-guidebook/ceiling-fan-installation-and-integration-with-hvac-system.md)
 * [System design comparison: conventional AC vs ceiling fan integrated AC](full-guidebook/system-design-comparison-conventional-ac-vs-ceiling-fan-integrated-ac.md)
