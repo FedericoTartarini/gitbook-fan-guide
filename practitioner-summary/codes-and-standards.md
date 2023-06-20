@@ -1,3 +1,7 @@
+---
+description: Brief description of codes and standards
+---
+
 # Codes and standards
 
 This technical guide does not cover all codes and standards related to fans and air movement published worldwide, and it highlights only several commonly used materials for references and examples. It is also noted that the usage of these materials could be subjected to variations by countries. Users are advised to implement these materials with caution.

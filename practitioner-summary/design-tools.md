@@ -1,8 +1,8 @@
 ---
-description: List of available design tools
+description: Brief description of available design tools
 ---
 
-# Available design tools
+# Design tools
 
 ## CBE Thermal Comfort Tool <a href="#_toc137824721" id="_toc137824721"></a>
 

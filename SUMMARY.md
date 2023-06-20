@@ -20,15 +20,15 @@
 * [Human response to fans](full-guidebook/human-response-to-fans.md)
 * [Ceiling fans](full-guidebook/ceiling-fans.md)
 * [Other fan types](full-guidebook/other-fan-types.md)
-* [Prior to elevated air movement design](full-guidebook/prior-to-elevated-air-movement-design.md)
+* [Design goals and fan selection](full-guidebook/design-goals-and-fan-selection.md)
 * [Ceiling fan installation and integration with HVAC system](full-guidebook/ceiling-fan-installation-and-integration-with-hvac-system.md)
 * [System design comparison: conventional AC vs ceiling fan integrated AC](full-guidebook/system-design-comparison-conventional-ac-vs-ceiling-fan-integrated-ac.md)
 * [How to integrate fans in an existing AC system?](full-guidebook/how-to-integrate-fans-in-an-existing-ac-system.md)
+* [Design tools](full-guidebook/design-tools.md)
 * [Codes and standards](full-guidebook/codes-and-standards.md)
-* [Available design tools](full-guidebook/available-design-tools.md)
 * [Case studies for practitioners](full-guidebook/case-studies-for-practitioners.md)
 * [Case studies for researchers](full-guidebook/case-studies-for-researchers.md)
-* [Deep dive](full-guidebook/deep-dive.md)
+* [Deep dive on indoor air quality](full-guidebook/deep-dive-on-indoor-air-quality.md)
 
 ## About this work
 
