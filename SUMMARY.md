@@ -34,4 +34,4 @@
 
 * [Acknowledgment](about-this-work/acknowledgment.md)
 * [Version](about-this-work/version.md)
-* [To cite this work](about-this-work/to-cite-this-work.md)
+* [How to cite this work](about-this-work/how-to-cite-this-work.md)
