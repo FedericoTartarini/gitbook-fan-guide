@@ -2,11 +2,11 @@
 
 ## Coastal Biology Building
 
-![](<../.gitbook/assets/0 (36).png>)
+![](<../.gitbook/assets/0 (37).png>)
 
 
 
-![](<../.gitbook/assets/1 (27).png>)
+![](<../.gitbook/assets/1 (37).png>)
 
 
 
@@ -22,8 +22,8 @@
 
 ## Franco Center
 
-![](<../.gitbook/assets/4 (15).png>)
+![](<../.gitbook/assets/4 (16).png>)
 
 
 
-![](<../.gitbook/assets/5 (3).png>)
+![](<../.gitbook/assets/5 (13).png>)

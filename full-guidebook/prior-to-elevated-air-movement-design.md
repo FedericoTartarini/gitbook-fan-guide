@@ -14,7 +14,7 @@ In spaces where there are variable or transient occupancies, non-uniform thermal
 
 Design intent of “Uniformity” (i.e., more regular control) emphasizes uniform air speeds and consistent thermal comfort experience applied in multi-occupant spaces where occupants do not have flexibility to control fan or change their location, especially when occupants will be staying in those areas for extended periods. Uniform air speed and distribution are applied because there is no way of guaranteeing that the person who feels the warmest happens to be the one who is located where the air speeds are highest in the room. Examples here include a shared office with fixed assigned seats, classrooms, and allocated seating dining areas.
 
-![Figure 32. Flow chart of design intents for air speed and distribution.](<../.gitbook/assets/0 (37).png>)
+![Figure 32. Flow chart of design intents for air speed and distribution.](<../.gitbook/assets/0 (38).png>)
 
 Table 4. Recommended guidelines classified by design intents for fan applications.
 
