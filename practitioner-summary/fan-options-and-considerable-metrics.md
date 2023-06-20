@@ -50,7 +50,7 @@ Ceiling fans air speed is defined as the average air speed that passes through t
 The variation of the air speeds in a space is an important design consideration. Figure T2 demonstrates an example of air speeds distribution from a 1.5 m \[5 ft] diameter ceiling fan. The airflow ‘jet’ from the fan immediately narrows to a slightly smaller diameter than the fan blades. The jet then impinges on the floor, creating a stagnation point, and then spreads radially outwards along the floor. Away from the fan diameter and above the floor spreading zone, there is a still air zone where air speeds are almost unaffected. The depth of air spreading zone along the floor and its average air speed is dependent to the fan diameter: smaller fan (shallower) and larger fan (deeper). In general, larger diameter fans have lower air speeds directly under the fan centre (i.e., near the stagnation point), but the air speeds distribution is more uniform than the smaller diameter fans.
 
 ![Figure T2. Example air speed distribution from a ceiling fan (Gao et al., 2017).
-](<../.gitbook/assets/0 (10).png>)
+](<../.gitbook/assets/0 (11).png>)
 
 ### Fan operates in reverse direction <a href="#_toc137824696" id="_toc137824696"></a>
 
@@ -66,7 +66,7 @@ According to the US Department of Energy (DOE), ceiling fan efficacy is generall
 
 Meanwhile, the ceiling fan energy index (CFEI), a ratio of reference fan power input to actual fan power input, is a more reliable alternative in reflecting the above blind spot. It helps to make inefficient fans less likely to comply with slower speeds and to remove the unintentional barrier to compliance for high-performing high-utility fans by comparing fans to a standardized baseline. Taken the same example in Figure T3, CFEI at high fan speed for the left most and right most curve is, respectively, 0.63 (less efficient) and 1.72 (more efficient). See section “[Ceiling fans testing regulations](../full-guidebook/codes-and-standards.md#\_ceiling\_fans\_testing)” for more information.
 
-![Figure T3. Fan efficacy versus total airflow and power.](<../.gitbook/assets/1 (33).png>)
+![Figure T3. Fan efficacy versus total airflow and power.](<../.gitbook/assets/1 (11).png>)
 
 Generally, the ability of a fan to operate efficiently at lower speed improves as the diameter increases, but there is considerable variation in performance between models of fans with the same diameter. Fans with a lower turndown ratio (i.e., minimum fan speed divided by maximum fan speed) can be more flexible in different applications purpose.
 
