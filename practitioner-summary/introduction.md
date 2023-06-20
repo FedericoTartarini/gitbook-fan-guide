@@ -1,3 +1,7 @@
+---
+description: A summary of the main benefits of the use of fans
+---
+
 # Introduction
 
 This guide enables engineers, architects, and facility managers to maximize the many benefits of fans and integrating fans (also known as elevated air movement devices) into HVAC systems. It introduces the advantages of using fans, describes how they work, explains how to select them, and provides guidance and resources for designing spaces with fans in buildings.
