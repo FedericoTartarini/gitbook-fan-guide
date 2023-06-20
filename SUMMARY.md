@@ -10,8 +10,8 @@
 * [Design goals and fan selection](practitioner-summary/design-goals-and-fan-selection.md)
 * [Ceiling fan integration with HVAC system](practitioner-summary/ceiling-fan-integration-with-hvac-system.md)
 * [How to integrate fans in an existing AC system?](practitioner-summary/how-to-integrate-fans-in-an-existing-ac-system.md)
-* [Available design tools](practitioner-summary/available-design-tools.md)
-* [Related codes and standards](practitioner-summary/related-codes-and-standards.md)
+* [Design tools](practitioner-summary/design-tools.md)
+* [Codes and standards](practitioner-summary/codes-and-standards.md)
 
 ## Full Guidebook
 
