@@ -9,7 +9,7 @@
 * [Fan options and key characteristics](practitioner-summary/fan-options-and-key-characteristics.md)
 * [Design goals and fan selection](practitioner-summary/design-goals-and-fan-selection.md)
 * [Ceiling fan integration with HVAC system](practitioner-summary/ceiling-fan-integration-with-hvac-system.md)
-* [Practical transformation to fan integrated AC system](practitioner-summary/practical-transformation-to-fan-integrated-ac-system.md)
+* [How to integrate fans in an existing AC system?](practitioner-summary/how-to-integrate-fans-in-an-existing-ac-system.md)
 * [Available design tools](practitioner-summary/available-design-tools.md)
 * [Related codes and standards](practitioner-summary/related-codes-and-standards.md)
 
