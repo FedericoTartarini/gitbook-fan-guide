@@ -66,7 +66,7 @@ According to the US Department of Energy (DOE), ceiling fan efficacy is generall
 
 Meanwhile, the ceiling fan energy index (CFEI), a ratio of reference fan power input to actual fan power input, is a more reliable alternative in reflecting the above blind spot. It helps to make inefficient fans less likely to comply with slower speeds and to remove the unintentional barrier to compliance for high-performing high-utility fans by comparing fans to a standardized baseline. Taking the same example in Figure T3, CFEI at high fan speed for the leftmost and rightmost curve is, respectively, 0.63 (less efficient) and 1.72 (more efficient). See the section “[Ceiling fans testing regulations](../full-guidebook/codes-and-standards.md#\_ceiling\_fans\_testing)” for more information.
 
-![Figure T3. Fan efficacy versus total airflow and power.](<../.gitbook/assets/1 (22).png>)
+![Figure T3. Fan efficacy versus total airflow and power.](<../.gitbook/assets/1 (23).png>)
 
 Generally, the ability of a fan to operate efficiently at a lower speed improves as the diameter increases, but there is considerable variation in performance between models of fans with the same diameter. Fans with a lower turndown ratio (i.e., minimum fan speed divided by maximum fan speed) can be more flexible for different applications.
 
@@ -87,7 +87,7 @@ Airflow patterns from different devices can be varied by fan size, blade types, 
 For fans that intend for direct cooling towards the human body, customers tend to select a stronger fan that can produce more airflow and faster air speed. However, in some situations (e.g., operating the fan together with air-conditioning), the occupants do not require air movement that is too strong. Therefore, choosing a fan with a possible lower airflow turndown (minimum speed divided by maximum speed) capability could be the key to better comfort in terms of direct convective cooling. Meanwhile, if the function of a fan is used to circulate the air in a room, the fan selection approach should be either bigger in size (i.e., produce more airflow) or able to generate a high airflow jet with high speed to drive the in-room air. Figure T4 illustrates examples of airflow flow patterns for different fan types.
 
 ![Figure T4. Example airflow pattens for (a) desk fans, (b) pedestal fans, (c) tower fans, (d) wall mounted fangs, (e) bladeless ceiling fans, and (f) air circulators.
-](<../.gitbook/assets/2 (14).png>)
+](<../.gitbook/assets/2 (15).png>)
 
 ### Noise levels <a href="#_toc137824701" id="_toc137824701"></a>
 

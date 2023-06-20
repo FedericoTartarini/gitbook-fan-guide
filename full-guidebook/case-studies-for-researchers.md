@@ -42,7 +42,7 @@ Cooling effect is the temperature reduction (in °C or °F) perceived by the occ
 
 The room’s air speed magnitude and its distribution are affected by multiple ceiling fans operated simultaneously. Figure S4 shows the air speed contours when three fans were arranged linearly (left) or diagonally (right) with the same space. The three grey lines represent the air speed measurement horizontally every 0.2 m \[0.6 ft] and vertically at 0.1, 0.6, 1.1, and 1.7 m \[0.3, 2, 3.6, 5.6 ft] distance. For each fan arrangement (i.e., linear or diagonal), the average air speeds among the three sections and the percentage of low (< 0.3 m/s \[60 fpm]), medium (0.3 - 1.2 m/s \[60 - 240 fpm]), and high (> 1.2 m/s \[240 fpm]) air speed is presented. The results suggest multiple fans operated at diagonal layout could provide higher average air speed (0.54 m/s \[105 fpm]) and higher percentage of medium air speed (72.3 %), resulting in more uniformity of air speed than fans arranged at linear layout.
 
-![Figure S4 Air speed distribution for linear and diagonal ceiling fans operation layout.](<../.gitbook/assets/4 (15).png>)
+![Figure S4 Air speed distribution for linear and diagonal ceiling fans operation layout.](<../.gitbook/assets/4 (14).png>)
 
 ### Effects of furniture <a href="#_heading-h.11si5id" id="_heading-h.11si5id"></a>
 
@@ -74,7 +74,7 @@ Figure S7 summarizes the survey results on subjects’ thermal acceptability and
 
 A total of 78 % of occupants preferred “no change” in thermal conditions, implying they were considered adequate at 26 °C \[79 °F] with fans control. In conventional air-conditioned settings, i.e., 23 °C \[73 °F] without fans, 63 % of the respondents preferred a “warmer” working environment. This indicates conventional air conditioning setting could generate overcooling, as higher thermal unacceptability rate was found when compared to other conditions with ceiling fans. When air conditioning was turned off at 27 °C \[81 °F] indoor temperature, 54 % of the occupants preferred a “cooler” environment even when ceiling fans were in operation, showing a performance limitation, which means temperatures above 26 °C would decrease occupants’ comfort.
 
-![Figure S7. Subjective responses to thermal acceptability and thermal preference under three tested conditions.](<../.gitbook/assets/7 (12).png>)
+![Figure S7. Subjective responses to thermal acceptability and thermal preference under three tested conditions.](<../.gitbook/assets/7 (14).png>)
 
 ### Self-reported well-being <a href="#_heading-h.3z7bk57" id="_heading-h.3z7bk57"></a>
 
@@ -89,7 +89,7 @@ Table S2 presents the recorded daily electrical energy usage for the fan coil un
 
 Table S2 Daily consumption of electrical energy during the field study
 
-![](<../.gitbook/assets/9 (2).png>)
+![](<../.gitbook/assets/9 (1).png>)
 
 ### Insights from this study <a href="#_heading-h.thw4kt" id="_heading-h.thw4kt"></a>
 
@@ -113,7 +113,7 @@ The automated ceiling fans installed in this study were all integrated with brus
 
 Figure S10 shows an increased indoor temperature during the intervention (AC + fans) compared to the baseline period (AC only) period by an average of 1.9 °C \[3.4 °F] across all sites and all hours. Assuming ‘still air’ conditions during the baseline period (air speeds < 0.05 m/s \[10 fpm]), and air speeds up to 0.5 m/s \[100 fpm] in the intervention period, the respective comfort temperature ranges estimated from ASHRAE Standard 55 in typical office conditions are 22.2 - 25.6 °C \[72 - 78 °F] and 22.2 - 28.3 °C \[72 - 83 °F]. For the baseline period, 46 % of the hours from all sites (including unoccupied hours) were within the comfort temperature range, while 84 % of the hours in the intervention period with ceiling fans were within the comfort temperature range. This result suggests that occupants could be more comfortable in conditions where ceiling fans are operating together with air conditioning at a higher cooling setpoint.
 
-![Figure S10. Mean hourly indoor air temperature against outdoor temperature. Dashed lines on x and y axes represent medians, solid lines represent means.](<../.gitbook/assets/11 (4).png>)
+![Figure S10. Mean hourly indoor air temperature against outdoor temperature. Dashed lines on x and y axes represent medians, solid lines represent means.](<../.gitbook/assets/11 (3).png>)
 
 ### Subjects’ responses to thermal comfort <a href="#_heading-h.16x20ju" id="_heading-h.16x20ju"></a>
 
