@@ -24,19 +24,19 @@ Another common type of fan used on the floor is the tower fans. Unlike axial fan
 
 A wall mounted fan is basically a pedestal fan without a base that is mounted on the wall. Sometimes these fans may also mount to the ceiling. Yet, different from conventional ceiling fans, these “ceiling mounted” fan can oscillate in 180 °. It is a good choice to provide a breeze over the human body and enhance room air circulation when the space and floor-to-ceiling height is limited. Figure 22 shows some examples of wall mounted fans.
 
-![Figure 22. Examples of wall mounted fans.](<../.gitbook/assets/1 (20).png>)
+![Figure 22. Examples of wall mounted fans.](<../.gitbook/assets/1 (35).png>)
 
 ### Bladeless ceiling fan <a href="#_ref127806698" id="_ref127806698"></a>
 
 A bladeless ceiling fan operates as a centrifugal fan, differently from the conventional ceiling fan which uses an axial fan. In theory, bladeless ceiling fan is not bladeless, but a special design with many small blades installed at the fan’s circumference structure. The fan rotates the entire design structure, which draws air under the fan and hurls it out at the side from 360 °. These fans are intended to enhance air movement and air circulation within a small space, such as living room and bedroom. Figure 23 demonstrates some examples of bladeless ceiling fans. They are less common than other fan types. The installation requirement is similar to ceiling fan with blades, but the bladeless ceiling fans do not require a minimum mounting height to prevent “air choking”, which they are suitable to be installed in a space with low floor-to-ceiling height.
 
-![Figure 23. Examples of bladeless ceiling fans.](<../.gitbook/assets/2 (3).jpeg>)
+![Figure 23. Examples of bladeless ceiling fans.](<../.gitbook/assets/2 (1).jpeg>)
 
 ### Air circulator <a href="#_toc137734971" id="_toc137734971"></a>
 
 Air circulators aim to provide a high velocity air jet to circulate air and keep air moving continuously in the room. The strong air movement is not intended to directly be blown towards the human body, but to initiate air circulation. Depending on the brand, the air circulator diameter range is between 23-40 cm \[9-16 in]. Such fans are ideal for air circulation in small rooms, such as bedrooms and enclosed offices. An extra-large air circulator about 50 to 76 cm \[20-30 in] in diameter, also known as the drum blowers, with durable metal construction, can deliver extra high velocity airflow. These heavy-duty air circulators are ideal for warehouses, industrial workshops and loading docks. Figure 24 illustrates some examples of air circulators.
 
-![Figure 24. Examples of air circulators.](../.gitbook/assets/3.jpeg)
+![Figure 24. Examples of air circulators.](<../.gitbook/assets/3 (1).jpeg>)
 
 ## Fan selection considerations <a href="#_toc137734972" id="_toc137734972"></a>
 
@@ -82,7 +82,7 @@ $$
 
 Due to different designs and usage, the performance of cooling fans (e.g., ceiling fan, desk fan, tower fan) with regards to their cooling effect and cooling efficiency can be varied. Figure 25 demonstrates the test results on some ceiling fans, desk fans, tower fans, and standing fans to depict their relationship between CFE and fan power. The desk fan tested in this study consumed the least power (16 – 20 W) and obtained the highest cooling fan efficiency (0.095-0.177 °C/W \[0.17-0.31 °F/W]). The results are interpreted upon normal condition usage of fans, meaning that the desk fan is smaller in size (i.e., smaller motor) and the fan operation distance is closer to human subject (maximize cooling effect) when compared with other fan types. Indeed, desk fans are designed to provide local cooling by generating airflow towards the human body instead of circulating air for the entire space (like the other fans do). Eventually, the intent of fan usage (local cooling vs air circulation) should have been taken into consideration when quantifying the fan effectiveness. While the efficiency of the fan itself is somewhat important, any fan’s electricity consumption (even not the most efficient type) is always relatively low when compared to using just air-conditioning to provide thermally comfortable conditions to humans. More details are discussed in the section “Potential savings” in this guide.
 
-![Figure 25. CFE index versus fan power for the ceiling fan (CF), desk fan (DF) standing fan (SF) and tower fan (TF). Lines with constant whole-body cooling effect (∆teq) are plotted.](<../.gitbook/assets/5 (9).png>)
+![Figure 25. CFE index versus fan power for the ceiling fan (CF), desk fan (DF) standing fan (SF) and tower fan (TF). Lines with constant whole-body cooling effect (∆teq) are plotted.](<../.gitbook/assets/5 (17).png>)
 
 ### Motor and drive <a href="#_toc137734976" id="_toc137734976"></a>
 
@@ -96,11 +96,11 @@ There is no existing requirement or standard on typical air speed for the air mo
 
 Direct cooling towards human body: When choosing an air movement device, customers tend to select a stronger fan which can produce more airflow and faster air speed. While it is true that bigger and stronger fans can provide better cooling effect, the question is do we really need that much air movement if the fan is intended to operate close to us? The fact is, sometimes we may experience too strong air movement from a nearby fan blowing toward our body, even though it is working at the lowest available fan speed. Figure 26a shows the environment is thermally comfortable if the surrounding air speed is 0.5 m/s \[98 fpm]. A cooling effect of 2.8 °C \[5 °F] means that, with current thermal condition, the subject is actually feeling 2.8 °C \[5 °F] lower than the actual temperature (equivalent to 23.2 °C \[73.8 °F]). If the fan is placed closer to the occupant, or the air speed is increased to 0.8 m/s \[157 fpm]. Keeping other thermal parameters unchanged, Figure 26b suggests a cooling effect of 3.5 °C \[6.3 °F], where the occupant became slightly cool and outside the thermal comfort zone. This example demonstrates that choosing a fan with possible lower airflow turndown (minimum speed divided by maximum speed) capability could be the key for better comfort in terms of direct convective cooling. Figure 27 illustrates the airflow examples for desk fan, pedestal fan, tower fan, and wall mounted. The oscillating function of these fans helps to deliver air movement at a wider coverage range and to minimize the risk of unwanted draft from long term spot cooling.
 
-![Figure 26. Demonstration of thermal comfort condition and corresponding cooling effect.](<../.gitbook/assets/6 (9).png>)
+![Figure 26. Demonstration of thermal comfort condition and corresponding cooling effect.](<../.gitbook/assets/6 (11).png>)
 
 
 
-![Figure 27. Illustration of airflow patterns for (a) desk fan, (b) pedestal fan, (c) tower fan, and (d) wall-mounted fan.](<../.gitbook/assets/7 (3).png>)
+![Figure 27. Illustration of airflow patterns for (a) desk fan, (b) pedestal fan, (c) tower fan, and (d) wall-mounted fan.](<../.gitbook/assets/7 (8).png>)
 
 Room air circulation: An air movement device that aims to circulate the air within a room is either bigger in size (i.e., ceiling fan, bladeless ceiling fan) or able to generate high airflow jet with high speed (i.e., air circulator) to drive the air movement.
 
@@ -122,7 +122,7 @@ Most of the fan types listed in Table 2 can oscillate horizontally in a range of
 
 Some fans are equipped with technologies that enable them with special features. Some tower fans and bladeless fans are equipped with multiple filters, contributing to air purification. Particulate matter and sometimes gases in the air can be filtered out and cleaner air will be circulated within the space. Different types of filters can remove various kinds of contaminant. Some special fan models are installed with UV-C (i.e., germicidal UV) light inside the fan framework to disinfect the air during circulation process. UV-C is effective at deactivating viruses, bacteria, mold, and fungus. Some fan models can emit water mist that moves along with the air stream to reduce its temperature thanks to the adiabatic cooling (evaporative cooling) process. Figure 30 presents an example of a pedestal fan with evaporative cooling function.
 
-![Figure 30. Pedestal fan with evaporative cooling.](<../.gitbook/assets/10 (5).jpeg>)
+![Figure 30. Pedestal fan with evaporative cooling.](<../.gitbook/assets/10 (2).jpeg>)
 
 ## Controls <a href="#_toc137734980" id="_toc137734980"></a>
 
@@ -130,4 +130,4 @@ Compared with ceiling fan, other fan types listed in Table 2 are mostly portable
 
 Control panel on fan body: Most portable fans are equipped with a control panel on the fan body (See Figure 31a). It shows a simple On / Off plus fan speed control button, and a rotary switch connected with the watch spring to provide basic timer control (i.e., after how long the fan will be switched off automatically). Wireless IR remote control: Many modern fan types can be wirelessly controlled by an IR remote. Figure 31b shows an example of the remote control. Basically, it can adjust the on / off switch, fan speeds, vertical or horizontal oscillation, and set timer. Some remote controls may even be able to control other special functions if the corresponding fan has corresponding features, such as lighting switch. Wi-Fi or Bluetooth control via phone App or Internet: Wireless control via phone App or internet is very similar to the IR remote control approach but uses a smart phone instead of a remote control. Figure 31c presents an example of Wi-Fi connection via smart phone.
 
-![Figure 31. Manual fan control method. (a) Control panel on fan body, (b) IR wireless remote control, (c) Wi-Fi control via smart phone.](<../.gitbook/assets/11 (9).png>)
+![Figure 31. Manual fan control method. (a) Control panel on fan body, (b) IR wireless remote control, (c) Wi-Fi control via smart phone.](<../.gitbook/assets/11 (6).png>)
