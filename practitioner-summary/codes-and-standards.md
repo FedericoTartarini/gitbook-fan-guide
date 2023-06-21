@@ -1,5 +1,5 @@
 ---
-description: Brief description of codes and standards
+description: Overview of codes and standards
 ---
 
 # Codes and standards

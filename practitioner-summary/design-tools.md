@@ -1,5 +1,5 @@
 ---
-description: Brief description of available design tools
+description: Overview of available design tools
 ---
 
 # Design tools
