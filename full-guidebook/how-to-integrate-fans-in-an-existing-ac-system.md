@@ -1,3 +1,7 @@
+---
+description: Do you know how to enhance user acceptable to fans integrated AC system?
+---
+
 # How to integrate fans in an existing AC system?
 
 Fans can be added to an existing AC system to save energy and increase comfort. Besides the aspect related to the system's design, it is also important to consider how the new fans are introduced in the space and how the temperature setpoints are increased.&#x20;
@@ -16,6 +20,6 @@ Several studies have suggested that occupants can have a higher tolerance to the
 
 A key part of the success of any fan installation is ensuring that occupants understand the purpose and use of the fans given that, in some context is a novel solution. Presenting the changes clearly to the occupants is very important, so they can be informed on how to use the new equipment and why modifications are being proposed. In cases with regular occupants (as opposed to spaces with transient occupants such as lobbies or event spaces) who do not have direct control over the fan operation, occupants should be informed about the purpose and operation of the ceiling fans. Ideally, spaces where occupants do not have direct control over fan operation, should also allow for flexibility so that occupants may find a location within the space that best suits their comfort preferences. In applications where occupants have access to fan controls, it is also helpful to post information or instructions encouraging occupants to adjust ceiling fan settings when they are too warm rather than resorting to reducing thermostat setpoints. Figure 56 shows an example of an information plaque with basic recommendations for user control.
 
-![Figure 56. Example of information plaque for occupant interface and control recommendations.](<../.gitbook/assets/0 (18).png>)
+![Figure 56. Example of information plaque for occupant interface and control recommendations.](<../.gitbook/assets/0 (9).png>)
 
 ## &#x20;<a href="#_toc137735013" id="_toc137735013"></a>

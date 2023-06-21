@@ -23,7 +23,7 @@
 * [Design goals and fan selection](full-guidebook/design-goals-and-fan-selection.md)
 * [Ceiling fan installation and integration with HVAC system](full-guidebook/ceiling-fan-installation-and-integration-with-hvac-system.md)
 * [System design comparison: conventional AC vs ceiling fan integrated AC](full-guidebook/system-design-comparison-conventional-ac-vs-ceiling-fan-integrated-ac.md)
-* [Practical implementation of fans integrated AC design](full-guidebook/practical-implementation-of-fans-integrated-ac-design.md)
+* [How to integrate fans in an existing AC system?](full-guidebook/how-to-integrate-fans-in-an-existing-ac-system.md)
 * [Design tools](full-guidebook/design-tools.md)
 * [Codes and standards](full-guidebook/codes-and-standards.md)
 * [Case studies for practitioners](full-guidebook/case-studies-for-practitioners.md)
