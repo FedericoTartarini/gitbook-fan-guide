@@ -10,7 +10,7 @@ A helpful tool to find comfort zones at elevated air speeds according to ASHRAE 
 
 The user enters temperature, air speed, humidity, metabolic rate and clothing level into the tool to calculate results including PMV, SET, and ASHRAE 55 compliance as well as generating the graph below in Figure 57. The blue shaded area represents the ASHRAE 55 compliance comfort zone while the red mark shows where the user inputs are relative to the comfort zone. The tool also supports compliance to the European thermal comfort standard EN 16798; however, this standard does not include the calculation adjustment for convection effect included on ASHRAE 55, being less favorable to estimate increased air speed effect.
 
-![Figure 57. Example of the CBE Thermal Comfort Tool, showing user inputs, psychometric chart, and results.](<../.gitbook/assets/0 (32).png>)
+![Figure 57. Example of the CBE Thermal Comfort Tool, showing user inputs, psychometric chart, and results.](<../.gitbook/assets/0 (33).png>)
 
 The CBE Thermal Comfort Tool also takes into account elevated air speeds. As the air speeds increase, the range of acceptable temperatures increases, and the blue shaded area shifts to the right. Using higher air speeds allows the user to ASHRAE 55 compliance at higher cooling temperature setpoints. Note that Standard 55 has a maximum average air speed permitted in the case that occupants do not have control over the system (0.8 m/s \[160 fpm]). This can be specified as an input in the Thermal Comfort Tool as well. To support this functionality, users can also select the “air speed vs. operative air temperature” mode from the drop-down menu above the chart to view the comfort range and results in terms of air speed and temperature (see Figure 58).
 

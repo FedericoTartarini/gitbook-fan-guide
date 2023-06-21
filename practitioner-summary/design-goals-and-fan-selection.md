@@ -10,7 +10,7 @@ Fans are effective for comfort cooling, and air circulation. However, fan applic
 
 Figure T5 outlines the key considerations for defining the fan design igoals, including personal control, targeted, variability, and uniformity. “Personal control” design emphasizes the goal of the fan system to provide thermal comfort for a single occupant, while the adjustment of fans is unlikely affecting the others. “Variability” has its advantage at multi-occupant space where occupants have the flexibility to adjust fan operation based on their desired thermal comfort needs, or they are free to move around and choose their preferable locations or thermal conditions. In spaces where there is variable or transient occupancies, non-uniform thermal conditions, or spaces with specific thermal requirements due to architectural features or activity levels, “Targeted” air movement may provide more comfort. Lastly, “Uniformity” (i.e., more regular control) emphasizes uniform air speeds and consistent thermal comfort experience applied in multi-occupant spaces where occupants do not have the flexibility to control fan or change their location, especially when occupants will be staying in those areas for extended periods.
 
-![Figure T5. Flow chart of design intent for air speed and distribution.](<../.gitbook/assets/0 (17).png>)
+![Figure T5. Flow chart of design intent for air speed and distribution.](<../.gitbook/assets/0 (18).png>)
 
 ## Fan selection <a href="#_toc137824706" id="_toc137824706"></a>
 

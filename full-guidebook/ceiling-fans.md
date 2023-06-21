@@ -55,7 +55,7 @@ The number of blades is an important factor in increasing airflow of ceiling fan
 Similarly, increasing the blade’s angle may also increase airflow at the cost of energy efficiency. Academic modeling studies have found the optimal blade angle to be 8-10 ° for residential fans. Manufacturers recommend 12-15 °. Some airfoil-style blades also vary the blade angle over the length of the fan blade, with steeper angles toward the center of the fan to maximize airflow for the low blade speed in this region and reducing to shallower angles toward the tips where the blade speed is high to limit drag and maximize energy efficiency.
 
 ![Figure 8. Ceiling Fan Blade Types.
-](<../.gitbook/assets/0 (30).png>)
+](<../.gitbook/assets/0 (32).png>)
 
 ### Motor and drives <a href="#_toc137734950" id="_toc137734950"></a>
 
@@ -79,7 +79,7 @@ All other factors being equal, a larger diameter fan will produce greater airflo
 
 For any particular fan, airflow is linear with rotational speed, as Figure 10 also shows. Additionally, the air speed at any point in the space is also directly linear with fan rotational speed. So, if a point in the room measures 0.5 m/s \[100 fpm] when the fan is rotating at 1.3 Hz \[80 rpm], it will measure approximately 0.25 m/s \[50 fpm] at 0.7 Hz \[40 rpm]. This relationship begins to break down at very low air speed, very low rotational speeds, or where the fan blade height is unusually far from the floor (e.g., > 3 m \[10 ft]).
 
-![Figure 10. Fan rotation speed and fan airflow for fans of varying diameters.](<../.gitbook/assets/2 (2).jpeg>)
+![Figure 10. Fan rotation speed and fan airflow for fans of varying diameters.](<../.gitbook/assets/2 (3).jpeg>)
 
 ### Power and fan efficacy <a href="#_heading-h.37m2jsg" id="_heading-h.37m2jsg"></a>
 
@@ -138,7 +138,7 @@ The amount of variation of the air speeds in a space is an important design cons
 <figure><img src="../.gitbook/assets/10 (1).png" alt=""><figcaption><p>Figure 18. Example air speed distribution from a ceiling fan (<a href="https://doi.org/10.1016/j.buildenv.2017.08.029">Gao et al., 2017</a>).</p></figcaption></figure>
 
 ![Figure 19. Air speeds over distance from the fan center (Raftery et al., 2019)
-](<../.gitbook/assets/11 (2).png>)
+](<../.gitbook/assets/11 (7).png>)
 
 ### IP rating, damp rated, and wet rated <a href="#_heading-h.sqyw64" id="_heading-h.sqyw64"></a>
 
