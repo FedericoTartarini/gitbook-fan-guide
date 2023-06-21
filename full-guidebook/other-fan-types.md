@@ -1,3 +1,9 @@
+---
+description: >-
+  Other than ceiling fans, what are the other common fan options available in
+  the market and their corresponding selection considerations?
+---
+
 # Other fan types
 
 While the benefits of elevated air movement by ceiling fans are acknowledged, places with lower floor-to-ceiling height or a ceiling with compacted fixtures could be limited for ceiling fan installation. This limitation can be mitigated by using other air movement devices.
@@ -30,7 +36,7 @@ A wall-mounted fan is a pedestal fan without a base mounted on the wall. Sometim
 
 A bladeless ceiling fan operates as a centrifugal fan, unlike the conventional ceiling fan which uses an axial fan. In theory, a bladeless ceiling fan is not bladeless but a special design with many small blades installed at the fan’s circumference structure. The fan rotates the entire design structure, which draws air under the fan and hurls it out at the side from 360 °. These fans are intended to enhance air movement and air circulation within a small space, such as a living room or bedroom. Figure 23 demonstrates some examples of bladeless ceiling fans. They are less common than other fan types. The installation requirement is similar to a ceiling fan with blades, but the bladeless ceiling fans do not require a minimum mounting height to prevent “air choking”, which means they are suitable to be installed in a space with low floor-to-ceiling height.
 
-![Figure 23. Examples of bladeless ceiling fans.](<../.gitbook/assets/2 (3).jpeg>)
+![Figure 23. Examples of bladeless ceiling fans.](<../.gitbook/assets/2 (2).jpeg>)
 
 ### Air circulator <a href="#_toc137734971" id="_toc137734971"></a>
 
@@ -110,7 +116,7 @@ The airflow pattern of bladeless ceiling fan is quite similar to a reversely ope
 
 An air circulator intends to produce a high-speed strong air jet to move air from one side of the room to the other. Figure 29 presents a schematic representation of the airflow pattern for an air circulator in an enclosed room. Similarly, this strategy aims to move the air to increase the average air speed and to enhance air mixing in space. Thus, the air circulation effectiveness also works better in small to medium size rooms. Different from the bladeless ceiling fan approach, however, air jet from the air circulator is freely adjustable within the occupied zone. Basically, the air circulator can reduce the fan speed, temporally act as a desk fan, or pedestal fan blowing air directly towards human body for immediate cooling. In addition, to enhance long distance air movement, some air circulator’s fan blades are modified to a propeller (or turbine) type. Instead of moving air parallel to the fan axial, it drives the air in form of a vortex which propagates along the fan axial. This feature helps to centralize the airflow across longer distance and to drag surrounding air towards the propagation of air stream to maximize the airflow rate. The air movement distance from an air circulator is much longer when compared with normal desk or pedestal fan with a flat blade.
 
-![Figure 29. Schematic of airflow pattern driven by air circulator.](<../.gitbook/assets/9 (9).png>)
+![Figure 29. Schematic of airflow pattern driven by air circulator.](<../.gitbook/assets/9 (6).png>)
 
 ### Flexibility <a href="#_toc137734978" id="_toc137734978"></a>
 
@@ -130,4 +136,4 @@ Compared with ceiling fan, other fan types listed in Table 2 are mostly portable
 
 Control panel on fan body: Most portable fans are equipped with a control panel on the fan body (See Figure 31a). It shows a simple On / Off plus fan speed control button, and a rotary switch connected with the watch spring to provide basic timer control (i.e., after how long the fan will be switched off automatically). Wireless IR remote control: Many modern fan types can be wirelessly controlled by an IR remote. Figure 31b shows an example of the remote control. Basically, it can adjust the on / off switch, fan speeds, vertical or horizontal oscillation, and set timer. Some remote controls may even be able to control other special functions if the corresponding fan has corresponding features, such as lighting switch. Wi-Fi or Bluetooth control via phone App or Internet: Wireless control via phone App or internet is very similar to the IR remote control approach but uses a smart phone instead of a remote control. Figure 31c presents an example of Wi-Fi connection via smart phone.
 
-![Figure 31. Manual fan control method. (a) Control panel on fan body, (b) IR wireless remote control, (c) Wi-Fi control via smart phone.](<../.gitbook/assets/11 (6).png>)
+![Figure 31. Manual fan control method. (a) Control panel on fan body, (b) IR wireless remote control, (c) Wi-Fi control via smart phone.](<../.gitbook/assets/11 (7).png>)

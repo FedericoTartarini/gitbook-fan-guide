@@ -20,7 +20,7 @@ Table S1. Tested buildings and ceiling fans information.
 
 The height averaged air speed superimposed on floor plans with the ceiling fan layout and furniture in the 4 buildings (see Figure S1). In general, higher air speeds were found under or near the downward operating ceiling fan and decreased proportionally to the distance from the fans. Potential factors that vary the air speed are fan diameter, number of fans in operation, distance from ceiling fan centers, fan rotational speed, and fan operation direction.
 
-![Figure S1. Floor plan and air speed distribution in the 4 tested buildings. The magnitude of air speed at each site is averaged by heights.](<../.gitbook/assets/1 (11).png>)
+![Figure S1. Floor plan and air speed distribution in the 4 tested buildings. The magnitude of air speed at each site is averaged by heights.](<../.gitbook/assets/1 (10).png>)
 
 ### Flow direction, rotational speed, and fan number <a href="#_heading-h.1nia2ey" id="_heading-h.1nia2ey"></a>
 
@@ -74,7 +74,7 @@ Figure S7 summarizes the survey results on subjects’ thermal acceptability and
 
 A total of 78 % of occupants preferred “no change” in thermal conditions, implying they were considered adequate at 26 °C \[79 °F] with fans control. In conventional air-conditioned settings, i.e., 23 °C \[73 °F] without fans, 63 % of the respondents preferred a “warmer” working environment. This indicates conventional air conditioning setting could generate overcooling, as higher thermal unacceptability rate was found when compared to other conditions with ceiling fans. When air conditioning was turned off at 27 °C \[81 °F] indoor temperature, 54 % of the occupants preferred a “cooler” environment even when ceiling fans were in operation, showing a performance limitation, which means temperatures above 26 °C would decrease occupants’ comfort.
 
-![Figure S7. Subjective responses to thermal acceptability and thermal preference under three tested conditions.](<../.gitbook/assets/7 (13).png>)
+![Figure S7. Subjective responses to thermal acceptability and thermal preference under three tested conditions.](<../.gitbook/assets/7 (11).png>)
 
 ### Self-reported well-being <a href="#_heading-h.3z7bk57" id="_heading-h.3z7bk57"></a>
 
@@ -89,7 +89,7 @@ Table S2 presents the recorded daily electrical energy usage for the fan coil un
 
 Table S2 Daily consumption of electrical energy during the field study
 
-![](<../.gitbook/assets/9 (2).png>)
+![](<../.gitbook/assets/9 (3).png>)
 
 ### Insights from this study <a href="#_heading-h.thw4kt" id="_heading-h.thw4kt"></a>
 
@@ -113,13 +113,13 @@ The automated ceiling fans installed in this study were all integrated with brus
 
 Figure S10 shows an increased indoor temperature during the intervention (AC + fans) compared to the baseline period (AC only) period by an average of 1.9 °C \[3.4 °F] across all sites and all hours. Assuming ‘still air’ conditions during the baseline period (air speeds < 0.05 m/s \[10 fpm]), and air speeds up to 0.5 m/s \[100 fpm] in the intervention period, the respective comfort temperature ranges estimated from ASHRAE Standard 55 in typical office conditions are 22.2 - 25.6 °C \[72 - 78 °F] and 22.2 - 28.3 °C \[72 - 83 °F]. For the baseline period, 46 % of the hours from all sites (including unoccupied hours) were within the comfort temperature range, while 84 % of the hours in the intervention period with ceiling fans were within the comfort temperature range. This result suggests that occupants could be more comfortable in conditions where ceiling fans are operating together with air conditioning at a higher cooling setpoint.
 
-![Figure S10. Mean hourly indoor air temperature against outdoor temperature. Dashed lines on x and y axes represent medians, solid lines represent means.](<../.gitbook/assets/11 (2).png>)
+![Figure S10. Mean hourly indoor air temperature against outdoor temperature. Dashed lines on x and y axes represent medians, solid lines represent means.](<../.gitbook/assets/11 (3).png>)
 
 ### Subjects’ responses to thermal comfort <a href="#_heading-h.16x20ju" id="_heading-h.16x20ju"></a>
 
 To verify the occupants’ actual thermal comfort perception, subjective surveys were conducted in one out of the four sites before and after the installation of ceiling fans. Subjects responded to the thermal comfort question in a 5-point Likert scale: Too warm, comfortably warm, comfortable, comfortably cool, and too cool. Any responses given to the middle three scales are considered comfortable. The results in Figure S11 suggest 82 % of the occupants found themselves comfortable at 22 °C (72 °F) indoor temperature with air conditioning. The percentage of comfortable occupants increased to 93 % in the intervention period where air conditioning was operating at 26 °C \[79 °F] setpoint temperature together with ceiling fans. This result gives evidence that the intervention could enhance subjects’ thermal comfort compared to the condition operated only with air conditioning.
 
-![Figure S11 Thermal comfort survey responses at one site before and after retrofit.](<../.gitbook/assets/12 (7).png>)
+![Figure S11 Thermal comfort survey responses at one site before and after retrofit.](<../.gitbook/assets/12 (6).png>)
 
 ### HVAC power consumption <a href="#_heading-h.3qwpj7n" id="_heading-h.3qwpj7n"></a>
 

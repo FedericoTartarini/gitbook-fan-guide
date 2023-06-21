@@ -1,3 +1,9 @@
+---
+description: >-
+  Are you familiar with the designation, selection, installation, and operation
+  of ceiling fans when integrated with the HVAC systems?
+---
+
 # Ceiling fan installation and integration with HVAC system
 
 Ceiling fan requires the most attention regarding its design, installation, and operation when compared with the portable counterparts (e.g., desk fan, pedestal fan). On the other hand, it presents the biggest opportunities for integration with the HVAC system design and operation for cost and energy savings. Additionally, incorporating ceiling fans into the design for new construction projects can generate substantial net first cost savings. Therefore, this section discusses the installation requirements of ceiling fans in buildings and the design and operation approaches when integrating with the HVAC system.
@@ -80,7 +86,7 @@ Strobing and flicker can also occur when ceiling fans interact with daylight tra
 
 There are many adverse effects that are caused by visual flicker. Increased visual discomfort was an overt consequence from a design layout that followed current recommendations in a recent study. Short-term exposure (i.e., about 10-minutes) to flicker from the configuration, shown in Figure 43, made it hard for people to concentrate, which lowered their mental performance ([Kent et al., 2020](https://doi.org/10.1016/j.buildenv.2020.107060)). This could hinder learning in schools or reduce productivity in offices. Under a longer exposure time, like daily working conditions, and for populations highly sensitive to flicker (e.g., photosensitive people), the effects of flicker caused from ceiling fans may be exacerbated.
 
-![Figure 43. An experimental setup that had followed the design recommendations to remove flicker when using a ceiling fan and recess lighting. The sectional view (a) shows that the blade does not overlap with the light fixture, but the perspective view (b) from a desk shows flicker can be seen.](<../.gitbook/assets/9 (1).png>)
+![Figure 43. An experimental setup that had followed the design recommendations to remove flicker when using a ceiling fan and recess lighting. The sectional view (a) shows that the blade does not overlap with the light fixture, but the perspective view (b) from a desk shows flicker can be seen.](<../.gitbook/assets/9 (2).png>)
 
 Not all buildings that use ceiling fans and recess lighting together will produce flicker. This mainly concerns smaller spaces, where the risk of the two technologies interacting with each other is higher. Designers should distribute ceiling fans and electric lights to achieve the desired air-movement and illuminance level while avoiding issues that lead to visual or thermal discomfort. When there are risks of strobing and flicker caused by ceiling fans, some alternatives solutions can be suggested.
 
@@ -106,7 +112,7 @@ Ceiling fans can be directly implemented to existing air-conditioned buildings w
 
 The function of diffusers and branch ducting in conventional HVAC system is to distribute conditioned air evenly through indoor space, especially for the areas that are away from the main supply air duct. The same purpose, however, can be achieved by operating ceiling fans, meaning that the diffusers and branch ducting could be reduced or completely removed.
 
-![Figure 45. Ceiling fan integrated side-wall air supply air-conditioning system.](<../.gitbook/assets/11 (3).jpeg>)
+![Figure 45. Ceiling fan integrated side-wall air supply air-conditioning system.](<../.gitbook/assets/11 (2).jpeg>)
 
 Figure 45 demonstrates a new approach on how HVAC system integrates with ceiling fans. The cool air is supplied from a high-sidewall vent directly towards the center of the space. Then the ceiling fan mixes the supplied cool air with the room air and distributes it over the indoor space. The immediate benefit of such HVAC – ceiling fans integrated system is the reduction of unnecessary duct work on the ceiling, thereby saving significant amount of costs on the initial construction and continuous maintenance. Further discussion on cost saving with a case study will be demonstrated in the later section of this guide. Secondly, without a false ceiling and extra ducting on top, the ceiling fan is operated more safely and effectively due to maximized mounting height and sufficient clearances between the ceiling and fan blades, especially for a space with limited floor to ceiling distance.
 
@@ -114,7 +120,7 @@ In such a system, the cool supply air would best be fed through the fan (i.e., a
 
 This approach has been studied for cooling conditions. In heating, the fan may be used in reverse mode but there is no available knowledge about its performance, therefore caution should be used.
 
-![Figure 46. Air temperature variation profile for side-wall air supply at fan blade height and above fan blade height.](<../.gitbook/assets/12 (6).png>)
+![Figure 46. Air temperature variation profile for side-wall air supply at fan blade height and above fan blade height.](<../.gitbook/assets/12 (5).png>)
 
 ### Radiant heating and cooling <a href="#_heading-h.1tuee74" id="_heading-h.1tuee74"></a>
 
