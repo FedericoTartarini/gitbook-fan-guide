@@ -8,15 +8,15 @@ description: One page summary of the guidebook
 
 Using fans alone or in coordination with HVAC systems to cool people offers several significant enhancements compared to conventional HVAC systems, including improved thermal comfort, indoor air quality, air distribution, energy savings, and initial cost savings.
 
-Despite the numerous benefits of fans and fan-integrated systems, comprehensive resources are unavailable to guide engineers and architects in designing and implementing such systems. The purpose of this guideline is to address this gap and provide building practitioners with valuable materials and answers to common questions.
+Despite the numerous benefits of fans and fan-integrated systems, comprehensive resources are unavailable to guide engineers and architects in designing and implementing such systems. The purpose of this guideline is to address this gap and provide practitioners with valuable materials and answers to common questions.
 
 ## What are the available fan options?
 
-Various fan types are available in the market, such as ceiling fans, desk fans, and pedestal fans. This guideline provides a comprehensive overview of the criteria for fan type selection. These criteria cover blade characteristics, fan size, airflow patterns, fan performance metrics, motors and drives, power and efficiency, and control strategies. Ceiling fans are generally preferred due to their efficiency and effectiveness. However, this guideline can assist users in selecting suitable fan types based on individual building characteristics and specific application needs.
+Various fan types are available in the market, such as ceiling fans, desk fans, and pedestal fans. This guideline provides a comprehensive overview of the criteria for fan type selection. These criteria cover blade characteristics, fan size, airflow patterns, fan performance metrics, motors and drives, power and efficiency, and control strategies. Ceiling fans are generally preferred are a permanently installed fixture in the space, and their improved efficiency and effectiveness compared to other fan types. However, this guideline can assist users in selecting suitable fan types based on individual building characteristics and specific application needs.
 
 ## How to integrate fans with my existing AC system?
 
-Adequate fan choice mainly depends on design intents, space characteristics, and HVAC operation strategies. This guidebook discusses which HVAC systems can be integrated with fans. With well-defined design intents, the guidebook provides a step-by-step process for determining the number and size of fans and their layout, ensuring proper fan installation, and integrating the fans with the control of the HVAC system.
+Adequate fan choice mainly depends on design intents, space characteristics, and HVAC operation strategies. This guidebook discusses which HVAC systems can be integrated with fans. With well-defined design intent, the guidebook provides a step-by-step process for determining the number and size of fans and their layout, ensuring proper fan installation, and integrating the fans with the control of the HVAC system.
 
 ## How do we implement and operate fans-integrated systems?
 

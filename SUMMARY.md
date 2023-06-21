@@ -4,7 +4,7 @@
 
 ## Practitioner Summary
 
-* [Introduction](practitioner-summary/introduction.md)
+* [Benefits of using fans](practitioner-summary/benefits-of-using-fans.md)
 * [Elevated air speed and thermal comfort](practitioner-summary/elevated-air-speed-and-thermal-comfort.md)
 * [Fan options and key characteristics](practitioner-summary/fan-options-and-key-characteristics.md)
 * [Design goals and fan selection](practitioner-summary/design-goals-and-fan-selection.md)
