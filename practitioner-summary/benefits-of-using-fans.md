@@ -1,5 +1,5 @@
 ---
-description: Which are the benefits of using fans?
+description: Do you still hold the view that fans are outdated in the building industry?
 ---
 
 # Benefits of using fans

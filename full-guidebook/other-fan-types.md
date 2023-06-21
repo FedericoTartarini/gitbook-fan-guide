@@ -18,19 +18,19 @@ Pedestal fans, also known as standing fans, are quite similar to desk fans but w
 
 Another common type of fan used on the floor is the tower fan. Unlike axial fans (draw and deliver air along the fan axis), a tower fan is a crossflow variety (draw and deliver air perpendicular to the impeller fan axis). A crossflow fan pulls air from the inlet into a cylindrical impeller vane housed inside the tall and slim fan structure by setting up a cylindrical vortex of spinning air. The vortex then swings the air to the opposite side of the impeller blades and pushes the air out alongside the rectification plate (i.e., the outlet duct). The enclosed impeller blade design maximizes safety for residential usage, especially with kids and pets around. The tower-like structure is fixed on a base and rotates horizontally to extend the air movement sweeping area. The tower fans are compact and lightweight and fit well for any indoor space, serving personal cooling and air circulation. The airflow produced by the tower fan is usually laminar and uniform along the tower. Figure 21e shows an example of a tower fan.
 
-![Figure 21. Examples of other air movement devices: (a) desk fan, (b) clip-on fan, (c) bladeless fan, (d) pedestal fan, and (e) tower fan.](<../.gitbook/assets/0 (9).png>)
+![Figure 21. Examples of other air movement devices: (a) desk fan, (b) clip-on fan, (c) bladeless fan, (d) pedestal fan, and (e) tower fan.](<../.gitbook/assets/0 (16).png>)
 
 ### Wall-mounted fans <a href="#_toc137734969" id="_toc137734969"></a>
 
 A wall-mounted fan is a pedestal fan without a base mounted on the wall. Sometimes these fans may also mount to the ceiling. Yet, different from conventional ceiling fans, these “ceiling mounted” fans can oscillate at 180 °. It is a good choice to provide a breeze over the human body and enhance room air circulation when the space and floor-to-ceiling height are limited. Figure 22 shows some examples of wall-mounted fans.
 
-![Figure 22. Examples of wall mounted fans.](<../.gitbook/assets/1 (10).png>)
+![Figure 22. Examples of wall mounted fans.](<../.gitbook/assets/1 (13).png>)
 
 ### Bladeless ceiling fan <a href="#_ref127806698" id="_ref127806698"></a>
 
 A bladeless ceiling fan operates as a centrifugal fan, unlike the conventional ceiling fan which uses an axial fan. In theory, a bladeless ceiling fan is not bladeless but a special design with many small blades installed at the fan’s circumference structure. The fan rotates the entire design structure, which draws air under the fan and hurls it out at the side from 360 °. These fans are intended to enhance air movement and air circulation within a small space, such as a living room or bedroom. Figure 23 demonstrates some examples of bladeless ceiling fans. They are less common than other fan types. The installation requirement is similar to a ceiling fan with blades, but the bladeless ceiling fans do not require a minimum mounting height to prevent “air choking”, which means they are suitable to be installed in a space with low floor-to-ceiling height.
 
-![Figure 23. Examples of bladeless ceiling fans.](<../.gitbook/assets/2 (2).jpeg>)
+![Figure 23. Examples of bladeless ceiling fans.](<../.gitbook/assets/2 (3).jpeg>)
 
 ### Air circulator <a href="#_toc137734971" id="_toc137734971"></a>
 
@@ -82,7 +82,7 @@ $$
 
 Due to different designs and usage, the performance of cooling fans (e.g., ceiling fan, desk fan, tower fan) with regards to their cooling effect and cooling efficiency can be varied. Figure 25 demonstrates the test results on some ceiling fans, desk fans, tower fans, and standing fans to depict their relationship between CFE and fan power. The desk fan tested in this study consumed the least power (16 – 20 W) and obtained the highest cooling fan efficiency (0.095-0.177 °C/W \[0.17-0.31 °F/W]). The results are interpreted upon normal condition usage of fans, meaning that the desk fan is smaller in size (i.e., smaller motor) and the fan operation distance is closer to the human subject (maximize cooling effect) when compared with other fan types. Indeed, desk fans are designed to provide local cooling by generating airflow towards the human body instead of circulating air for the entire space (like the other fans do). Eventually, the intent of fan usage (local cooling vs. air circulation) should have been taken into consideration when quantifying the fan effectiveness. While the efficiency of the fan itself is somewhat important, any fan’s electricity consumption (even not the most efficient type) is always relatively low when compared to using just air-conditioning to provide thermally comfortable conditions to humans. More details are discussed in the section “Potential savings” in this guide.
 
-![Figure 25. CFE index versus fan power for the ceiling fan (CF), desk fan (DF) standing fan (SF) and tower fan (TF). Lines with constant whole-body cooling effect (∆teq) are plotted.](<../.gitbook/assets/5 (4).png>)
+![Figure 25. CFE index versus fan power for the ceiling fan (CF), desk fan (DF) standing fan (SF) and tower fan (TF). Lines with constant whole-body cooling effect (∆teq) are plotted.](<../.gitbook/assets/5 (8).png>)
 
 ### Motor and drive <a href="#_toc137734976" id="_toc137734976"></a>
 
@@ -100,7 +100,7 @@ Direct cooling towards human body: When choosing an air movement device, custome
 
 
 
-![Figure 27. Illustration of airflow patterns for (a) desk fan, (b) pedestal fan, (c) tower fan, and (d) wall-mounted fan.](../.gitbook/assets/7.png)
+![Figure 27. Illustration of airflow patterns for (a) desk fan, (b) pedestal fan, (c) tower fan, and (d) wall-mounted fan.](<../.gitbook/assets/7 (1).png>)
 
 Room air circulation: An air movement device that aims to circulate the air within a room is either bigger in size (i.e., ceiling fan, bladeless ceiling fan) or able to generate high airflow jet with high speed (i.e., air circulator) to drive the air movement.
 
@@ -122,7 +122,7 @@ Most of the fan types listed in Table 2 can oscillate horizontally in a range of
 
 Some fans are equipped with technologies that enable them with special features. Some tower fans and bladeless fans are equipped with multiple filters, contributing to air purification. Particulate matter and sometimes gases in the air can be filtered out and cleaner air will be circulated within the space. Different types of filters can remove various kinds of contaminant. Some special fan models are installed with UV-C (i.e., germicidal UV) light inside the fan framework to disinfect the air during circulation process. UV-C is effective at deactivating viruses, bacteria, mold, and fungus. Some fan models can emit water mist that moves along with the air stream to reduce its temperature thanks to the adiabatic cooling (evaporative cooling) process. Figure 30 presents an example of a pedestal fan with evaporative cooling function.
 
-![Figure 30. Pedestal fan with evaporative cooling.](<../.gitbook/assets/10 (2).jpeg>)
+![Figure 30. Pedestal fan with evaporative cooling.](../.gitbook/assets/10.jpeg)
 
 ## Controls <a href="#_toc137734980" id="_toc137734980"></a>
 
@@ -130,4 +130,4 @@ Compared with ceiling fan, other fan types listed in Table 2 are mostly portable
 
 Control panel on fan body: Most portable fans are equipped with a control panel on the fan body (See Figure 31a). It shows a simple On / Off plus fan speed control button, and a rotary switch connected with the watch spring to provide basic timer control (i.e., after how long the fan will be switched off automatically). Wireless IR remote control: Many modern fan types can be wirelessly controlled by an IR remote. Figure 31b shows an example of the remote control. Basically, it can adjust the on / off switch, fan speeds, vertical or horizontal oscillation, and set timer. Some remote controls may even be able to control other special functions if the corresponding fan has corresponding features, such as lighting switch. Wi-Fi or Bluetooth control via phone App or Internet: Wireless control via phone App or internet is very similar to the IR remote control approach but uses a smart phone instead of a remote control. Figure 31c presents an example of Wi-Fi connection via smart phone.
 
-![Figure 31. Manual fan control method. (a) Control panel on fan body, (b) IR wireless remote control, (c) Wi-Fi control via smart phone.](<../.gitbook/assets/11 (7).png>)
+![Figure 31. Manual fan control method. (a) Control panel on fan body, (b) IR wireless remote control, (c) Wi-Fi control via smart phone.](<../.gitbook/assets/11 (1).png>)
