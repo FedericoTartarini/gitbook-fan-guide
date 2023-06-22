@@ -24,19 +24,19 @@ Pedestal fans, also known as standing fans, are quite similar to desk fans but w
 
 Another common type of fan used on the floor is the tower fan. Unlike axial fans (draw and deliver air along the fan axis), a tower fan is a crossflow variety (draw and deliver air perpendicular to the impeller fan axis). A crossflow fan pulls air from the inlet into a cylindrical impeller vane housed inside the tall and slim fan structure by setting up a cylindrical vortex of spinning air. The vortex then swings the air to the opposite side of the impeller blades and pushes the air out alongside the rectification plate (i.e., the outlet duct). The enclosed impeller blade design maximizes safety for residential usage, especially with kids and pets around. The tower-like structure is fixed on a base and rotates horizontally to extend the air movement sweeping area. The tower fans are compact and lightweight and fit well for any indoor space, serving personal cooling and air circulation. The airflow produced by the tower fan is usually laminar and uniform along the tower. Figure 21e shows an example of a tower fan.
 
-![Figure 21. Examples of other air movement devices: (a) desk fan, (b) clip-on fan, (c) bladeless fan, (d) pedestal fan, and (e) tower fan.](<../.gitbook/assets/0 (8).png>)
+![Figure 21. Examples of other air movement devices: (a) desk fan, (b) clip-on fan, (c) bladeless fan, (d) pedestal fan, and (e) tower fan.](../.gitbook/assets/0.png)
 
 ### Wall-mounted fans <a href="#_toc137734969" id="_toc137734969"></a>
 
 A wall-mounted fan is a pedestal fan without a base mounted on the wall. Sometimes these fans may also mount to the ceiling. Yet, different from conventional ceiling fans, these “ceiling mounted” fans can oscillate at 180 °. It is a good choice to provide a breeze over the human body and enhance room air circulation when the space and floor-to-ceiling height are limited. Figure 22 shows some examples of wall-mounted fans.
 
-![Figure 22. Examples of wall mounted fans.](<../.gitbook/assets/1 (6).png>)
+![Figure 22. Examples of wall mounted fans.](<../.gitbook/assets/1 (12).png>)
 
 ### Bladeless ceiling fan <a href="#_ref127806698" id="_ref127806698"></a>
 
 A bladeless ceiling fan operates as a centrifugal fan, unlike the conventional ceiling fan which uses an axial fan. In theory, a bladeless ceiling fan is not bladeless but a special design with many small blades installed at the fan’s circumference structure. The fan rotates the entire design structure, which draws air under the fan and hurls it out at the side from 360 °. These fans are intended to enhance air movement and air circulation within a small space, such as a living room or bedroom. Figure 23 demonstrates some examples of bladeless ceiling fans. They are less common than other fan types. The installation requirement is similar to a ceiling fan with blades, but the bladeless ceiling fans do not require a minimum mounting height to prevent “air choking”, which means they are suitable to be installed in a space with low floor-to-ceiling height.
 
-![Figure 23. Examples of bladeless ceiling fans.](<../.gitbook/assets/2 (1).jpeg>)
+![Figure 23. Examples of bladeless ceiling fans.](<../.gitbook/assets/2 (2).jpeg>)
 
 ### Air circulator <a href="#_toc137734971" id="_toc137734971"></a>
 
@@ -88,7 +88,7 @@ $$
 
 Due to different designs and usage, the performance of cooling fans (e.g., ceiling fan, desk fan, tower fan) with regards to their cooling effect and cooling efficiency can be varied. Figure 25 demonstrates the test results on some ceiling fans, desk fans, tower fans, and standing fans to depict their relationship between CFE and fan power. The desk fan tested in this study consumed the least power (16 – 20 W) and obtained the highest cooling fan efficiency (0.095-0.177 °C/W \[0.17-0.31 °F/W]). The results are interpreted upon normal condition usage of fans, meaning that the desk fan is smaller in size (i.e., smaller motor) and the fan operation distance is closer to the human subject (maximize cooling effect) when compared with other fan types. Indeed, desk fans are designed to provide local cooling by generating airflow towards the human body instead of circulating air for the entire space (like the other fans do). Eventually, the intent of fan usage (local cooling vs. air circulation) should have been taken into consideration when quantifying the fan effectiveness. While the efficiency of the fan itself is somewhat important, any fan’s electricity consumption (even not the most efficient type) is always relatively low when compared to using just air-conditioning to provide thermally comfortable conditions to humans. More details are discussed in the section “Potential savings” in this guide.
 
-![Figure 25. CFE index versus fan power for the ceiling fan (CF), desk fan (DF) standing fan (SF) and tower fan (TF). Lines with constant whole-body cooling effect (∆teq) are plotted.](<../.gitbook/assets/5 (3).png>)
+![Figure 25. CFE index versus fan power for the ceiling fan (CF), desk fan (DF) standing fan (SF) and tower fan (TF). Lines with constant whole-body cooling effect (∆teq) are plotted.](<../.gitbook/assets/5 (5).png>)
 
 ### Motor and drive <a href="#_toc137734976" id="_toc137734976"></a>
 
@@ -106,7 +106,7 @@ Direct cooling towards human body: When choosing an air movement device, custome
 
 
 
-![Figure 27. Illustration of airflow patterns for (a) desk fan, (b) pedestal fan, (c) tower fan, and (d) wall-mounted fan.](../.gitbook/assets/7.png)
+![Figure 27. Illustration of airflow patterns for (a) desk fan, (b) pedestal fan, (c) tower fan, and (d) wall-mounted fan.](<../.gitbook/assets/7 (4).png>)
 
 Room air circulation: An air movement device that aims to circulate the air within a room is either bigger in size (i.e., ceiling fan, bladeless ceiling fan) or able to generate high airflow jet with high speed (i.e., air circulator) to drive the air movement.
 
@@ -116,7 +116,7 @@ The airflow pattern of bladeless ceiling fan is quite similar to a reversely ope
 
 An air circulator intends to produce a high-speed strong air jet to move air from one side of the room to the other. Figure 29 presents a schematic representation of the airflow pattern for an air circulator in an enclosed room. Similarly, this strategy aims to move the air to increase the average air speed and to enhance air mixing in space. Thus, the air circulation effectiveness also works better in small to medium size rooms. Different from the bladeless ceiling fan approach, however, air jet from the air circulator is freely adjustable within the occupied zone. Basically, the air circulator can reduce the fan speed, temporally act as a desk fan, or pedestal fan blowing air directly towards human body for immediate cooling. In addition, to enhance long distance air movement, some air circulator’s fan blades are modified to a propeller (or turbine) type. Instead of moving air parallel to the fan axial, it drives the air in form of a vortex which propagates along the fan axial. This feature helps to centralize the airflow across longer distance and to drag surrounding air towards the propagation of air stream to maximize the airflow rate. The air movement distance from an air circulator is much longer when compared with normal desk or pedestal fan with a flat blade.
 
-![Figure 29. Schematic of airflow pattern driven by air circulator.](<../.gitbook/assets/9 (8).png>)
+![Figure 29. Schematic of airflow pattern driven by air circulator.](<../.gitbook/assets/9 (9).png>)
 
 ### Flexibility <a href="#_toc137734978" id="_toc137734978"></a>
 

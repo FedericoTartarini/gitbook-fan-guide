@@ -8,17 +8,17 @@ description: >-
 
 ## Coastal Biology Building
 
-![](<../.gitbook/assets/0 (27).png>)
+![](<../.gitbook/assets/0 (25).png>)
 
 
 
-![](<../.gitbook/assets/1 (14).png>)
+![](<../.gitbook/assets/1 (6).png>)
 
 
 
 ## The Bullitt Center
 
-![](<../.gitbook/assets/2 (12).png>)
+![](<../.gitbook/assets/2 (11).png>)
 
 
 

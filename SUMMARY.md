@@ -17,7 +17,6 @@
 
 * [Benefits of using fans](full-guidebook/benefits-of-using-fans.md)
 * [Elevated air speed and thermal comfort](full-guidebook/elevated-air-speed-and-thermal-comfort.md)
-* [Human response to fans](full-guidebook/human-response-to-fans.md)
 * [Ceiling fans](full-guidebook/ceiling-fans.md)
 * [Other fan types](full-guidebook/other-fan-types.md)
 * [Design goals and fan selection](full-guidebook/design-goals-and-fan-selection.md)
