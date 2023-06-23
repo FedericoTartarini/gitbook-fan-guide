@@ -26,7 +26,7 @@ The CBE Ceiling Fan Design Tool takes into account many of the design factors di
 
 
 
-![Figure 60. Example cell plan from CBE Ceiling Fan Design Tool.](<../.gitbook/assets/3 (8) (1).png>)
+![Figure 60. Example cell plan from CBE Ceiling Fan Design Tool.](<../.gitbook/assets/3 (8).png>)
 
 ![Figure 61. Example cell section from CBE Ceiling Fan Design Tool.](<../.gitbook/assets/4 (8).png>)
 
