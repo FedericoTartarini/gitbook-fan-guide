@@ -26,7 +26,7 @@ Table S1. Tested buildings and ceiling fans information.
 
 The height averaged air speed superimposed on floor plans with the ceiling fan layout and furniture in the 4 buildings (see Figure S1). In general, higher air speeds were found under or near the downward operating ceiling fan and decreased proportionally to the distance from the fans. Potential factors that vary the air speed are fan diameter, number of fans in operation, distance from ceiling fan centers, fan rotational speed, and fan operation direction.
 
-![Figure S1. Floor plan and air speed distribution in the 4 tested buildings. The magnitude of air speed at each site is averaged by heights.](<../.gitbook/assets/1 (2).png>)
+![Figure S1. Floor plan and air speed distribution in the 4 tested buildings. The magnitude of air speed at each site is averaged by heights.](<../.gitbook/assets/1 (2) (1).png>)
 
 ### Flow direction, rotational speed, and fan number <a href="#_heading-h.1nia2ey" id="_heading-h.1nia2ey"></a>
 
