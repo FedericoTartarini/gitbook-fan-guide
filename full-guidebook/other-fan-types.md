@@ -30,7 +30,7 @@ Another common type of fan used on the floor is the tower fan. Unlike axial fans
 
 A wall-mounted fan is a pedestal fan without a base mounted on the wall. Sometimes these fans may also mount to the ceiling. Yet, different from conventional ceiling fans, these “ceiling mounted” fans can oscillate at 180 °. It is a good choice to provide a breeze over the human body and enhance room air circulation when the space and floor-to-ceiling height are limited. Figure 22 shows some examples of wall-mounted fans.
 
-![Figure 22. Examples of wall mounted fans.](<../.gitbook/assets/1 (11).png>)
+![Figure 22. Examples of wall mounted fans.](<../.gitbook/assets/1 (11) (1).png>)
 
 ### Bladeless ceiling fan <a href="#_ref127806698" id="_ref127806698"></a>
 
@@ -106,7 +106,7 @@ Direct cooling towards human body: When choosing an air movement device, custome
 
 
 
-![Figure 27. Illustration of airflow patterns for (a) desk fan, (b) pedestal fan, (c) tower fan, and (d) wall-mounted fan.](<../.gitbook/assets/7 (2).png>)
+![Figure 27. Illustration of airflow patterns for (a) desk fan, (b) pedestal fan, (c) tower fan, and (d) wall-mounted fan.](<../.gitbook/assets/7 (2) (1).png>)
 
 Room air circulation: An air movement device that aims to circulate the air within a room is either bigger in size (i.e., ceiling fan, bladeless ceiling fan) or able to generate high airflow jet with high speed (i.e., air circulator) to drive the air movement.
 
