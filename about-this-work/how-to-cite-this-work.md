@@ -1,5 +1,5 @@
 ---
-description: This guidebook is free and we benefits from you citing it if you used it.
+description: We benefit from you citing this free guidebook if you use it
 ---
 
 # How to cite this work
