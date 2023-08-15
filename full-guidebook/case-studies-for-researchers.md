@@ -149,7 +149,7 @@ In commercial buildings, the design tip is to ensure air conditioning cooling se
 
 This is a detailed study on cooperating ceiling fans, desk fans, and air conditioning systems in the Zero Energy Building (ZEB) Plus office at the Building and Construction Authority (BCA) in Singapore for thermal satisfaction improvement and cooling energy reduction (see Figure S13). The BCA ZEB Plus is a Green Mark Platinum certified office building renovated in 2019. It is a living laboratory demonstration of an energy-efficient building design and technology solutions in the tropics.
 
-<figure><img src="../.gitbook/assets/outlook and internal design anb.jpg" alt=""><figcaption><p>Figure S13. Outlook and internal design (integrating HVAC system with ceiling fans and desk fans) for BCA ZEB Plus. Credit to BCA for the picture on the right.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/outlook and internal design anb.jpg" alt=""><figcaption><p>Figure S13. Outlook and internal design (integrating HVAC system with ceiling fans and desk fans) for BCA ZEB Plus. Photo credit:   Building and Construction Authority, Singapore (BCA).</p></figcaption></figure>
 
 ### Study methods <a href="#_toc137735057" id="_toc137735057"></a>
 
