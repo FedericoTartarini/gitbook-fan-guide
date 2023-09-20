@@ -32,5 +32,5 @@
 ## About this work
 
 * [Acknowledgment](about-this-work/acknowledgment.md)
-* [Version](about-this-work/version.md)
+* [Version and copyright](about-this-work/version-and-copyright.md)
 * [How to cite this work](about-this-work/how-to-cite-this-work.md)
