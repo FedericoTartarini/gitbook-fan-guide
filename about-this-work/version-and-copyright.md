@@ -8,7 +8,11 @@ description: >-
 
 ## Copyright
 
-[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) (Attribution-NonCommercial-NoDerivatives 4.0 International): You are free to share — copy and redistribute the material in any medium or format. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not use the material for commercial purposes. If you remix, transform, or build upon the material, you may not distribute the modified material.
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (Attribution-NonCommercial-ShareAlike 4.0 International): You are free to share — copy and redistribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. You must give appropriate credit, provide a link to the guidebook, and indicate if changes were made. You may do so reasonably, but not in any way that suggests the licensor endorses you or your use. You may not use the material for commercial purposes.&#x20;
+
+## Version 1.0.1 (2024-07-05)
+
+Updated the copyright to CC BY-NC-SA-4.0 to be allowed to use in standards.
 
 ## Version 1.0.0 (2023-10-23)
 
